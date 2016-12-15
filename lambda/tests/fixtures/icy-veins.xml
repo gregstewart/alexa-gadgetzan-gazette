@@ -1,0 +1,4181 @@
+<?xml version="1.0"?>
+<rss version="2.0"><channel><title>News Latest Topics</title><link>http://www.icy-veins.com/forums/forum/9-news/</link><description>News Latest Topics</description><language>en</language><item><title>Patch 7.1.5 Build 23244: Class Changes</title><link>http://www.icy-veins.com/forums/topic/26848-patch-715-build-23244-class-changes/</link><description><![CDATA[
+<p style="text-align:center;">
+	<img alt="cGfCz7n.jpg" data-icy-veins="news_image" data-ipb="nomediaparse" src="http://www.icy-veins.com/forums/news/26843-patch-715-build-23244-class-changes.jpg"></p>
+
+<p data-icy-veins="news_description">
+	Class changes related to the latest build of Patch 7.1.5.
+</p>
+
+<p>
+	Not all class changes can be viewed via datamining. In order to make up for various nerfs, sometimes, Blizzard decides to buff a an entire specialization. This is done via Auras and specialization auras will increase the damage output of <u>several abilities at once</u> which makes tuning easier. For example in the latest Build 23244, some Legendary items have been nerfed and we've also got some class changes. To make up for all that, some specializations have seen a flat % increase to all damage/healing done.
+</p>
+
+<p>
+	<span style="font-size:16px;"><strong>Spec Aura Updates</strong></span>
+</p>
+
+<ul>
+<li>
+		<span class="spell_icon_span"><img alt="Unholy Death Knight" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/ability_mage_firestarter.jpg"><a class="spell" href="http://ptr.wowdb.com/spells/137007#23194-23244" rel="external nofollow">Unholy Death Knight</a> </span>- Damage/Healing Done increased by 3%.
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Vengeance Demon Hunter" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/ability_demonhunter_spectank.jpg"><a class="spell" href="http://ptr.wowdb.com/spells/212613#23194-23244" rel="external nofollow">Vengeance Demon Hunter</a></span>-  Damage/Healing Done increased by 4%.
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Feral Druid" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/ability_mage_firestarter.jpg"><a class="spell" href="http://ptr.wowdb.com/spells/137011#23194-23244" rel="external nofollow">Feral Druid</a> </span>- Damage/Healing Done increased by 4%.
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Guardian Druid" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/ability_mage_firestarter.jpg"><a class="spell" href="http://ptr.wowdb.com/spells/137010#23194-23244" rel="external nofollow">Guardian Druid</a> </span>- Damage/Healing Done increased by 4%.
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Beast Mastery Hunter" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/ability_mage_firestarter.jpg"><a class="spell" href="http://ptr.wowdb.com/spells/137015#23194-23244" rel="external nofollow">Beast Mastery Hunter</a> </span>- Damage/Healing Done increased by 4%.
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Survival Hunter" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/ability_mage_firestarter.jpg"><a class="spell" href="http://ptr.wowdb.com/spells/137017#23194-23244" rel="external nofollow">Survival Hunter</a> </span>- Damage/Healing Done increased by 7%.
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Brewmaster Monk" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/ability_mage_firestarter.jpg"><a class="spell" href="http://ptr.wowdb.com/spells/137023#23194-23244" rel="external nofollow">Brewmaster Monk</a> </span>- Damage/Healing Done increased by 4%.
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Windwalker Monk" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/ability_mage_firestarter.jpg"><a class="spell" href="http://ptr.wowdb.com/spells/137025#23194-23244" rel="external nofollow">Windwalker Monk</a> </span>- Damage/Healing Done increased by 4%.
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Retribution Paladin" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/ability_mage_firestarter.jpg"><a class="spell" href="http://ptr.wowdb.com/spells/137027#23194-23244" rel="external nofollow">Retribution Paladin</a> </span>- Damage/Healing Done increased by 12%.
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Outlaw Rogue" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/ability_mage_firestarter.jpg"><a class="spell" href="http://ptr.wowdb.com/spells/137036#23194-23244" rel="external nofollow">Outlaw Rogue</a> </span>- Damage/Healing Done increased by 7%.
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Subtlety Rogue" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/ability_mage_firestarter.jpg"><a class="spell" href="http://ptr.wowdb.com/spells/137035#23194-23244" rel="external nofollow">Subtlety Rogue</a> - </span>Damage/Healing Done increased by 12%.
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Destruction Warlock" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/ability_mage_firestarter.jpg"><a class="spell" href="http://ptr.wowdb.com/spells/137046#23194-23244" rel="external nofollow">Destruction Warlock</a> </span>- Damage/Healing Done increased by 4%.
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Fury Warrior" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/ability_mage_firestarter.jpg"><a class="spell" href="http://ptr.wowdb.com/spells/137050#23194-23244" rel="external nofollow">Fury Warrior</a> </span>- Damage/Healing Done increased by 5%.
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Arms Warrior" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/ability_mage_firestarter.jpg"><a class="spell" href="http://ptr.wowdb.com/spells/137049#23194-23244" rel="external nofollow">Arms Warrior</a> </span>- Damage/Healing Done increased by 5%.
+	</li>
+</ul>
+<p>
+	(<a href="http://www.wowhead.com/news=258410/7-1-5-ptr-build-23244-spell-and-legendary-updates" rel="external nofollow">Source</a>)
+</p>
+
+<p>
+	<span style="font-size:16px;"><strong>Tier 19 Set Bonus Changes</strong></span>
+</p>
+
+<ul>
+<li>
+		<span class="spell_icon_span"><img alt="Item - Priest T19 Discipline 2P Bonus" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/trade_engineering.jpg"><a class="spell" href="http://ptr.wowdb.com/spells/211556#23194-23244" rel="external nofollow">Item - Priest T19 Discipline 2P Bonus</a> - down from 40%.</span>
+	</li>
+</ul>
+<p>
+	<strong style="font-size: 16px;">Class Changes</strong>
+</p>
+
+<p>
+	This section contains ability and talent changes sorted by class.
+</p>
+
+<p>
+	DEATH KNIGHT
+</p>
+
+<p>
+	The latest UH DK updates were discussed in a <a href="http://www.icy-veins.com/forums/topic/26796-illidans-story-update-uh-death-knight-changes/" rel="">blue post from yesterday</a>.
+</p>
+
+<ul>
+<li>
+		<span class="spell_icon_span"><img alt="Apocalypse" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/artifactability_unholydeathknight_deathsembrace.jpg"><a class="spell" href="http://ptr.wowdb.com/spells/220143#23194-23244" rel="external nofollow">Apocalypse</a></span>
+	</li>
+</ul>
+<p>
+	HUNTER
+</p>
+
+<ul>
+<li>
+		<span class="spell_icon_span"><img alt="Arcane Shot" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/ability_impalingbolt.jpg"><a class="spell" href="http://ptr.wowdb.com/spells/185358#23194-23244" rel="external nofollow">Arcane Shot</a> - up from 150% of weapon damage.</span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Marked Shot" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/ability_hunter_markedshot.jpg"><a class="spell" href="http://ptr.wowdb.com/spells/212621#23194-23244" rel="external nofollow">Marked Shot</a></span>
+	</li>
+</ul>
+<p>
+	Talent Changes
+</p>
+
+<ul>
+<li>
+		<span class="spell_icon_span"><img alt="Black Arrow" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/spell_shadow_painspike.jpg"><a class="spell" href="http://ptr.wowdb.com/spells/194599#23194-23244" rel="external nofollow">Black Arrow</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><span class="spell_icon_span"><img alt="Multi-Shot" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/ability_upgrademoonglaive.jpg"><a class="spell" href="http://ptr.wowdb.com/spells/2643#23194-23244" rel="external nofollow">Multi-Shot</a></span> - </span>up from 75% of weapon damage
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Serpent Sting" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/ability_hunter_serpentswiftness.jpg"><a class="spell" href="http://ptr.wowdb.com/spells/87935#23194-23244" rel="external nofollow">Serpent Sting</a> - up from 115% AP.</span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="True Aim" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/spell_hunter_focusingshot.jpg"><a class="spell" href="http://ptr.wowdb.com/spells/199527#23194-23244" rel="external nofollow">True Aim</a></span>
+	</li>
+</ul>
+<p>
+	<span class="spell_icon_span">MAGE</span>
+</p>
+
+<ul>
+<li>
+		<span class="spell_icon_span"><span class="spell_icon_span"><img alt="Frostbolt" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/spell_frost_frostbolt02.jpg"><a class="spell" href="http://ptr.wowdb.com/spells/116#23194-23244" rel="external nofollow">Frostbolt</a></span></span> - down from +195% of Spell Power.
+	</li>
+</ul>
+<p>
+	<span class="spell_icon_span">PALADIN</span>
+</p>
+
+<ul>
+<li>
+		<span class="spell_icon_span"><span class="spell_icon_span"><img alt="Greater Blessing of Kings" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/spell_magic_greaterblessingofkings.jpg"><a class="spell" href="http://ptr.wowdb.com/spells/203538#23194-23244" rel="external nofollow">Greater Blessing of Kings</a></span></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><span class="spell_icon_span"><img alt="Greater Blessing of Wisdom" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/spell_holy_greaterblessingofwisdom.jpg"><a class="spell" href="http://ptr.wowdb.com/spells/203539#23194-23244" rel="external nofollow">Greater Blessing of Wisdom</a></span></span>
+	</li>
+</ul>
+<p>
+	<span class="spell_icon_span">PRIEST</span>
+</p>
+
+<p>
+	<span class="spell_icon_span">Talent Changes</span>
+</p>
+
+<ul>
+<li>
+		<span class="spell_icon_span"><img alt="Legacy of the Void" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_enchant_voidcrystal.jpg"><a class="spell" href="http://ptr.wowdb.com/spells/193225#23194-23244" rel="external nofollow">Legacy of the Void</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Misery" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/ability_rogue_envelopingshadows.jpg"><a class="spell" href="http://ptr.wowdb.com/spells/238558#23194-23244" rel="external nofollow">Misery</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Shadow Crash" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/spell_shadow_shadowfury.jpg"><a class="spell" href="http://ptr.wowdb.com/spells/205385#23194-23244" rel="external nofollow">Shadow Crash</a></span>
+	</li>
+</ul>
+<p>
+	<span class="spell_icon_span">SHAMAN</span>
+</p>
+
+<ul>
+<li>
+		<span class="spell_icon_span"><span class="spell_icon_span"><img alt="Boulderfist" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/ability_earthenfury_giftofearth.jpg"><a class="spell" href="http://ptr.wowdb.com/spells/201897#23194-23244" rel="external nofollow">Boulderfist</a></span></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><span class="spell_icon_span"><img alt="Rockbiter" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/spell_nature_rockbiter.jpg"><a class="spell" href="http://ptr.wowdb.com/spells/193786#23194-23244" rel="external nofollow">Rockbiter</a></span></span> - up from 15 Maelstrom generated.
+	</li>
+</ul>
+<p>
+	<span class="spell_icon_span">PvP Talent Changes</span>
+</p>
+
+<ul>
+<li>
+		<span class="spell_icon_span"><span class="spell_icon_span"><img alt="Control of Lava" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/spell_shaman_lavaflow.jpg"><a class="spell" href="http://ptr.wowdb.com/spells/204393#23194-23244" rel="external nofollow">Control of Lava</a></span></span>
+	</li>
+</ul>
+<p>
+	<span class="spell_icon_span">WARLOCK</span>
+</p>
+
+<p>
+	<span class="spell_icon_span">Talent Changes</span>
+</p>
+
+<ul>
+<li>
+		<span class="spell_icon_span"><span class="spell_icon_span"><img alt="Shadowburn" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/spell_shadow_scourgebuild.jpg"><a class="spell" href="http://ptr.wowdb.com/spells/17877#23194-23244" rel="external nofollow">Shadowburn</a></span></span>
+	</li>
+</ul>
+<p>
+	<span class="spell_icon_span">WARRIOR</span>
+</p>
+
+<ul>
+<li>
+		<span class="spell_icon_span"><span class="spell_icon_span"><img alt="Revenge" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/ability_warrior_revenge.jpg"><a class="spell" href="http://ptr.wowdb.com/spells/6572#23194-23244" rel="external nofollow">Revenge</a></span></span> - down from +650% of Attack Power.
+	</li>
+</ul>
+<p>
+	Talent Changes
+</p>
+
+<ul>
+<li>
+		<span class="spell_icon_span"><img alt="Heavy Repercussions" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_shield_32.jpg"><a class="spell" href="http://ptr.wowdb.com/spells/203177#23194-23244" rel="external nofollow">Heavy Repercussions</a></span> - down from 1.5 secs.
+	</li>
+</ul>
+]]></description><guid isPermaLink="false">26848</guid><pubDate>Thu, 15 Dec 2016 13:54:09 +0000</pubDate></item><item><title>Facebook Live Q/A: Dec 15</title><link>http://www.icy-veins.com/forums/topic/26842-facebook-live-qa-dec-15/</link><description><![CDATA[
+<p style="text-align:center;">
+	<img alt="YH92Y6GA52Q31481666585211.jpg" data-icy-veins="news_image" data-ipb="nomediaparse" src="http://www.icy-veins.com/forums/news/26841-facebook-live-qa-dec-15.jpg"></p>
+
+<p data-icy-veins="news_description">
+	Diablo's getting a Q/A on Facebook Live today. Joe Senior Game Designer Joe Shely will be answering your questions.
+</p>
+
+<p>
+	You can submit questions either by using the forums or a tweet containing #D3QA.
+</p>
+
+<div class="blue_post">
+	<h2 class="blue_title">
+		<img alt="Blizzard Logo" src="http://static.icy-veins.com/images/common/blizzard_icon.png">Blizzard Entertainment
+	</h2>
+
+	<p>
+		Join us for our first-ever <a href="https://www.facebook.com/Diablo/videos/10154049878321641/" rel="external nofollow">Facebook Live</a> Q&amp;A Thursday, December 15! We’ll be joined by Senior Game Designer Joe Shely to answer a few of your Diablo questions.
+	</p>
+
+	<p>
+		Got a question for us? Submit any Diablo question by posting in <a href="https://us.battle.net/forums/en/d3/topic/20752615138#1" rel="external nofollow" target="_blank">this forum thread</a> or via Twitter using the hashtag #D3QA.
+	</p>
+
+	<div>
+		<p>
+			We’re hoping to answer as many questions as we can and can’t wait to see you Thursday at 4:00 p.m. PST. See you there!
+		</p>
+
+		<p>
+			(<a href="http://us.battle.net/d3/en/blog/20382988/diablo-facebook-live-qa-this-thursday-12-13-2016" rel="external nofollow">Source</a>)
+		</p>
+	</div>
+</div>
+
+<p>
+	After the Q/A comes to an end, we'll be bringing you a summary with its highlights.
+</p>
+]]></description><guid isPermaLink="false">26842</guid><pubDate>Thu, 15 Dec 2016 12:27:50 +0000</pubDate></item><item><title>Patch 7.1.5 Build 23244: Legendary Item Changes</title><link>http://www.icy-veins.com/forums/topic/26840-patch-715-build-23244-legendary-item-changes/</link><description><![CDATA[
+<p style="text-align:center;">
+	<img alt="qxxLyxP.jpg" data-icy-veins="news_image" data-ipb="nomediaparse" src="http://www.icy-veins.com/forums/news/26838-patch-715-build-23244-legendary-item-changes.jpg"></p>
+
+<p data-icy-veins="news_description">
+	Following the <a href="http://www.icy-veins.com/forums/topic/26784-substantial-legendary-changes-coming-to-ptr/" rel="">announcement of future changes to legendaries</a> on PTR, Build 23244 has arrived and many legendary items have been nerfed.
+</p>
+
+<p>
+	Blizzard decided to tune down certain legendaries, because they were best in all situations. What should matter is utility. Below is a list of Legendary items that have changed in <strong>Build 23244</strong>.
+</p>
+
+<p>
+	Shared
+</p>
+
+<ul>
+<li>
+		<span class="spell_icon_span"><img alt="Archimonde's Hatred Reborn" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/spell_nature_elementalshields.jpg"><a class="q5" href="http://ptr.wowdb.com/items/144249#23194-23244" rel="external nofollow">Archimonde's Hatred Reborn</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Cinidaria, the Symbiote" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_leather_raiddruid_m_01belt.jpg"><a class="q5" href="http://ptr.wowdb.com/items/133976#23194-23244" rel="external nofollow">Cinidaria, the Symbiote</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><span class="spell_icon_span"><img alt="Prydaz, Xavaric's Magnum Opus" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_misc_necklace15.jpg"><a class="q5" href="http://ptr.wowdb.com/items/132444#23194-23244" rel="external nofollow">Prydaz, Xavaric's Magnum Opus</a></span></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Velen's Future Sight" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/spell_holy_healingfocus.jpg"><a class="q5" href="http://ptr.wowdb.com/items/144258#23194-23244" rel="external nofollow">Velen's Future Sight</a></span>
+	</li>
+</ul>
+<p>
+	Death Knight
+</p>
+
+<ul>
+<li>
+		<span class="spell_icon_span"><img alt="The Instructor's Fourth Lesson" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_bracer_26b.jpg"><a class="q5" href="http://ptr.wowdb.com/items/132448#23194-23244" rel="external nofollow">The Instructor's Fourth Lesson</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Perseverance of the Ebon Martyr" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_helm_plate_raiddeathknight_k_01.jpg"><a class="q5" href="http://ptr.wowdb.com/items/132459#23194-23244" rel="external nofollow">Perseverance of the Ebon Martyr</a></span>
+	</li>
+</ul>
+<p>
+	Demon Hunter
+</p>
+
+<ul>
+<li>
+		<span class="spell_icon_span"><img alt="Anger of the Half-Giants" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_60pvp_ring1a.jpg"><a class="q5" href="http://ptr.wowdb.com/items/137038#23194-23244" rel="external nofollow">Anger of the Half-Giants</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Delusions of Grandeur" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_shoulder_51.jpg"><a class="q5" href="http://ptr.wowdb.com/items/144279#23194-23244" rel="external nofollow">Delusions of Grandeur</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Spirit of the Darkness Flame" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_glove_leather_legionendgame_c_01.jpg"><a class="q5" href="http://ptr.wowdb.com/items/144292#23194-23244" rel="external nofollow">Spirit of the Darkness Flame</a></span>
+	</li>
+</ul>
+<p>
+	Druid
+</p>
+
+<ul>
+<li>
+		<span class="spell_icon_span"><img alt="Oakheart's Puny Quods" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_helm_leather_raiddruid_m_01.jpg"><a class="q5" href="http://ptr.wowdb.com/items/144432#23194-23244" rel="external nofollow">Oakheart's Puny Quods</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="The Wildshaper's Clutch" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_leather_raiddruid_o_01glove.jpg"><a class="q5" href="http://ptr.wowdb.com/items/137094#23194-23244" rel="external nofollow">The Wildshaper's Clutch</a></span>
+	</li>
+</ul>
+<p>
+	Hunter
+</p>
+
+<ul>
+<li>
+		<span class="spell_icon_span"><img alt="Call of the Wild" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_bracer_36b.jpg"><a class="q5" href="http://ptr.wowdb.com/items/137101#23194-23244" rel="external nofollow">Call of the Wild</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="MKII Gyroscopic Stabilizer" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_glove_mail_raidshamanmythic_o_01.jpg"><a class="q5" href="http://ptr.wowdb.com/items/144303#23194-23244" rel="external nofollow">MKII Gyroscopic Stabilizer</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="The Apex Predator's Claw" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_jewelry_ring_100.jpg"><a class="q5" href="http://ptr.wowdb.com/items/137382#23194-23244" rel="external nofollow">The Apex Predator's Claw</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Ullr's Feather Snowshoes" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_boots_mail_08.jpg"><a class="q5" href="http://ptr.wowdb.com/items/137033#23194-23244" rel="external nofollow">Ullr's Feather Snowshoes</a></span>
+	</li>
+</ul>
+<p>
+	Mage
+</p>
+
+<ul>
+<li>
+		<span class="spell_icon_span"><img alt="Ice Time" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_shoulder_110.jpg"><a class="q5" href="http://ptr.wowdb.com/items/144260#23194-23244" rel="external nofollow">Ice Time</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Mystic Kilt of the Rune Master" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_kilt_cloth_02.jpg"><a class="q5" href="http://ptr.wowdb.com/items/132451#23194-23244" rel="external nofollow">Mystic Kilt of the Rune Master</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Rhonin's Assaulting Armwraps" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_bracer_cloth_pvpmage_c_02.jpg"><a class="q5" href="http://ptr.wowdb.com/items/132413#23194-23244" rel="external nofollow">Rhonin's Assaulting Armwraps</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Zann'esu Journey" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_belt_71.jpg"><a class="q5" href="http://ptr.wowdb.com/items/133970#23194-23244" rel="external nofollow">Zann'esu Journey</a></span>
+	</li>
+</ul>
+<p>
+	Monk
+</p>
+
+<ul>
+<li>
+		<span class="spell_icon_span"><img alt="Cenedril, Reflector of Hatred" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_cape_pandaria_b_02.jpg"><a class="q5" href="http://ptr.wowdb.com/items/137019#23194-23244" rel="external nofollow">Cenedril, Reflector of Hatred</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="The Emperor's Capacitor" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_chest_leather_raidrogue_l_01.jpg"><a class="q5" href="http://ptr.wowdb.com/items/144239#23194-23244" rel="external nofollow">The Emperor's Capacitor</a></span>
+	</li>
+</ul>
+<p>
+	Paladin
+</p>
+
+<ul>
+<li>
+		<span class="spell_icon_span"><img alt="Chain of Thrayn" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_belt_leather_firelandsdruid_d_01.jpg"><a class="q5" href="http://ptr.wowdb.com/items/137086#23194-23244" rel="external nofollow">Chain of Thrayn</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Liadrin's Fury Unleashed" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_jewelry_ring_61.jpg"><a class="q5" href="http://ptr.wowdb.com/items/137048#23194-23244" rel="external nofollow">Liadrin's Fury Unleashed</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Saruan's Resolve" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_plate_draenorcrafted_d_01helm.jpg"><a class="q5" href="http://ptr.wowdb.com/items/144275#23194-23244" rel="external nofollow">Saruan's Resolve</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Whisper of the Nathrezim" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_cape_pandaria_d_04.jpg"><a class="q5" href="http://ptr.wowdb.com/items/137020#23194-23244" rel="external nofollow">Whisper of the Nathrezim</a></span>
+	</li>
+</ul>
+<p>
+	Priest
+</p>
+
+<ul>
+<li>
+		<span class="spell_icon_span"><img alt="Kam Xi'raff" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_helmet_robe_raidpriest_j_01.jpg"><a class="q5" href="http://ptr.wowdb.com/items/144244#23194-23244" rel="external nofollow">Kam Xi'raff</a></span>
+	</li>
+</ul>
+<p>
+	Rogue
+</p>
+
+<ul>
+<li>
+		<span class="spell_icon_span"><img alt="Greenskin's Waterlogged Wristcuffs" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_bracer_leather_raidrogue_k_01.jpg"><a class="q5" href="http://ptr.wowdb.com/items/137099#23194-23244" rel="external nofollow">Greenskin's Waterlogged Wristcuffs</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Insignia of Ravenholdt" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_misc_epicring_a2.jpg"><a class="q5" href="http://ptr.wowdb.com/items/137049#23194-23244" rel="external nofollow">Insignia of Ravenholdt</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Shadow Satyr's Walk" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_boots_mail_dungeonmail_c_04.jpg"><a class="q5" href="http://ptr.wowdb.com/items/137032#23194-23244" rel="external nofollow">Shadow Satyr's Walk</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="The Dreadlord's Deceit" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_cape_pandaria_d_03.jpg"><a class="q5" href="http://ptr.wowdb.com/items/137021#23194-23244" rel="external nofollow">The Dreadlord's Deceit</a></span>
+	</li>
+</ul>
+<p>
+	Shaman
+</p>
+
+<ul>
+<li>
+		<span class="spell_icon_span"><img alt="Akainu's Absolute Justice" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_bracer_mail_pvphunter_c_02.jpg"><a class="q5" href="http://ptr.wowdb.com/items/137084#23194-23244" rel="external nofollow">Akainu's Absolute Justice</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Al'Akir's Acrimony" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_bracer_plate_pvpdeathknight_e_01.jpg"><a class="q5" href="http://ptr.wowdb.com/items/137102#23194-23244" rel="external nofollow">Al'Akir's Acrimony</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Focuser of Jonat, the Elder" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_jewelry_ring_96.jpg"><a class="q5" href="http://ptr.wowdb.com/items/137051#23194-23244" rel="external nofollow">Focuser of Jonat, the Elder</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Eye of the Twisting Nether" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_jewelry_ring_ahnqiraj_02.jpg"><a class="q5" href="http://ptr.wowdb.com/items/137050#23194-23244" rel="external nofollow">Eye of the Twisting Nether</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Pristine Proto-Scale Girdle" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_belt_mail_panda_b_01white.jpg"><a class="q5" href="http://ptr.wowdb.com/items/137083#23194-23244" rel="external nofollow">Pristine Proto-Scale Girdle</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="The Deceiver's Blood Pact" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_boots_chain_07.jpg"><a class="q5" href="http://ptr.wowdb.com/items/137035#23194-23244" rel="external nofollow">The Deceiver's Blood Pact</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Uncertain Reminder" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_helm_mail_korkronshaman_d_01.jpg"><a class="q5" href="http://ptr.wowdb.com/items/143732#23194-23244" rel="external nofollow">Uncertain Reminder</a></span>
+	</li>
+</ul>
+<p>
+	Warlock
+</p>
+
+<ul>
+<li>
+		<span class="spell_icon_span"><img alt="Alythess's Pyrogenics" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_jewelry_ring_65.jpg"><a class="q5" href="http://ptr.wowdb.com/items/132460#23194-23244" rel="external nofollow">Alythess's Pyrogenics</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Feretory of Souls" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_belt_cloth_raidwarlock_n_01.jpg"><a class="q5" href="http://ptr.wowdb.com/items/132456#23194-23244" rel="external nofollow">Feretory of Souls</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Hood of Eternal Disdain" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_helmet_152.jpg"><a class="q5" href="http://ptr.wowdb.com/items/132394#23194-23244" rel="external nofollow">Hood of Eternal Disdain</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Lessons of Space-Time" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_shoulder_robe_pvpwarlock_d_01.jpg"><a class="q5" href="http://ptr.wowdb.com/items/144369#23194-23244" rel="external nofollow">Lessons of Space-Time</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Magistrike Restraints" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_bracer_31b.jpg"><a class="q5" href="http://ptr.wowdb.com/items/132407#23194-23244" rel="external nofollow">Magistrike Restraints</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Reap and Sow" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_cape_pandaria_c_02.jpg"><a class="q5" href="http://ptr.wowdb.com/items/144364#23194-23244" rel="external nofollow">Reap and Sow</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Sacrolash's Dark Strike" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_jewelry_ring_66.jpg"><a class="q5" href="http://ptr.wowdb.com/items/132378#23194-23244" rel="external nofollow">Sacrolash's Dark Strike</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Sin'dorei Spite" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_bracer_44.jpg"><a class="q5" href="http://ptr.wowdb.com/items/132379#23194-23244" rel="external nofollow">Sin'dorei Spite</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Wakener's Loyalty" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_helm_cloth_raidwarlock_p_01.jpg"><a class="q5" href="http://ptr.wowdb.com/items/144385#23194-23244" rel="external nofollow">Wakener's Loyalty</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Zeks Exterminatus" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_cape_pandariapvp_d_01.jpg"><a class="q5" href="http://ptr.wowdb.com/items/144438#23194-23244" rel="external nofollow">Zeks Exterminatus</a></span>
+	</li>
+</ul>
+<p>
+	Warrior
+</p>
+
+<ul>
+<li>
+		<span class="spell_icon_span"><img alt="Archavon's Heavy Hand" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_gloves_plate_raidwarrior_m_01.jpg"><a class="q5" href="http://ptr.wowdb.com/items/137060#23194-23244" rel="external nofollow">Archavon's Heavy Hand</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Ayala's Stone Heart" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_misc_ring_firelands_1.jpg"><a class="q5" href="http://ptr.wowdb.com/items/137052#23194-23244" rel="external nofollow">Ayala's Stone Heart</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Ceann-Ar Charger" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_helm_leather_pvpdruid_g_01.jpg"><a class="q5" href="http://ptr.wowdb.com/items/137088#23194-23244" rel="external nofollow">Ceann-Ar Charger</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Kazzalax, Fujieda's Fury" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_cape_pandaria_c_04.jpg"><a class="q5" href="http://ptr.wowdb.com/items/137053#23194-23244" rel="external nofollow">Kazzalax, Fujieda's Fury</a></span>
+	</li>
+</ul>
+]]></description><guid isPermaLink="false">26840</guid><pubDate>Thu, 15 Dec 2016 11:38:09 +0000</pubDate></item><item><title>Ragnaros Build Guide</title><link>http://www.icy-veins.com/forums/topic/26837-ragnaros-build-guide/</link><description><![CDATA[
+<p style="text-align:center;">
+	<img alt="E1SA5KNVZTV51481732496515.jpg" data-icy-veins="news_image" data-ipb="nomediaparse" src="http://www.icy-veins.com/forums/news/26836-ragnaros-build-guide.jpg"></p>
+
+<p data-icy-veins="news_description">
+	Our guide section has been updated to include Ragnaros, the Firelord!
+</p>
+
+<p>
+	<a href="http://www.icy-veins.com/forums/profile/25746-oxygen/" rel="">Oxy</a> has been busy writing our <a href="http://www.icy-veins.com/heroes/ragnaros-build-guide" rel="external nofollow">Ragnaros Build Guide</a> and it features three builds.
+</p>
+
+<p>
+	A) <strong>Blast Wave Build</strong> - revolves around his Blast Wave ability, but is heavily reliant on proper positioning.
+</p>
+
+<p>
+	B) <strong>Living Meteor Build</strong> - empowers LM to deal a lot of damage from afar.
+</p>
+
+<p>
+	C) <strong>Empowered Sulfuras Build</strong> - improves his Q that's the source of his sustained damage, requires melee range.
+</p>
+
+<p style="text-align: center;">
+	<img alt="MD8R3E2NCALD1481732515259.gif" class="ipsImage" src="https://bnetcmsus-a.akamaihd.net/cms/content_folder_media/md/MD8R3E2NCALD1481732515259.gif"></p>
+]]></description><guid isPermaLink="false">26837</guid><pubDate>Thu, 15 Dec 2016 09:28:17 +0000</pubDate></item><item><title>Gold Making: Daily Obliterum Routine</title><link>http://www.icy-veins.com/forums/topic/26816-gold-making-daily-obliterum-routine/</link><description><![CDATA[
+<p style="text-align:center;">
+	<img alt="ZxAiuqs.jpg" data-icy-veins="news_image" data-ipb="nomediaparse" src="http://www.icy-veins.com/forums/news/26798-gold-making-daily-obliterum-routine.jpg"></p>
+
+<p data-icy-veins="news_description">
+	A quick gold making method that requires very little work. You only need to have the Obliterum Forge unlocked. It has no reputation requirements.
+</p>
+
+<p>
+	Check out your realm's current price of <span class="spell_icon_span"><img alt="Obliterum" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_obliterum_chunk.jpg"><a class="q4" href="http://www.wowhead.com/item=124125" rel="external nofollow">Obliterum</a></span>. My realm is at 1,700 Gold / piece (<a href="https://theunderminejournal.com/#us/illidan/item/124125" rel="external nofollow">Source</a>).
+</p>
+
+<p>
+	Search your Auction House for the following items
+</p>
+
+<ul>
+<li>
+		<span class="spell_icon_span"><img alt="Enchant Ring - Binding of Critical Strike" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_misc_enchantedscroll.jpg"><a class="q3" href="http://www.wowhead.com/item=128541" rel="external nofollow">Enchant Ring - Binding of Critical Strike</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Enchant Ring - Binding of Haste" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_misc_enchantedscroll.jpg"><a class="q3" href="http://www.wowhead.com/item=128542" rel="external nofollow">Enchant Ring - Binding of Haste</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Enchant Ring - Binding of Mastery" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_misc_enchantedscroll.jpg"><a class="q3" href="http://www.wowhead.com/item=128543" rel="external nofollow">Enchant Ring - Binding of Mastery</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Enchant Ring - Binding of Versatility" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_misc_enchantedscroll.jpg"><a class="q3" href="http://www.wowhead.com/item=128544" rel="external nofollow">Enchant Ring - Binding of Versatility</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Infernal Alchemist Stone" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_alchemy_70_trinket.jpg"><a class="q3" href="http://www.wowhead.com/item=127842" rel="external nofollow">Infernal Alchemist Stone</a></span>
+	</li>
+</ul>
+<p>
+	Sometimes you may add cheap crafted JWC amulets to the list such as <span class="spell_icon_span"><img alt="Ancient Maelstrom Amulet" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_jewelcrafting_70_maxlvlneck_blue.jpg"><a class="q3" href="http://www.wowhead.com/item=130241" rel="external nofollow">Ancient Maelstrom Amulet</a></span><span class="spell_icon_span">, <span class="spell_icon_span"><img alt="Subtle Shadowruby Pendant" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_jewelcrafting_70_maxlvlneck_purple.jpg"><a class="q3" href="http://www.wowhead.com/item=130236" rel="external nofollow">Subtle Shadowruby Pendant</a></span></span> or <span class="spell_icon_span"><img alt="Blessed Dawnlight Medallion" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_jewelcrafting_70_maxlvlneck_yellow.jpg"><a class="q3" href="http://www.wowhead.com/item=130234" rel="external nofollow">Blessed Dawnlight Medallion</a></span> if they can be bought for a reasonable price. I recommend checking out <a href="https://theunderminejournal.com/#us/illidan/category/jewelcrafting" rel="external nofollow">your realm's TuJ's Jewelcrafting page</a> for prices of 0/7 amulets. They pop up for 2K / piece once in a while.
+</p>
+
+<p>
+	I buy everything below 2,000 Gold. Most of the time, I will buy <span class="spell_icon_span"><img alt="Infernal Alchemist Stone" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_alchemy_70_trinket.jpg"><a class="q3" href="http://www.wowhead.com/item=127842" rel="external nofollow">Infernal Alchemist Stone</a></span> for anywhere between 1,700 - 1,900 Gold and on average get 150 <span class="spell_icon_span"><img alt="Obliterum Ash" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_obliterum_ash.jpg"><a class="q4" href="http://www.wowhead.com/item=136342" rel="external nofollow">Obliterum Ash</a></span>. All the enchants can be bought up to 2,000 Gold / piece and most of the time I get anywhere between 130-140 <span class="spell_icon_span"><img alt="Obliterum Ash" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_obliterum_ash.jpg"><a class="q4" href="http://www.wowhead.com/item=136342" rel="external nofollow">Obliterum Ash</a></span>. Destroy all the items and resell as <span class="spell_icon_span"><img alt="Obliterum" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_obliterum_chunk.jpg"><a class="q4" href="http://www.wowhead.com/item=124125" rel="external nofollow">Obliterum</a></span>. It's good to sell at different stacks. Stacks of 8 work very well and sell instantly.
+</p>
+
+<p>
+	You can repeat it multiple times a day for enchants are floating around crazy cheap.
+</p>
+
+<p>
+	For obliterating, use the <a href="https://mods.curse.com/addons/wow/easy_obliterate" rel="external nofollow">Easy Obliterate addon</a>. It allows you to create a macro to destroy items with a single click of a button.
+</p>
+]]></description><guid isPermaLink="false">26816</guid><pubDate>Wed, 14 Dec 2016 20:21:52 +0000</pubDate></item><item><title>Mists of Pandaria Timewalking Preview [Official]</title><link>http://www.icy-veins.com/forums/topic/26815-mists-of-pandaria-timewalking-preview-official/</link><description><![CDATA[
+<p style="text-align:center;">
+	<img alt="IXQFE84OR7941481332152661.jpg" data-icy-veins="news_image" data-ipb="nomediaparse" src="http://www.icy-veins.com/forums/news/26814-mists-of-pandaria-timewalking-preview-official.jpg"></p>
+
+<p>
+	 
+</p>
+
+<p data-icy-veins="news_description">
+	Timewalking is one of those great ideas that was implemented and is just begging to be expanded to raids as well as dungeons, but until that happens at least we're getting some more old 5 mans to enjoy with the addition of MoP to the Timewalking roster!<br><br>
+	You can also check out our own preview of the new additions <a href="http://www.icy-veins.com/forums/topic/25934-patch-715-mists-of-pandaria-timewalking/" rel="">here</a>.
+</p>
+
+<div class="blue_post">
+	<h2 class="blue_title">
+		<img alt="Blizzard Logo" src="http://static.icy-veins.com/images/common/blizzard_icon.png">Blizzard (<a href="https://worldofwarcraft.com/en-us/news/20402943/patch-7-1-5-preview-mists-of-pandaria-timewalking" rel="external nofollow">source</a>)
+	</h2>
+
+	<div id="blog">
+		<div class="Blog Content">
+			<article class="detail"><p>
+					In patch 7.1.5, you’ll get to join the denizens of Azeroth in a new journey back in time to the days of the lifting of the mists—Timewalking is coming to the islands of Pandaria.
+				</p>
+
+				<p>
+					For players at level 91 and higher, this means a new Bonus Event every few weeks that operates very much like other Timewalking Bonus Events to Outland, Northrend, and Cataclysm.
+				</p>
+
+				<p style="margin-left:.25in;">
+					 
+				</p>
+
+				<h4>
+					<strong>A Return to Pandaria</strong>
+				</h4>
+
+				<p>
+					When you queue up for this new round of Timewalking, you’ll find yourself heading into:
+				</p>
+
+				<ul>
+<li>
+						<strong>Temple of the Jade Serpent</strong>
+					</li>
+				</ul>
+<div class="center">
+					<div class="image">
+						<img src="https://bnetcmsus-a.akamaihd.net/cms/content_folder_media/H2R5KARDV80H1481332152842.jpg" alt="H2R5KARDV80H1481332152842.jpg">
+</div>
+				</div>
+
+				<p style="margin-left: 0.75in;">
+					<em>Rising high above the east coast of Pandaria, the Temple of the Jade Serpent stands as a sacred monument to the legendary pandaren emperor Shaohao's victory over the Sha of Doubt thousands of years ago. Recently, a disastrous conflict in the Jade Forest unleashed the sha, and several of the entities have raided the temple's most treasured stores of wisdom and knowledge.</em>
+				</p>
+
+				<ul>
+<li>
+						<strong>Stormstout Brewery</strong>
+					</li>
+				</ul>
+<div class="center">
+					<div class="image">
+						<img src="https://bnetcmsus-a.akamaihd.net/cms/content_folder_media/MA6OL3IYR39Y1481332152772.jpg" alt="MA6OL3IYR39Y1481332152772.jpg">
+</div>
+				</div>
+
+				<p style="margin-left: 0.75in;">
+					<em>When Chen Stormstout arrived in the Valley of the Four Winds, he journeyed to the renowned brewery of his namesake, hoping to connect with his relatives. What he found was his ancestral home in disarray. Under the watch of the incompetent Uncle Gao, loathsome virmen and unruly hozen have infiltrated the brewery, sparking a destructive revel that will soon devastate the region's supply of tasty brews.</em>
+				</p>
+
+				<ul>
+<li>
+						<strong>Shado-Pan Monastery</strong>
+					</li>
+				</ul>
+<div class="center">
+					<div class="image">
+						<img src="https://bnetcmsus-a.akamaihd.net/cms/content_folder_media/UWL3VYBPAK5X1481332152591.jpg" alt="UWL3VYBPAK5X1481332152591.jpg">
+</div>
+				</div>
+
+				<p style="margin-left: 0.75in;">
+					<em>War has spread across Pandaria, and the destructive conflict between the Horde and Alliance has led to turmoil in the majestic Shado-Pan Monastery. There, three malevolent entities--the Sha of Violence, the Sha of Hatred, and the Sha of Anger--have erupted from their prisons. Although the Sha of Anger fled the secluded monastery completely, the remaining sha have begun wreaking havoc on the site's brave Shado-Pan defenders.</em>
+				</p>
+
+				<ul>
+<li>
+						<strong>Mogu’shan Palace</strong>
+					</li>
+				</ul>
+<div class="center">
+					<div class="image">
+						<img src="http://www.icy-veins.com/forums/news/26814-mists-of-pandaria-timewalking-preview-official.jpg" alt="IXQFE84OR7941481332152661.jpg">
+</div>
+				</div>
+
+				<p style="margin-left:.75in;">
+					<em>The ancient Mogu'shan Palace is the last true bastion of mogu strength on mainland Pandaria. Three of their great clans recently gathered at this stunning location to meet with their king, Xin the Weaponmaster. This mighty ruler has formulated a bold plan to unite his scattered people and reclaim the glory of their fallen empire. With turmoil gripping Pandaria, Xin's lofty dream of conquest could become reality.</em>
+				</p>
+
+				<ul>
+<li>
+						<strong>Siege of Niuzao Temple</strong>
+					</li>
+				</ul>
+<div class="center">
+					<div class="image">
+						<img src="https://bnetcmsus-a.akamaihd.net/cms/content_folder_media/M6KXQ2Q0BRGB1481332152765.jpg" alt="M6KXQ2Q0BRGB1481332152765.jpg">
+</div>
+				</div>
+
+				<p style="margin-left:.75in;">
+					<em>Niuzao Temple extends across two fortified islands far beyond a towering wall called the Serpent's Spine. For years, tenacious pandaren defenders have protected the narrow bridges connecting the isles, staving off any would-be invaders. Yet recently, the mantid created their own bridge--a massive tree root--and seized one of the islands by surprise. Now, these brutal insectoids are poised to assault Niuzao's remaining guardians.</em>
+				</p>
+
+				<ul>
+<li>
+						<strong>Gate of the Setting Sun</strong>
+					</li>
+				</ul>
+<div class="center">
+					<div class="image">
+						<img src="https://bnetcmsus-a.akamaihd.net/cms/content_folder_media/156QC3YYQC9T1481332152581.jpg" alt="156QC3YYQC9T1481332152581.jpg">
+</div>
+				</div>
+
+				<p style="margin-left: 0.75in;">
+					<em>For generations, a massive wall called the Serpent's Spine has protected the denizens of Pandaria from periodic assaults by the rampaging, insect-like mantid. This brutal race's cycle of aggression recently began earlier than expected, catching the wall's defenders off guard. As the mightiest mantid warriors charge the battle-worn gates, Pandaria must hold back the most devastating army in the land's recorded history.</em>
+				</p>
+
+				<h4>
+					<strong>Timeless Rewards</strong>
+				</h4>
+
+				<p>
+					There’s a new Timewalking Vendor on the Timeless Isle. Mistweaver Xia is waiting to take your hard earned Timewarped Badges in exchange for all sorts of wondrous rewards:
+				</p>
+
+				<ul>
+<li>
+						Reins of the Heavenly Jade Cloud Serpent (Yu’lei, Daughter of Jade mount)
+					</li>
+					<li>
+						2 new pets—Infinite Hatchling (dragonkin) and Paradox Spirit (aquatic)
+					</li>
+					<li>
+						Reputation Tokens for all major Pandaria factions and friendship items
+					</li>
+					<li>
+						2 new Toys—Adopted Puppy Crate and Portable Yak Wash
+					</li>
+					<li>
+						Chilled Satchel of Vegetables, to help chefs who've missed out on Pandaren cuisine
+					</li>
+					<li>
+						Updated equipment selections from Pandaria factions
+					</li>
+				</ul>
+<p>
+					That’s right-- this will be the first Timewalking Bonus Event to include pets as rewards. Both of the new pets have a new ability for pet battles: <em>Temporal Anomaly</em>, which significantly reduces the speed of the enemy team.
+				</p>
+
+				<p>
+					You won’t want to miss this opportunity to earn valuable reputation with Pandaria factions while challenging dungeons. Every Mists of Pandaria faction holds handsome rewards for players who maximize reputation with them. For example, you’ll be able to obtain Commendations for Emperor Shaohao from Mistweaver Xia, which could lead to a Heavenly Golden Cloud Serpent (mount) or Celestial Defender’s Medallion (toy) for you. If you haven’t yet maximized your rep with Golden Lotus, there are Riding Crane mounts in your future!
+				</p>
+
+				<h4>
+					<strong>You’ve Got Scaled</strong>
+				</h4>
+
+				<p>
+					As with other Timewalking Bonus events, when you queue up for Pandaria dungeons, your power and defenses will be scaled down to appropriate levels for those dungeons on Heroic difficulty. When you defeat bosses in Mists of Pandaria Timewalking, you’ll receive loot that scales with your level, up to item level 830—perfect for characters who are gearing up in Legion dungeons.
+				</p>
+
+				<p>
+					Encounters such as Yan-Zhu the Uncasked in Stormstout Brewery or Taran Zhu in Shado-Pan Monastery will once again put you and your party to the test.
+				</p>
+
+				<p>
+					We can’t wait to see you there!
+				</p>
+			</article>
+</div>
+	</div>
+</div>
+
+<p>
+	 
+</p>
+]]></description><guid isPermaLink="false">26815</guid><pubDate>Wed, 14 Dec 2016 19:28:33 +0000</pubDate></item><item><title>Tavern Brawl: The Battle for Gadgetzan</title><link>http://www.icy-veins.com/forums/topic/26813-tavern-brawl-the-battle-for-gadgetzan/</link><description><![CDATA[
+<p style="text-align:center;">
+	<img alt="aHd6paz.png" data-icy-veins="news_image" data-ipb="nomediaparse" src="http://www.icy-veins.com/forums/news/26812-tavern-brawl-the-battle-for-gadgetzan.png"></p>
+
+<p data-icy-veins="news_description">
+	This week's Tavern Brawl is called The Battle for Gadgetzan. It is the seventy ninth Tavern Brawl.
+</p>
+
+<p>
+	The Brawl is played with one of three classes. Druid, Paladin, or Priest. The class you play is decided randomly at the beginning of the game. Your deck is a prebuilt deck that lasts the duration of the game, you do not have to use your own cards, and it is not possible to play someone of the same class.
+</p>
+
+<p>
+	At the start of the Brawl, you are announced by your gang name, not your class. During the Brawl, the leader of the factions being represented will pop up and chat from time to time. If you win the game, you will complete quests of any class in the faction you represented.
+</p>
+
+<p>
+	Overall, I like this Brawl. It gives players a chance to play decent constructed decks with the new cards, and see which factions they like the style of. Although it won't appeal much to serious players, I feel that in general, the Brawls should aim lower than that, and this one does a good job.
+</p>
+
+<p>
+	I won't spoil the deck lists for the Brawl, but the Priest deck is Dragon Priest, the Paladin deck is full of buffs, and the Druid deck is full of Jade Golems. All three decks require understanding of fundamental Hearthstone principles, and it seems at first look that the better player has a reasonable advantage, no matter which deck they are given.
+</p>
+]]></description><guid isPermaLink="false">26813</guid><pubDate>Wed, 14 Dec 2016 18:16:55 +0000</pubDate></item><item><title>Ragnaros Patch Now Live</title><link>http://www.icy-veins.com/forums/topic/26808-ragnaros-patch-now-live/</link><description><![CDATA[
+<p style="text-align:center;">
+	<img alt="W38JPMR1BVJP1442356953238.jpg" data-icy-veins="news_image" data-ipb="nomediaparse" src="http://www.icy-veins.com/forums/news/26807-ragnaros-patch-now-live.jpg"></p>
+
+<p data-icy-veins="news_description">
+	A new patch was just released in Americas. It brings the Winter Veil, a new Hero, ranked play changes and balance updates.
+</p>
+
+<p>
+	Ragnaros was supposed to go live yesterday, but the patch release got delayed by one day.
+</p>
+
+<div class="embed_tweet" data-tweet-id="808840317860335617">
+	<span><em>Placeholder for tweet 808840317860335617</em></span>
+</div>
+
+<div class="blue_post">
+	<h2 class="blue_title">
+		<img alt="Blizzard Logo" src="http://static.icy-veins.com/images/common/blizzard_icon.png">Blizzard Entertainment
+	</h2>
+
+	<h3>
+		GENERAL
+	</h3>
+
+	<p>
+		<span style="color:#ffffff;"><strong>Celebrate Winter Veil 2016!</strong></span>
+	</p>
+
+	<ul>
+<li>
+			Our 2016 Winter Veil celebration has arrived! Ring in the holiday season this year with a 25% XP bonus, a new event quest, and of course, quest rewards.
+			<ul>
+<li>
+					25% XP Bonus
+					<ul>
+<li>
+							The XP bonus begins at 10:00 a.m. PST on Wednesday, December 14, 2016 until 10:00 a.m. PST Tuesday, January 4, 2017.
+						</li>
+					</ul>
+</li>
+				<li>
+					Winter Veil Event Quest
+					<ul>
+<li>
+							Quest: Play 25 games in any matchmaking mode (Co-op vs. A.I., Quick Match, Unranked Draft, or Ranked)
+						</li>
+						<li>
+							Rewards: Special Snowflake Portrait and Festive Treasure Goblin Mount.
+						</li>
+					</ul>
+</li>
+				<li>
+					<a href="http://battle.net/heroes/blog/20391078" rel="external nofollow" target="_blank">Click here</a> for additional Winter Veil 2016 details.
+				</li>
+			</ul>
+</li>
+	</ul>
+<p>
+		<span style="color:#ffffff;"><strong>Ranked Season 3 Updates</strong></span>
+	</p>
+
+	<ul>
+<li>
+			Party Sizes in Ranked Play
+			<ul>
+<li>
+					The following party size adjustments for Hero and Team League have been made as a one-season experiment for Ranked Season 3.
+				</li>
+				<li>
+					Hero League 
+					<ul>
+<li>
+							Players can no longer queue for Hero League games in parties.
+						</li>
+					</ul>
+</li>
+				<li>
+					Team League
+					<ul>
+<li>
+							2, 3, and 5-player parties can now queue for Team League.
+						</li>
+						<li>
+							2 and 3-player parties can only queue for Team League if all members are ranked within one league of one another.
+						</li>
+						<li>
+							5-player parties can queue with any mixture of league rankings.
+						</li>
+						<li>
+							While players will need to have access to at least 14 Heroes in order to play Team League, there are still no minimum Hero level requirements in order to queue for Team League matches.
+						</li>
+						<li>
+							Team League will still utilize First Come, First Serve (FCFS) during Draft Mode, which means that parties of two and three players will need to coordinate effectively when drafting their Heroes.
+						</li>
+						<li>
+							Silenced players can no longer queue for Team League for the duration of their Silence Penalty.
+						</li>
+					</ul>
+</li>
+			</ul>
+</li>
+	</ul>
+<ul>
+<li>
+			Season 2 Rewards
+			<ul>
+<li>
+					Those who finished their placement matches during Ranked Season 2 will receive their rewards upon logging in after downloading today’s patch.
+				</li>
+			</ul>
+</li>
+		<li>
+			Matchmaking
+			<ul>
+<li>
+					The matchmaking system’s certainty level in all players’ skill ratings has once again been loosened in order to help ease movement up or down through the rankings.
+				</li>
+			</ul>
+</li>
+		<li>
+			Ranked League Adjustments
+			<ul>
+<li>
+					Silver and Gold league population sizes have been adjusted, and will now each contain a similar number of players.
+				</li>
+				<li>
+					Diamond league will now contain about half as many players as the previous season.
+				</li>
+			</ul>
+</li>
+	</ul>
+<a name="New_Hero" rel=""></a>
+
+	<h3>
+		NEW HERO: RAGNAROS
+	</h3>
+
+	<p>
+		As the lord of Azeroth’s fire elementals, Ragnaros desires nothing more than to burn the world to ash. Banished to the Firelands eons ago, the Firelord now turns his rage toward the Nexus, intent on incinerating everything and everyone within it.
+	</p>
+
+	<p>
+		<span style="color:#ffffff;"><strong>Trait</strong></span> 
+	</p>
+
+	<ul>
+<li>
+			Molten Core (D)
+			<ul>
+<li>
+					Channel on an Allied or destroyed Fort or Keep to replace it with Ragnaros’ Ultimate Form, temporarily gaining new Abilities, and a significant amount of Health that burns away over 18 seconds.
+				</li>
+				<li>
+					Ragnaros returns to his normal form upon losing all Health during Molten Core.
+				</li>
+			</ul>
+</li>
+	</ul>
+<p>
+		<span style="color:#ffffff;"><strong>Basic Abilities</strong></span>
+	</p>
+
+	<ul>
+<li>
+			Empower Sulfuras (Q)
+			<ul>
+<li>
+					Ragnaros’ next Basic Attack is instant, dealing Ability Damage in an area around the target, and Healing Ragnaros for 20% of the damage dealt. Healing is doubled for damage dealt to Heroes.
+				</li>
+			</ul>
+</li>
+		<li>
+			Living Meteor (W)
+			<ul>
+<li>
+					Summon a meteor at the target point that deals damage on impact, and then rolls in the target direction and deals additional damage every second for 1.75 seconds.
+				</li>
+			</ul>
+</li>
+		<li>
+			Blast Wave (E)
+			<ul>
+<li>
+					Ignite Ragnaros or target Ally, granting 25% bonus Movement Speed for 1.5 seconds before exploding, dealing damage to nearby enemies.
+				</li>
+			</ul>
+</li>
+	</ul>
+<p>
+		<span style="color:#ffffff;"><strong>Molten Core Form Abilities</strong></span>
+	</p>
+
+	<ul>
+<li>
+			Molten Swing (Q)
+			<ul>
+<li>
+					Swing Sulfuras in a wide arc, dealing damage and stunning enemies for 1 second. Damage increased by 25% versus Minions and Mercenaries.
+				</li>
+			</ul>
+</li>
+		<li>
+			Meteor Shower (W)
+			<ul>
+<li>
+					Summon 3 meteors at the target point that fall in the target direction. Each meteor deals damage and slows enemies by 25% for 2 seconds. Damage increased by 25% versus Minions and Mercenaries.
+				</li>
+			</ul>
+</li>
+		<li>
+			Explosive Rune (E)
+			<ul>
+<li>
+					Create a rune that explodes after 1.5 seconds, dealing damage to non-Structure enemies in a circular area. Damage increased by 25% versus Minions and Mercenaries.
+				</li>
+			</ul>
+</li>
+	</ul>
+<p>
+		<span style="color:#ffffff;"><strong>Heroic Abilities</strong></span>
+	</p>
+
+	<ul>
+<li>
+			Sulfuras Smash (R)
+			<ul>
+<li>
+					Hurl Sulfuras at the target area, landing after 0.75 seconds and dealing damage to enemies hit. Enemies caught in the center of the impact area take triple damage and are Stunned for 0.5 seconds.
+				</li>
+			</ul>
+</li>
+		<li>
+			Lava Wave (R)
+			<ul>
+<li>
+					Release a wave of lava from the allied Core that travels down the target lane, dealing massive damage every second to non-Structure enemies and instantly killing enemy Minions in its path. Damage doubled versus enemy Heroes.
+				</li>
+			</ul>
+</li>
+	</ul>
+<a name="Battleground_Rework" rel=""></a>
+
+	<h3>
+		BATTLEGROUND REWORK: HAUNTED MINES
+	</h3>
+
+	<p>
+		After driving the Raven Lord out of the Haunted Mines and doing a little. . . redecorating. . . the Grave Keeper has re-opened the Mines to all who wish to summon powerful and destructive Grave Golems.
+	</p>
+
+	<p>
+		<span style="color:#ffffff;"><strong>Haunted Mines Basics</strong></span>
+	</p>
+
+	<ul>
+<li>
+			Venture Underground
+			<ul>
+<li>
+					The Haunted Mines will periodically open with an Undead Army underneath.
+				</li>
+			</ul>
+</li>
+		<li>
+			Collect the Skulls
+			<ul>
+<li>
+					Destroy the Undead and collect their Skulls to summon a powerful Golem. The more Skulls each team collects, the stronger their Golems become.
+				</li>
+			</ul>
+</li>
+		<li>
+			Unleash the Golems
+			<ul>
+<li>
+					After the Undead have been defeated, a Golem will rise for each team and travel down lane in search of Structures to destroy.
+				</li>
+			</ul>
+</li>
+	</ul>
+<p>
+		<span style="color:#ffffff;"><strong>Haunted Mines Updates</strong></span>
+	</p>
+
+	<ul>
+<li>
+			Grave Golems now spawn in fixed positions in each lane, and switch lanes each time they are summoned.
+		</li>
+		<li>
+			The layout of the Underground Mines has been reworked, and the Neutral Grave Golem can now be found at its center.
+		</li>
+		<li>
+			The upper level’s center area has been reworked.
+			<ul>
+<li>
+					Additional Mine Entrances have been placed to the East and West of the Battleground’s center area, for a total of 4.
+				</li>
+				<li>
+					A Mercenary Camp has been placed near each Mine Entrance, featuring Siege Giants at the East and West Entrances, and Sappers in the North and South.
+				</li>
+			</ul>
+</li>
+	</ul>
+<a name="Art" rel=""></a>
+
+	<h3>
+		ART
+	</h3>
+
+	<p>
+		<span style="color:#ffffff;"><strong>Heroes, Abilities, and Talents</strong></span>
+	</p>
+
+	<ul>
+<li>
+			The following Heroes have received updated visual effects and talent icon color tints to coincide with their reworks:
+			<ul>
+<li>
+					Artanis
+				</li>
+				<li>
+					Dehaka
+				</li>
+				<li>
+					Diablo
+				</li>
+			</ul>
+</li>
+		<li>
+			The following Hero Abilities have received slight animation changes to coincide with timing changes:
+			<ul>
+<li>
+					Kael’thas: Pyroblast
+				</li>
+				<li>
+					Zarya: Particle Grenade
+				</li>
+			</ul>
+</li>
+	</ul>
+<a name="Shop" rel=""></a>
+
+	<h3>
+		SHOP
+	</h3>
+
+	<p>
+		<span style="color:#ffffff;"><strong>Bundles</strong></span>
+	</p>
+
+	<ul>
+<li>
+			<span style="color:#ffffff;">New Bundles</span>
+
+			<ul>
+<li>
+					Lil’Ragnaros Bundle – Available until January 4, 2017
+				</li>
+				<li>
+					Winter Veil 2016 Bundle – Available until January 4, 2017
+				</li>
+				<li>
+					Winter Veil Classic Bundle – Available until January 4, 2017 
+				</li>
+			</ul>
+</li>
+		<li>
+			<span style="color:#ffffff;">Removed Bundles</span>
+			<ul>
+<li>
+					Druid of the Flame Malfurion Bundle
+				</li>
+			</ul>
+</li>
+	</ul>
+<p>
+		<span style="color:#ffffff;"><strong>New Hero </strong></span>
+	</p>
+
+	<ul>
+<li>
+			Ragnaros has been added to the in-game Shop
+		</li>
+	</ul>
+<p>
+		<span style="color:#ffffff;"><strong>Mounts</strong></span>
+	</p>
+
+	<ul>
+<li>
+			<span style="color:#ffffff;">New Mounts</span>
+
+			<ul>
+<li>
+					2016 Fall Champion’s Mount – Available until February 28, 2017
+				</li>
+				<li>
+					Special Snowflake – Available by purchasing either of the Winter Veil Bundles until January 4, 2017
+				</li>
+			</ul>
+</li>
+		<li>
+			<span style="color:#ffffff;">Returning Mounts</span>
+			<ul>
+<li>
+					Eye Pad
+				</li>
+				<li>
+					Festive Treasure Goblin – Earned by completing 25 games during the Winter Veil 2016 event
+				</li>
+			</ul>
+</li>
+		<li>
+			<span style="color:#ffffff;">Removed Mounts</span>
+			<ul>
+<li>
+					2016 Summer Champion’s Mount
+				</li>
+				<li>
+					Blackheart’s Doubloon
+				</li>
+			</ul>
+</li>
+	</ul>
+<p>
+		<span style="color:#ffffff;">Skins</span>
+	</p>
+
+	<ul>
+<li>
+			Lil’ Ragnaros
+		</li>
+		<li>
+			Master Ragnaros
+		</li>
+		<li>
+			Gingerdread Nazeebo
+		</li>
+		<li>
+			Winterveil Lunara
+		</li>
+	</ul>
+<p>
+		<span style="color:#ffffff;">Price Reductions</span>
+	</p>
+
+	<ul>
+<li>
+			Sylvanas’ prices reduced to $8.49 USD and 7,000 Gold.
+		</li>
+	</ul>
+<a name="User_Interface" rel=""></a>
+
+	<h3>
+		USER INTERFACE
+	</h3>
+
+	<p>
+		<span style="color:#ffffff;"><strong>General</strong></span>
+	</p>
+
+	<ul>
+<li>
+			The search terms "melee" and "ranged" can now be used to filter Hero Select for melee or ranged Heroes.
+		</li>
+		<li>
+			Click the Grand Master Leaderboards and Ranked Play Guide buttons on the Ranked Play screen to view these pages within the Heroes of the Storm game client.
+		</li>
+	</ul>
+<p>
+		<span style="color:#ffffff;"><strong>Hero and Role Chat Links</strong></span>
+	</p>
+
+	<ul>
+<li>
+			Press SHIFT and click a Hero portrait or Hero Role icon during Hero Select or in a Draft Lobby to add a link to that Hero or Role in the chat.
+			<ul>
+<li>
+					Clicking a Hero or Role link in chat will automatically filter players’ Hero lists accordingly.
+				</li>
+				<li>
+					Alternatively, type a Hero name or Role in square brackets to create chat links.
+					<ul>
+<li>
+							For example: Typing “[Jaina]” into the chat box will create a link to Jaina in Hero Select. However, the spelling must be exact or the link will not work.
+						</li>
+					</ul>
+</li>
+				<li>
+					These Hero and Role links can be used to suggest picks and bans in Draft Lobbies.
+				</li>
+				<li>
+					Clicking a Hero or Role chat link while viewing the Shop will also filter the list of items accordingly.
+				</li>
+			</ul>
+</li>
+	</ul>
+<p>
+		<span style="color:#ffffff;"><strong>Penalties for Leaving Games</strong></span>
+	</p>
+
+	<ul>
+<li>
+			Much like Hero League, players who repeatedly leave Unranked Draft and Team League games or draft lobbies will now be flagged to receive leaver penalties.
+		</li>
+		<li>
+			Players with active penalties for leaving games can no longer queue for Unranked Draft or Team League games.
+		</li>
+	</ul>
+<p>
+		<span style="color:#ffffff;"><strong>MVP and Commendations</strong></span>
+	</p>
+
+	<ul>
+<li>
+			Press TAB at any point during the MVP and Commendations sequence to view the in-game Score Screen for that match.
+		</li>
+		<li>
+			A Skip button has replaced the Exit button on the MVP screen.
+			<ul>
+<li>
+					Clicking Skip will immediately take the player to the Commendations screen.
+				</li>
+				<li>
+					Players can still leave the Commendations screen normally by pressing the Exit button.
+				</li>
+			</ul>
+</li>
+	</ul>
+<a name="Design" rel=""></a>
+
+	<h3>
+		DESIGN &amp; GAMEPLAY
+	</h3>
+
+	<p>
+		<span style="color:#ffffff;"><strong>Unrevealable Heroes</strong></span>
+	</p>
+
+	<ul>
+<li>
+			Heroes who are considered unrevealable will no longer shimmer like other stealthed heroes.
+		</li>
+		<li>
+			After the unrevealable period ends, they will shimmer again.
+		</li>
+	</ul>
+<a name="Battlegrounds" rel=""></a>
+
+	<h3>
+		BATTLEGROUNDS
+	</h3>
+
+	<p>
+		Heroes Brawl - Blackheart's Revenge, Garden Arena, Punisher Arena, Temple Arena
+	</p>
+
+	<ul>
+<li>
+			Healing Fountains
+			<ul>
+<li>
+					Healing Fountains will now be Invulnerable when these Brawls next return to the Nexus
+				</li>
+			</ul>
+</li>
+	</ul>
+<p>
+		Braxis Holdout
+	</p>
+
+	<ul>
+<li>
+			Zerg Rush
+			<ul>
+<li>
+					Initial Zergling spawn increased from 3 to 6 Zerglings
+				</li>
+			</ul>
+</li>
+	</ul>
+<p>
+		Warhead Junction
+	</p>
+
+	<ul>
+<li>
+			Warheads
+			<ul>
+<li>
+					Base damage reduced from 2750 to 2300.
+				</li>
+				<li>
+					Warhead damage now scales by a flat 70 every minute, and no longer has a large jump at 18 minutes.
+				</li>
+				<li>
+					Inner Warhead damage is still a 50% bonus.
+				</li>
+			</ul>
+</li>
+	</ul>
+<blockquote>
+		<span style="color:#ffffff;"><em>Developer Comments</em></span>:  We didn’t like the gameplay of holding off on using a Warhead for a sudden unintuitive damage spike, so we’ve smoothed out their damage curve over a longer period. This should end up playing mostly the same across the game, with only about 10% differences in damage at various points in the match.
+	</blockquote>
+
+	<h3>
+		<a name="Hero_Return" rel=""></a>HEROES
+	</h3>
+
+	<p>
+		<a name="Assassin" rel=""></a>
+	</p>
+
+	<h3>
+		ASSASSIN
+	</h3>
+
+	<h4>
+		<a name="Chromie" rel=""></a>CHROMIE
+	</h4>
+
+	<p>
+		<img alt="Divider_Hero_Chromie_Crop.png" data-id="20131266" src="https://bnetcmsus-a.akamaihd.net/cms/content_folder_media/MFJDRBHR7RV11463704045342.png"></p>
+
+	<p>
+		Abilities
+	</p>
+
+	<ul>
+<li>
+			Timewalker (Trait)
+			<ul>
+<li>
+					Increased the level reduction for getting Talents from 1 to 2 levels
+				</li>
+			</ul>
+</li>
+	</ul>
+<p>
+		Talents
+	</p>
+
+	<ul>
+<li>
+			Level 1
+			<ul>
+<li>
+					Timewalker’s Pursuit (Active)
+					<ul>
+<li>
+							Added Functionality:
+							<ul>
+<li>
+									You can now also activate this Talent to reveal an area for 2 seconds.  Enemies seen are revealed for 4 seconds.
+								</li>
+							</ul>
+</li>
+					</ul>
+</li>
+				<li>
+					Peer Into the Future (Active)
+					<ul>
+<li>
+							Removed
+						</li>
+					</ul>
+</li>
+			</ul>
+</li>
+	</ul>
+<blockquote>
+		<span style="color:#ffffff;"><em>Developer Comments</em></span>:  We’re looking to add more power to Chromie that fits the flavor of the character, without increasing her burst potential across the entirety of the game. We’re also combining the effects of Timewalker’s Pursuit and Peer Into the Future to create an enticing option at Level 1. 
+	</blockquote>
+
+	<h4>
+		<a name="Kael" rel=""></a>KAEL'THAS
+	</h4>
+
+	<p>
+		<img alt="Divider_Heroes_Kaelthas_Cropped.png" data-id="19828415" src="https://bnetcmsus-a.akamaihd.net/cms/content_folder_media/RRZWEAEXJ8441439221492336.png"></p>
+
+	<p>
+		Abilities
+	</p>
+
+	<ul>
+<li>
+			Pyroblast (R)
+			<ul>
+<li>
+					Cast time reduced from 2 to 1.5 seconds
+				</li>
+				<li>
+					Cast range increased by roughly 30%
+				</li>
+			</ul>
+</li>
+	</ul>
+<blockquote>
+		<span style="color:#ffffff;"><em>Developer Comments</em></span>:  Pyroblast has been underperforming compared to Phoenix. We like where its damage is at, and that a lot of Heroes have ways to negate or mitigate it. Instead, we’re buffing the consistency of the Heroic to make it more competitive. 
+	</blockquote>
+	<a name="Support" rel=""></a>
+
+	<h3>
+		SUPPORT
+	</h3>
+
+	<h4>
+		<a name="Auriel" rel=""></a>AURIEL
+	</h4>
+
+	<p>
+		<img alt="Divider_Hero_Auriel_Crop.png" data-id="20256907" src="https://bnetcmsus-a.akamaihd.net/cms/content_folder_media/ox/OX0P7L15DW4I1471895719519.png"></p>
+
+	<p>
+		Abilities
+	</p>
+
+	<ul>
+<li>
+			Bestow Hope (Trait)
+			<ul>
+<li>
+					Crown visual effects can now be seen by Allies
+				</li>
+			</ul>
+</li>
+	</ul>
+<h4>
+		<a name="Rehgar" rel=""></a>REHGAR
+	</h4>
+
+	<p>
+		<img alt="Divider_Hero_Rehgar_Crop.png" data-id="17042296" src="https://bnetcmsus-a.akamaihd.net/cms/content_folder_media/HM0ECRA7F3U91417483335126.png"></p>
+
+	<p>
+		Stats
+	</p>
+
+	<ul>
+<li>
+			Increased Basic Attack damage from 99 to 120 
+		</li>
+	</ul>
+<p>
+		Abilities
+	</p>
+
+	<ul>
+<li>
+			Lightning Shield (W)
+			<ul>
+<li>
+					Increased damage from 64 to 70 per second
+				</li>
+			</ul>
+</li>
+		<li>
+			Bloodlust (R)
+			<ul>
+<li>
+					Added functionality:
+					<ul>
+<li>
+							All affected allies now heal for 30% of Basic Attack damage dealt during Bloodlust
+						</li>
+					</ul>
+</li>
+			</ul>
+</li>
+	</ul>
+<p>
+		Talents
+	</p>
+
+	<ul>
+<li>
+			Level 4
+			<ul>
+<li>
+					Stormcaller (W)
+					<ul>
+<li>
+							Now returns Mana from hitting all enemies, not just Heroes
+						</li>
+					</ul>
+</li>
+			</ul>
+</li>
+		<li>
+			Level 7
+			<ul>
+<li>
+					Totemic Projection (E)
+					<ul>
+<li>
+							Added Functionality:
+							<ul>
+<li>
+									Now also increases the duration of Earthbind Totem from 8 to 12 seconds
+								</li>
+							</ul>
+</li>
+					</ul>
+</li>
+			</ul>
+</li>
+		<li>
+			Level 20
+			<ul>
+<li>
+					Farseer's Blessing (R)
+					<ul>
+<li>
+							Secondary healing effect increased from 25% to 50% of Ancestral Healing’s full amount
+						</li>
+					</ul>
+</li>
+				<li>
+					Gladiator's War Shout (R)
+					<ul>
+<li>
+							Now increases Bloodlust healing from 30% to 60% of Basic Attack damage
+						</li>
+					</ul>
+</li>
+			</ul>
+</li>
+	</ul>
+<blockquote>
+		<span style="color:#ffffff;"><em>Developer Comments</em></span>:  It’s been a while since Rehgar was a major dominant force, and his performance is now low enough that we can safely increase the rewards for his aggressive playstyle without pushing his winrate too high. For Bloodlust, we wanted to reduce the loss of healing for picking the Heroic, but only for Basic Attack teams that really benefit from it. 
+	</blockquote>
+
+	<p>
+		<a name="Warrior" rel=""></a>
+	</p>
+
+	<h3>
+		WARRIOR
+	</h3>
+
+	<h4>
+		<a name="Artanis" rel=""></a>ARTANIS
+	</h4>
+
+	<p>
+		<img alt="Divider_Hero_Artanis_crop.png" data-id="20011596" src="https://bnetcmsus-a.akamaihd.net/cms/content_folder_media/RI0KPP58OKKA1452704274381.png"></p>
+
+	<p>
+		Abilities
+	</p>
+
+	<ul>
+<li>
+			Blade Dash (Q)
+			<ul>
+<li>
+					Added functionality:
+					<ul>
+<li>
+							Now reduces the cooldown of Shield Overload by 1 second per enemy hit, and 2 seconds per Hero hit.
+						</li>
+					</ul>
+</li>
+			</ul>
+</li>
+		<li>
+			Twin Blades (W)
+			<ul>
+<li>
+					Charge range is now checked against the edge of target units, instead of their center. This increases the effective range of Twin Blades and should generally create more consistent behavior.
+				</li>
+			</ul>
+</li>
+		<li>
+			Phase Prism (E)
+			<ul>
+<li>
+					Added functionality:
+					<ul>
+<li>
+							You can now cast Phase Prism during Blade Dash
+						</li>
+					</ul>
+</li>
+				<li>
+					Cooldown increased from 14 to 16 seconds
+				</li>
+			</ul>
+</li>
+		<li>
+			Shield Overload (Trait)
+			<ul>
+<li>
+					Cooldown increased from 20 to 24 seconds
+				</li>
+				<li>
+					Activation threshold increased from 50 to 75% Health
+				</li>
+				<li>
+					Shield value reduced from 449 to 360 
+				</li>
+			</ul>
+</li>
+	</ul>
+<p>
+		Talents
+	</p>
+
+	<ul>
+<li>
+			Level 4
+			<ul>
+<li>
+					Shield Surge (Trait)
+					<ul>
+<li>
+							Moved from Level 16
+						</li>
+						<li>
+							New functionality:
+							<ul>
+<li>
+									Shield Overload's shield amount is increased by 80% while you are below 25% Health
+								</li>
+							</ul>
+</li>
+					</ul>
+</li>
+				<li>
+					Lethal Alacrity (Q)
+					<ul>
+<li>
+							Removed
+						</li>
+					</ul>
+</li>
+				<li>
+					Shield Battery (Trait)
+					<ul>
+<li>
+							Redesigned:
+							<ul>
+<li>
+									Shield Overload's cooldown recharges 50% faster while its shield is active, and increases the duration of Shield Overload from 5 to 6 seconds
+								</li>
+							</ul>
+</li>
+					</ul>
+</li>
+				<li>
+					Psionic Synergy (Q)
+					<ul>
+<li>
+							Moved from Level 7
+						</li>
+						<li>
+							Now increases the cooldown reduction of hitting Heroes with Blade Dash from 2 to 4 seconds
+						</li>
+					</ul>
+</li>
+			</ul>
+</li>
+		<li>
+			Level 7
+			<ul>
+<li>
+					Chrono Surge (E)
+					<ul>
+<li>
+							Moved from Level 4
+						</li>
+						<li>
+							Attack Speed bonus increased from 40 to 50%
+						</li>
+					</ul>
+</li>
+			</ul>
+</li>
+		<li>
+			Level 13
+			<ul>
+<li>
+					Templar's Zeal (Q)
+					<ul>
+<li>
+							Moved from Level 4
+						</li>
+					</ul>
+</li>
+				<li>
+					Phase Bulwark (Trait)
+					<ul>
+<li>
+							Ability damage mitigation reduced from 50 to 40%
+						</li>
+					</ul>
+</li>
+			</ul>
+</li>
+		<li>
+			Level 16
+			<ul>
+<li>
+					Burning Rage (Passive)
+					<ul>
+<li>
+							Moved from Level 13
+						</li>
+						<li>
+							Replaced with Plasma Burn (Trait):
+							<ul>
+<li>
+									While your Shield is active, you deal 50 damage a second to nearby enemies 
+								</li>
+							</ul>
+</li>
+					</ul>
+</li>
+			</ul>
+</li>
+	</ul>
+<blockquote>
+		<span style="color:#ffffff;"><em>Developer Comments</em></span>:  The goals with this Artanis update were twofold: Increase his playmaking (swapping enemies during Blade Dash), and increase his solo lane capabilities (Blade Dash reduces Shield Overload cooldown, Shield Overload triggers at higher Health). We think that with these changes, Artanis will be a strong choice on a lot more Battlegrounds and with more team compositions.
+	</blockquote>
+
+	<table border="0" cellpadding="0" cellspacing="0"><tbody>
+<tr bgcolor="#1A0A33">
+<th>
+					LEVEL (TIER)
+				</th>
+				<th>
+					 
+				</th>
+				<th>
+					ARTANIS TALENTS
+				</th>
+				<th>
+					 
+				</th>
+				<th>
+					 
+				</th>
+			</tr>
+<tr bgcolor="#06001F">
+<td>
+					1 (1)
+				</td>
+				<td>
+					Reactive Parry (W)
+				</td>
+				<td>
+					Amateur Opponent (W)
+				</td>
+				<td>
+					(!) Seasoned Marksman (Active)
+				</td>
+				<td>
+					—
+				</td>
+			</tr>
+<tr bgcolor="#100029">
+<td>
+					4 (2)
+				</td>
+				<td>
+					Psionic Synergy (Q)
+				</td>
+				<td>
+					Shield Battery (Trait)
+				</td>
+				<td>
+					Shield Surge (Trait)
+				</td>
+				<td>
+					—
+				</td>
+			</tr>
+<tr bgcolor="#06001F">
+<td>
+					7 (3)
+				</td>
+				<td>
+					Solarite Reaper (Q)
+				</td>
+				<td>
+					Warp Sickness (E)
+				</td>
+				<td>
+					Chrono Surge (E)
+				</td>
+				<td>
+					Follow Through (Passive)
+				</td>
+			</tr>
+<tr bgcolor="#100029">
+<td>
+					10 (4)
+				</td>
+				<td>
+					Suppression Pulse
+				</td>
+				<td>
+					Purifier Beam
+				</td>
+				<td>
+					—
+				</td>
+				<td>
+					—
+				</td>
+			</tr>
+<tr bgcolor="#06001F">
+<td>
+					13 (5)
+				</td>
+				<td>
+					Templar's Zeal (Q)
+				</td>
+				<td>
+					Triple Strike (W)
+				</td>
+				<td>
+					Graviton Vortex (E)
+				</td>
+				<td>
+					Phase Bulwark (Trait)
+				</td>
+			</tr>
+<tr bgcolor="#100029">
+<td>
+					16 (6)
+				</td>
+				<td>
+					Zealot Charge (W)
+				</td>
+				<td>
+					Titan Killer (W)
+				</td>
+				<td>
+					Psionic Wound (W)
+				</td>
+				<td>
+					Plasma Burn (Passive)
+				</td>
+			</tr>
+<tr bgcolor="#06001F">
+<td>
+					20 (7)
+				</td>
+				<td>
+					Orbital Bombardment (R)
+				</td>
+				<td>
+					Target Purified (R)
+				</td>
+				<td>
+					Force of Will (Trait)
+				</td>
+				<td>
+					Nexus Blades (Passive)
+				</td>
+			</tr>
+</tbody></table>
+<ul>
+<li>
+			(!) indicates a Questing Talent.
+		</li>
+		<li>
+			Italic text indicates a NEW Talent.
+		</li>
+		<li>
+			Bold text indicates a MOVED Talent.
+		</li>
+	</ul>
+<h4>
+		<a name="Dehaka" rel=""></a>DEHAKA
+	</h4>
+
+	<p>
+		<img alt="Divider_Hero_Dehaka_crop.png" data-id="20168482" src="https://bnetcmsus-a.akamaihd.net/cms/content_folder_media/s5/S5T04ROESNVH1466787135735.png"></p>
+
+	<p>
+		Abilities
+	</p>
+
+	<ul>
+<li>
+			Brushstalker (Trait)
+			<ul>
+<li>
+					Cooldown increased from 40 to 50 seconds
+				</li>
+				<li>
+					Functionality added:
+					<ul>
+<li>
+							Dehaka gains 15% Movement Speed while in a Bush and for 1 second after exiting a Bush
+						</li>
+					</ul>
+</li>
+			</ul>
+</li>
+		<li>
+			Burrow (E)
+			<ul>
+<li>
+					Functionality added:
+					<ul>
+<li>
+							Burrow can now be cancelled early by pressing the hotkey again
+						</li>
+					</ul>
+</li>
+			</ul>
+</li>
+		<li>
+			Adaptation (R)
+			<ul>
+<li>
+					Heal amount increased from 60 to 100% of incoming damage
+				</li>
+			</ul>
+</li>
+	</ul>
+<p>
+		Talents
+	</p>
+
+	<ul>
+<li>
+			Level 1
+			<ul>
+<li>
+					Enduring Swarm (W)
+					<ul>
+<li>
+							New functionality:
+							<ul>
+<li>
+									Dehaka takes 40% less damage from Abilities while Dark Swarm is active
+								</li>
+							</ul>
+</li>
+					</ul>
+</li>
+				<li>
+					Enhanced Agility (Trait)
+					<ul>
+<li>
+							New functionality:
+							<ul>
+<li>
+									Quest: For every 50 Essence you collect, increase your Brushstalker Movement Speed bonus by 1%. This can stack 10 times.
+								</li>
+							</ul>
+</li>
+					</ul>
+</li>
+			</ul>
+</li>
+		<li>
+			Level 4
+			<ul>
+<li>
+					Lurker Strain (E)
+					<ul>
+<li>
+							Functionality added:
+							<ul>
+<li>
+									Emerging from Burrow knocks away enemies and slows their Movement Speed by 30% for 2 seconds
+								</li>
+							</ul>
+</li>
+					</ul>
+</li>
+				<li>
+					Numbing Eruption (E)
+					<ul>
+<li>
+							Removed   
+						</li>
+					</ul>
+</li>
+				<li>
+					Hero Stalker (Trait)
+					<ul>
+<li>
+							Bonus Essence gained from takedowns reduced from 150 to 100%
+						</li>
+					</ul>
+</li>
+			</ul>
+</li>
+		<li>
+			Level 13
+			<ul>
+<li>
+					Swift Pursuit (Z)
+					<ul>
+<li>
+							New Functionality:
+							<ul>
+<li>
+									Brushstalker’s Movement Speed duration after leaving a Bush is increased from 1 to 3 seconds
+								</li>
+							</ul>
+</li>
+					</ul>
+</li>
+				<li>
+					Ferocious Stalker (Z)
+					<ul>
+<li>
+							New Functionality:
+							<ul>
+<li>
+									After using Brushstalker, increase all damage Dehaka deals by 25% for 10 seconds
+								</li>
+							</ul>
+</li>
+					</ul>
+</li>
+				<li>
+					Whirling Dervish (W)
+					<ul>
+<li>
+							Removed
+						</li>
+					</ul>
+</li>
+				<li>
+					New Talent: Primal Swarm (W)
+					<ul>
+<li>
+							Enemies affected by Dark Swarm take 15% increased damage from all sources
+						</li>
+					</ul>
+</li>
+			</ul>
+</li>
+		<li>
+			Level 16
+			<ul>
+<li>
+					Rapid Regeneration (E)
+					<ul>
+<li>
+							Removed
+						</li>
+					</ul>
+</li>
+				<li>
+					New Talent: Tunneling Claws (E)
+					<ul>
+<li>
+							Dehaka can now move while Burrowed
+						</li>
+					</ul>
+</li>
+			</ul>
+</li>
+		<li>
+			Level 20
+			<ul>
+<li>
+					Change is Survival (R)
+					<ul>
+<li>
+							Heal amount increased from 125 to 200% of incoming damage
+						</li>
+					</ul>
+</li>
+				<li>
+					Hardened Shield (Active)
+					<ul>
+<li>
+							Removed
+						</li>
+					</ul>
+</li>
+				<li>
+					New Talent: Essence Claws (Passive)
+					<ul>
+<li>
+							Basic Attacks slow enemies by 20% for 1 second
+						</li>
+						<li>
+							Basic Attacks against enemy Heroes grant Dehaka 5 Essence
+						</li>
+					</ul>
+</li>
+			</ul>
+</li>
+	</ul>
+<blockquote>
+		<span style="color:#ffffff;"><em>Developer Comments</em></span>:  We started doing some small changes to Dehaka’s talent tree in order to increase diversity and fix some talent pick issues. As is par for the course, this opened a rabbit-hole of design opportunities that we ended up falling into. While Dehaka’s changes were mostly complete before the BlizzCon Finals, his resurgence as a dark horse of competitive play helped us narrow down and finalize the rework. Base movement speed on Brushstalker helps meld his design while some brand new talents should open up some fun new ways to hunt your prey.
+	</blockquote>
+
+	<table border="0" cellpadding="0" cellspacing="0"><tbody>
+<tr bgcolor="#1A0A33">
+<th>
+					LEVEL (TIER)
+				</th>
+				<th>
+					 
+				</th>
+				<th>
+					DEHAKA TALENTS
+				</th>
+				<th>
+					 
+				</th>
+				<th>
+					 
+				</th>
+			</tr>
+<tr bgcolor="#06001F">
+<td>
+					1 (1)
+				</td>
+				<td>
+					Enduring Swarm (W)
+				</td>
+				<td>
+					Primal Aggression (W)
+				</td>
+				<td>
+					(!) Enhanced Agility (Trait)
+				</td>
+				<td>
+					(!) Tissue Regeneration (Trait)
+				</td>
+			</tr>
+<tr bgcolor="#100029">
+<td>
+					4 (2)
+				</td>
+				<td>
+					Lurker Strain (E)
+				</td>
+				<td>
+					One-Who-Collects (Trait)
+				</td>
+				<td>
+					Hero Stalker (Trait)
+				</td>
+				<td>
+					—
+				</td>
+			</tr>
+<tr bgcolor="#06001F">
+<td>
+					7 (3)
+				</td>
+				<td>
+					Feeding Frenzy (Q)
+				</td>
+				<td>
+					Constriction (Q)
+				</td>
+				<td>
+					Symbiosis (W)
+				</td>
+				<td>
+					(!) Essence Devourer (Trait)
+				</td>
+			</tr>
+<tr bgcolor="#100029">
+<td>
+					10 (4)
+				</td>
+				<td>
+					Isolation
+				</td>
+				<td>
+					Adaptation
+				</td>
+				<td>
+					—
+				</td>
+				<td>
+					—
+				</td>
+			</tr>
+<tr bgcolor="#06001F">
+<td>
+					13 (5)
+				</td>
+				<td>
+					Swift Pursuit (Z)
+				</td>
+				<td>
+					Ferocious Stalker (Z)
+				</td>
+				<td>
+					Primal Swarm (W)
+				</td>
+				<td>
+					 
+				</td>
+			</tr>
+<tr bgcolor="#100029">
+<td>
+					16 (6)
+				</td>
+				<td>
+					Paralyzing Enzymes (Q)
+				</td>
+				<td>
+					Elongated Tongue (Q)
+				</td>
+				<td>
+					Tunneling Claws (E)
+				</td>
+				<td>
+					 
+				</td>
+			</tr>
+<tr bgcolor="#06001F">
+<td>
+					20 (7)
+				</td>
+				<td>
+					Contagion (R)
+				</td>
+				<td>
+					Change is Survival (R)
+				</td>
+				<td>
+					Apex Predator (Z)
+				</td>
+				<td>
+					Essence Claws (Trait)
+				</td>
+			</tr>
+</tbody></table>
+<ul>
+<li>
+			(!) indicates a Questing Talent.
+		</li>
+		<li>
+			Italic text indicates a NEW Talent.
+		</li>
+		<li>
+			Bold text indicates a MOVED Talent.
+		</li>
+	</ul>
+<h4>
+		<a name="Diablo" rel=""></a>DIABLO
+	</h4>
+
+	<p>
+		<img alt="Divider_Hero_Diablo_Crop.png" data-id="17042282" src="https://bnetcmsus-a.akamaihd.net/cms/content_folder_media/W74UW0BVVWY41417483334083.png"></p>
+
+	<p>
+		Abilities
+	</p>
+
+	<ul>
+<li>
+			Shadow Charge (Q)
+			<ul>
+<li>
+					Base damage from 94 to 75
+					<ul>
+<li>
+							New Functionality:
+							<ul>
+<li>
+									Diablo gains 25% resistance for 2 seconds after charging
+								</li>
+								<li>
+									If Diablo’s target collides with terrain they take an additional 150 damage
+								</li>
+							</ul>
+</li>
+					</ul>
+</li>
+			</ul>
+</li>
+		<li>
+			Fire Stomp (W)
+			<ul>
+<li>
+					Base damage from 106 to 60
+					<ul>
+<li>
+							Added Functionality:
+							<ul>
+<li>
+									Fire Stomp fireballs return to Diablo, dealing 90 damage
+								</li>
+							</ul>
+</li>
+					</ul>
+</li>
+			</ul>
+</li>
+		<li>
+			Black Soulstone (Trait)
+			<ul>
+<li>
+					Bonus max Health per Soulstone stack from .2 to .4%
+				</li>
+			</ul>
+</li>
+	</ul>
+<p>
+		Talents
+	</p>
+
+	<ul>
+<li>
+			Level 1
+			<ul>
+<li>
+					Block (Passive)
+					<ul>
+<li>
+							Removed
+						</li>
+					</ul>
+</li>
+				<li>
+					Devil’s Due (Passive)
+					<ul>
+<li>
+							New functionality:
+							<ul>
+<li>
+									Regeneration Globes and Healing Fountains are 2% more effective for every stack of Black Soulstone
+								</li>
+							</ul>
+</li>
+					</ul>
+</li>
+				<li>
+					Overwhelming Force (Q)
+					<ul>
+<li>
+							Removed
+						</li>
+					</ul>
+</li>
+				<li>
+					New Talent: Bulwark (Q)
+					<ul>
+<li>
+							Increase the duration of Shadow Charge’s Resistance effect from 2 to 5 seconds
+						</li>
+					</ul>
+</li>
+				<li>
+					Life Leech (Passive)
+					<ul>
+<li>
+							Moved from Level 13
+						</li>
+					</ul>
+</li>
+			</ul>
+</li>
+		<li>
+			Level 4
+			<ul>
+<li>
+					Demonic Strength (E)
+					<ul>
+<li>
+							Slow duration increased from 2 to 3 seconds
+						</li>
+						<li>
+							Slow amount increased from 25 to 30%
+						</li>
+					</ul>
+</li>
+				<li>
+					Soul Catcher (Passive)
+					<ul>
+<li>
+							Removed
+						</li>
+					</ul>
+</li>
+				<li>
+					Essence of the Slain (Passive)
+					<ul>
+<li>
+							Removed
+						</li>
+					</ul>
+</li>
+				<li>
+					New Talent: Speed Demon (Passive)
+					<ul>
+<li>
+							Diablo gains 30% Movement Speed for 5 seconds after being Stunned or Rooted
+						</li>
+					</ul>
+</li>
+				<li>
+					From the Shadows (Q)
+					<ul>
+<li>
+							Moved from Level 7
+							<ul>
+<li>
+									Functionality added:
+									<ul>
+<li>
+											Also increases Shadow Charge range by 33%
+										</li>
+									</ul>
+</li>
+							</ul>
+</li>
+					</ul>
+</li>
+			</ul>
+</li>
+		<li>
+			Level 7
+			<ul>
+<li>
+					Diabolical Momentum (Q)
+					<ul>
+<li>
+							Functionality changed:
+							<ul>
+<li>
+									Basic Attacks lower the cooldown of Shadow Charge and Overpower by 1.5 seconds
+								</li>
+							</ul>
+</li>
+					</ul>
+</li>
+				<li>
+					Soul Steal (Passive)
+					<ul>
+<li>
+							Removed
+						</li>
+					</ul>
+</li>
+				<li>
+					Devastating Charge (Q)
+					<ul>
+<li>
+							Moved from Level 7 to Level 13
+							<ul>
+<li>
+									Functionality changed:
+									<ul>
+<li>
+											Shadow Charging an enemy into unpathable terrain deals an additional 5% of that targets max Health in damage
+										</li>
+										<li>
+											Quest: Every time you charge an enemy into unpathable terrain, increase the bonus damage by 2%, stacking up to a 10% bonus (15% max health possible)
+										</li>
+									</ul>
+</li>
+							</ul>
+</li>
+					</ul>
+</li>
+				<li>
+					New Talent: Soul Shield (Trait)
+					<ul>
+<li>
+							Each Black Soulstone stack Diablo has grants him 0.35% Resistance to enemy Abilities
+						</li>
+					</ul>
+</li>
+				<li>
+					Soul Feast (Passive)
+					<ul>
+<li>
+							Moved from Level 1
+						</li>
+						<li>
+							New functionality:
+							<ul>
+<li>
+									Each Soulstone stack grants 0.4 Health Regeneration per second
+								</li>
+							</ul>
+</li>
+					</ul>
+</li>
+			</ul>
+</li>
+		<li>
+			Level 13
+			<ul>
+<li>
+					Firestorm (W)
+					<ul>
+<li>
+							Removed
+						</li>
+					</ul>
+</li>
+				<li>
+					Spell Shield (Passive)
+					<ul>
+<li>
+							Removed
+						</li>
+					</ul>
+</li>
+				<li>
+					Siphon the Dead (Active)
+					<ul>
+<li>
+							Removed
+						</li>
+					</ul>
+</li>
+				<li>
+					Hellfire (W)
+					<ul>
+<li>
+							Each enemy Hero hit by Fire Stomp increases the damage of the next Fire Stomp by 10%, stacking up to 100%.
+						</li>
+					</ul>
+</li>
+				<li>
+					Fire Devil (W)
+					<ul>
+<li>
+							Moved from Level 4
+						</li>
+						<li>
+							Aura damage increased from 17 to 22
+						</li>
+						<li>
+							Added functionality:
+							<ul>
+<li>
+									Also increases Diablo’s Basic Attack damage by 25% for 6 seconds
+								</li>
+							</ul>
+</li>
+					</ul>
+</li>
+			</ul>
+</li>
+		<li>
+			Level 16
+			<ul>
+<li>
+					Rampage (W)
+					<ul>
+<li>
+							Removed
+						</li>
+					</ul>
+</li>
+				<li>
+					Continuous Overpower (E)
+					<ul>
+<li>
+							Removed
+						</li>
+					</ul>
+</li>
+				<li>
+					Domination (E)
+					<ul>
+<li>
+							New Functionality:
+							<ul>
+<li>
+									Lower the Cooldown of Overpower by 4 seconds
+								</li>
+								<li>
+									Using Overpower refreshes the Cooldown of Shadow Charge
+								</li>
+							</ul>
+</li>
+					</ul>
+</li>
+				<li>
+					Imposing Presence (Passive)
+					<ul>
+<li>
+							Removed
+						</li>
+					</ul>
+</li>
+				<li>
+					New Talent: Fearful Presence (Passive/Active)
+					<ul>
+<li>
+							Passive: Heroes and Summons that attack Diablo have their Attack Speed slowed by 20% for 2.5 seconds
+						</li>
+						<li>
+							Active: Activate to reduce the damage dealt by nearby Heroes by 30% for 3 seconds
+						</li>
+					</ul>
+</li>
+			</ul>
+</li>
+		<li>
+			Level 20
+			<ul>
+<li>
+					Bolt of the Storm (Active)
+					<ul>
+<li>
+							Removed
+						</li>
+					</ul>
+</li>
+				<li>
+					New Talent: Hellgate (Active)
+					<ul>
+<li>
+							Activate to teleport a short distance and place a Demonic Rune at that location. After 1.75 seconds the rune explodes dealing 137 damage and stuns enemies for 1.75 seconds
+						</li>
+					</ul>
+</li>
+			</ul>
+</li>
+	</ul>
+<blockquote>
+		<span style="color:#ffffff;"><em>Developer Comments</em></span>:  The Lord of Terror has been under the knife for a couple months and has finally collected enough souls to resurrect himself. He reenters the Nexus with an updated talent tree focusing on maintaining and amplifying his identity. He should still excel as a gank-oriented Warrior, punishing out-of-position enemies, but also brings along some new survivability options. While we had to lower his damage slightly, the baseline addition of Firestorm and larger payoff for Shadow Charging enemies into collision should heavily reward opportunistic Diablo players.
+	</blockquote>
+
+	<table border="0" cellpadding="0" cellspacing="0"><tbody>
+<tr bgcolor="#1A0A33">
+<th>
+					LEVEL (TIER)
+				</th>
+				<th>
+					 
+				</th>
+				<th>
+					DIABLO TALENTS
+				</th>
+				<th>
+					 
+				</th>
+				<th>
+					 
+				</th>
+			</tr>
+<tr bgcolor="#06001F">
+<td>
+					1 (1)
+				</td>
+				<td>
+					Bulwark (Q)
+				</td>
+				<td>
+					Devil's Due (Trait)
+				</td>
+				<td>
+					Life Leech (Passive)
+				</td>
+				<td>
+					—
+				</td>
+			</tr>
+<tr bgcolor="#100029">
+<td>
+					4 (2)
+				</td>
+				<td>
+					From the Shadows (Q)
+				</td>
+				<td>
+					Speed Demon (W)
+				</td>
+				<td>
+					Demonic Strength (E)
+				</td>
+				<td>
+					—
+				</td>
+			</tr>
+<tr bgcolor="#06001F">
+<td>
+					7 (3)
+				</td>
+				<td>
+					Soul Feast (Trait)
+				</td>
+				<td>
+					Soul Shield (Trait)
+				</td>
+				<td>
+					Diabolical Momentum (Passive)
+				</td>
+				<td>
+					—
+				</td>
+			</tr>
+<tr bgcolor="#100029">
+<td>
+					10 (4)
+				</td>
+				<td>
+					Apocalypse
+				</td>
+				<td>
+					Lightning Breath
+				</td>
+				<td>
+					—
+				</td>
+				<td>
+					—
+				</td>
+			</tr>
+<tr bgcolor="#06001F">
+<td>
+					13 (5)
+				</td>
+				<td>
+					(!) Devastating Charge (Q)
+				</td>
+				<td>
+					Fire Devil (W)
+				</td>
+				<td>
+					Hellfire (W)
+				</td>
+				<td>
+					 
+				</td>
+			</tr>
+<tr bgcolor="#100029">
+<td>
+					16 (6)
+				</td>
+				<td>
+					Debilitating Flames (W)
+				</td>
+				<td>
+					Domination (E)
+				</td>
+				<td>
+					Fearful Presence (Active)
+				</td>
+				<td>
+					 
+				</td>
+			</tr>
+<tr bgcolor="#06001F">
+<td>
+					20 (7)
+				</td>
+				<td>
+					Dying Breath (R)
+				</td>
+				<td>
+					Hellstorm (R)
+				</td>
+				<td>
+					Lord of Terror (Active)
+				</td>
+				<td>
+					Hellgate (Active)
+				</td>
+			</tr>
+</tbody></table>
+<ul>
+<li>
+			(!) indicates a Questing Talent.
+		</li>
+		<li>
+			Italic text indicates a NEW Talent.
+		</li>
+		<li>
+			Bold text indicates a MOVED Talent.
+		</li>
+	</ul>
+<h4>
+		<a name="Zarya" rel=""></a>ZARYA
+	</h4>
+
+	<p>
+		<img alt="Divider_Hero_Zarya_crop.png" data-id="20311161" src="https://bnetcmsus-a.akamaihd.net/cms/content_folder_media/1v/1VUWFBVGUHBY1475167033295.png"></p>
+
+	<p>
+		Abilities
+	</p>
+
+	<ul>
+<li>
+			Particle Grenade (Q)
+			<ul>
+<li>
+					This ability has received improvements to its cast animation
+				</li>
+				<li>
+					The time between casting Particle Grenade and performing another action has been reduced by .25 seconds
+				</li>
+			</ul>
+</li>
+	</ul>
+<blockquote>
+		<span style="color:#ffffff;"><em>Developer Comments</em></span>:  Casting Zarya’s Particle Grenade would force her to be locked in place for a short period of time. We don’t do this on other Heroes, and we felt like this exception broke the fluidity of the character. 
+	</blockquote>
+
+	<p>
+		<a name="Bug_Fixes" rel=""></a>
+	</p>
+
+	<h3>
+		BUG FIXES
+	</h3>
+
+	<p>
+		<span style="color:#ffffff;"><strong>Battlegrounds</strong></span>
+	</p>
+
+	<ul>
+<li>
+			Braxis Holdout: XP awarded for destroying the Archangel now correctly scales over the course of the game.
+		</li>
+	</ul>
+<p>
+		<span style="color:#ffffff;"><strong>Heroes, Abilities, and Talents</strong></span>
+	</p>
+
+	<ul>
+<li>
+			Chen: Fixed an issue that prevented Chen from regenerating Health while using Wandering Keg.
+		</li>
+		<li>
+			Illidan: Quest progress icons will no longer continue to appear after completing the Unbound Talent quest.
+		</li>
+		<li>
+			Leoric: The Camera will now properly follow Leoric’s Wraith form during Wraith Walk while Camera Follow is enabled.
+		</li>
+		<li>
+			Lt. Morales: Fixed a rare issue that could cause Lt. Morales players to lose control of the Hero.
+		</li>
+		<li>
+			Nazeebo: The Camera will now properly follow Ravenous Spirit while Camera Follow is enabled.
+		</li>
+		<li>
+			Samuro: The tooltip for Mirror Image now properly mentions that activating the Ability will remove certain negative status effects.
+		</li>
+		<li>
+			Thrall: Earthquake now correctly slows enemy Minions and Mercenaries in addition to Heroes.
+		</li>
+		<li>
+			Zagara: Infest will now properly grant bonus Attack Damage to Minions for Siege Damage dealt.
+		</li>
+	</ul>
+<p>
+		<span style="color:#ffffff;"><strong>User Interface</strong></span>
+	</p>
+
+	<ul>
+<li>
+			In-Game: Fixed an issue which caused certain Heroes’ Trait UI to block players from clicking to view Talent Tiers 10 through 20.
+		</li>
+	</ul>
+<p>
+		(<a href="http://us.battle.net/heroes/en/blog/20405715/heroes-of-the-storm-patch-notes-december-14-2016-12-14-2016" rel="external nofollow">Source</a>)
+	</p>
+</div>
+]]></description><guid isPermaLink="false">26808</guid><pubDate>Wed, 14 Dec 2016 16:25:29 +0000</pubDate></item><item><title>Un'Goro Madness Micro-Holiday</title><link>http://www.icy-veins.com/forums/topic/26805-ungoro-madness-micro-holiday/</link><description><![CDATA[
+<p style="text-align:center;">
+	<img alt="mgv28pJ.jpg" data-icy-veins="news_image" data-ipb="nomediaparse" src="http://www.icy-veins.com/forums/news/26804-ungoro-madness-micro-holiday.jpg"></p>
+
+<p data-icy-veins="news_description">
+	Our micro-holiday preview continues with Un'Goro Madness that's scheduled for August 10.
+</p>
+
+<p>
+	The fastest way to get to Un'Goro Crater is by taking the portal to Caverns of Time in Dalaran. During the Un'Goro Madness micro-holiday, you will see three elites spawn across Un'Goro.
+</p>
+
+<p>
+	<img alt="vUN7ZjL.jpg" class="ipsImage" src="http://i.imgur.com/vUN7ZjL.jpg"></p>
+
+<p>
+	They are marked by red "X" on the world map. Defeating one will make another elite spawn elsewhere. There are always three of them up at one time. The elites have around 230 million HP and drop <span class="spell_icon_span"><img alt="Dino Mojo" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_potion_94.jpg"><a class="q1" href="http://ptr.wowdb.com/items/144228" rel="external nofollow">Dino Mojo</a> </span>that grants various effects
+</p>
+
+<ul>
+<li>
+		<span class="spell_icon_span"><img alt="Adaptation: Adrenaline" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/ability_rikkal_genetics.jpg"><a class="spell" href="http://ptr.wowdb.com/spells/235655" rel="external nofollow">Adaptation: Adrenaline</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Adaptation: Caustic Blood" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/ability_rikkal_genetics.jpg"><a class="spell" href="http://ptr.wowdb.com/spells/235659" rel="external nofollow">Adaptation: Caustic Blood</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Adaptation: Chronometric Instability" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/ability_rikkal_genetics.jpg"><a class="spell" href="http://ptr.wowdb.com/spells/235660" rel="external nofollow">Adaptation: Chronometric Instability</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Adaptation: Heavy Footed" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/ability_rikkal_genetics.jpg"><a class="spell" href="http://ptr.wowdb.com/spells/235656" rel="external nofollow">Adaptation: Heavy Footed</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Adaptation: Poisonous Skin" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/ability_rikkal_genetics.jpg"><a class="spell" href="http://ptr.wowdb.com/spells/235654" rel="external nofollow">Adaptation: Poisonous Skin</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Adaptation: Spores" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/ability_rikkal_genetics.jpg"><a class="spell" href="http://ptr.wowdb.com/spells/235658" rel="external nofollow">Adaptation: Spores</a></span>
+	</li>
+</ul>
+<p>
+	When I've been testing the micro-holiday, <a class="npc" href="http://ptr.wowdb.com/npcs/118271" rel="external nofollow">Clutchmother Zavas</a>, <a class="npc" href="http://ptr.wowdb.com/npcs/118268" rel="external nofollow">Giantfin</a> and <a class="npc" href="http://ptr.wowdb.com/npcs/118279" rel="external nofollow">Dadanga</a> were up.
+</p>
+
+<p>
+	<img alt="ixlIXGS.jpg" class="ipsImage" src="http://i.imgur.com/ixlIXGS.jpg"></p>
+
+<p>
+	<img alt="IIUd1YP.jpg" class="ipsImage" src="http://i.imgur.com/IIUd1YP.jpg"></p>
+
+<p>
+	<img alt="Uqeb5qM.jpg" class="ipsImage" src="http://i.imgur.com/Uqeb5qM.jpg"></p>
+
+<p>
+	We've eventually defeated poor Dadanga, RIP!
+</p>
+
+<p>
+	<img alt="xE8ax4R.jpg" class="ipsImage" src="http://i.imgur.com/xE8ax4R.jpg"></p>
+
+<p>
+	Other elites that may spawn aside of the three listed above are
+</p>
+
+<ul>
+<li>
+		<a class="npc" href="http://ptr.wowdb.com/npcs/118273" rel="external nofollow">Akaridal</a>
+	</li>
+	<li>
+		<a class="npc" href="http://ptr.wowdb.com/npcs/118270" rel="external nofollow">Sunkeeper Croesus</a>
+	</li>
+	<li>
+		<a class="npc" href="http://ptr.wowdb.com/npcs/118272" rel="external nofollow">Sherazin</a>
+	</li>
+	<li>
+		<a class="npc" href="http://ptr.wowdb.com/npcs/118274" rel="external nofollow">Tar Tyrant</a>
+	</li>
+	<li>
+		<a class="npc" href="http://ptr.wowdb.com/npcs/118267" rel="external nofollow">Tyrantus</a>
+	</li>
+	<li>
+		<a class="npc" href="http://ptr.wowdb.com/npcs/118269" rel="external nofollow">Queen Zavra</a>
+	</li>
+</ul>
+<p>
+	That's it for Un'Goro Madness!
+</p>
+]]></description><guid isPermaLink="false">26805</guid><pubDate>Wed, 14 Dec 2016 15:15:19 +0000</pubDate></item><item><title><![CDATA[Illidan's Story Update & UH Death Knight Changes]]></title><link>http://www.icy-veins.com/forums/topic/26796-illidans-story-update-uh-death-knight-changes/</link><description><![CDATA[
+<p>
+	<img alt="Vvfbbli.jpg" data-icy-veins="news_image" data-ipb="nomediaparse" src="http://www.icy-veins.com/forums/news/26795-illidans-story-update-uh-death-knight-changes.jpg"></p>
+
+<p data-icy-veins="news_description">
+	New quests related to Illidan's fate have been added and Unholy Death Knights are getting a small buff in the next PTR Build.
+</p>
+
+<p>
+	<strong>Illidan's Story Update</strong>
+</p>
+
+<p>
+	Patch 7.1 added new quests to Illidan's story. Players that have been collecting <a class="currency" href="http://www.wowhead.com/currency=1314" rel="external nofollow">Lingering Soul Fragments</a> to finish <a class="quest" href="http://www.wowdb.com/quests/45175" rel="external nofollow">Soul Prism of the Illidari</a> will be awarded <a href="http://www.icy-veins.com/forums/topic/24939-patch-71-illidans-story-nagrand-arena-visual-update/" rel="">item level 870 boots or belt</a>.
+</p>
+
+<p>
+	The story continues with two new quests.
+</p>
+
+<ul>
+<li>
+		<a class="quest" href="http://www.wowdb.com/quests/45176" rel="external nofollow">The Once and Future Lord of Shadows</a>
+
+		<ul>
+<li>
+				Completing this quest rewards item level 870 gloves or shoulders.
+				<ul>
+<li>
+						<span class="spell_icon_span"><img alt="Blazing Purpose Mantle" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_shoulder_mail_legionendgame_c_01.jpg"><a class="q4" href="http://www.wowdb.com/items/139988" rel="external nofollow">Blazing Purpose Mantle</a></span>
+					</li>
+					<li>
+						<span class="spell_icon_span"><img alt="Crusader's Inferno Pauldrons" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_shoulder_plate_legionendgame_c_01.jpg"><a class="q4" href="http://www.wowdb.com/items/140021" rel="external nofollow">Crusader's Inferno Pauldrons</a></span>
+					</li>
+					<li>
+						<span class="spell_icon_span"><img alt="Gloves of the Shadow's Return" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_glove_leather_legionendgame_c_01.jpg"><a class="q4" href="http://www.wowdb.com/items/139941" rel="external nofollow">Gloves of the Shadow's Return</a></span>
+					</li>
+					<li>
+						<span class="spell_icon_span"><img alt="Grips of Death's Grasp" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_gauntlets_mail_legionendgame_c_01.jpg"><a class="q4" href="http://www.wowdb.com/items/139964" rel="external nofollow">Grips of Death's Grasp</a></span>
+					</li>
+					<li>
+						<span class="spell_icon_span"><img alt="Handwraps of Soulwringing" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_glove_cloth_legionendgame_c_01.jpg"><a class="q4" href="http://www.wowdb.com/items/139904" rel="external nofollow">Handwraps of Soulwringing</a></span>
+					</li>
+					<li>
+						<span class="spell_icon_span"><img alt="Inferno's March Shoulderpads" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_shoulder_leather_legionendgame_c_01.jpg"><a class="q4" href="http://www.wowdb.com/items/139958" rel="external nofollow">Inferno's March Shoulderpads</a></span> 
+					</li>
+					<li>
+						<span class="spell_icon_span"><img alt="Netherworld's March Amice" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_shoulder_cloth_legionendgame_c_01.jpg"><a class="q4" href="http://www.wowdb.com/items/139928" rel="external nofollow">Netherworld's March Amice</a></span>
+					</li>
+					<li>
+						<span class="spell_icon_span"><img alt="The Soulbinder's Gauntlets" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_glove_plate_legionendgame_c_01.jpg"><a class="q4" href="http://www.wowdb.com/items/139996" rel="external nofollow">The Soulbinder's Gauntlets</a></span>
+					</li>
+				</ul>
+</li>
+		</ul>
+</li>
+	<li>
+		<a class="quest" href="http://www.wowdb.com/quests/45177" rel="external nofollow">The Nighthold</a>
+	</li>
+</ul>
+<p>
+	Both quests feature major spoilers related to Illidan's story, so proceed at own caution.
+</p>
+
+<div class="ipsSpoiler" data-ipsspoiler="">
+	<div class="ipsSpoiler_header">
+		 
+	</div>
+
+	<div class="ipsSpoiler_contents">
+		<p>
+			<strong><a class="quest" href="http://www.wowdb.com/quests/45176" rel="external nofollow">The Once and Future Lord of Shadows</a></strong>
+		</p>
+
+		<p>
+			<strong>Quest Objective</strong>: <em>Defeat Helya in the Trials of Valor raid and then use the Soul Prism of the Illidari to claim Illidan's Soul.</em>
+		</p>
+
+		<p>
+			<strong>Quest Description</strong>: While tracking the master's physical body proved challenging, we were able to locate it in the Nighthold of Suramar. Our intelligence reports that Gul'dan is making final preparations to the Nightwell in order to use its power to usher the soul of Sargeras into Illidan's body.<br><br>
+			The only way to stop that from happening is to put Illidan's own immortal soul back.<br><br>
+			Take the Soul Prism of the Illidari and venture to Helheim. Defeat Helya and use the prism on Illidan's soul! Return it to Light's Heart.
+		</p>
+
+		<p>
+			<strong><a class="quest" href="http://www.wowdb.com/quests/45177" rel="external nofollow">The Nighthold</a></strong>
+		</p>
+
+		<p>
+			<strong>Quest Objective: </strong>Deliver Light's Heart to Khadgar at the Violet Citadel in Dalaran.
+		</p>
+
+		<p>
+			<strong>Quest Description:</strong> Illidan's soul rests safely within Light's Heart. Take this vessel and deliver it to Khadgar with the following instructions:<br><br>
+			When Gul'dan attempts to tear the sky asunder and bring the dark titan into our world, call forth the power of this vessel and release Illidan's soul into his body.<br><br>
+			Go now, &lt;name&gt;. We do not have much time. The dark ritual will begin soon.
+		</p>
+	</div>
+</div>
+
+<p>
+	<strong>Unholy Death Knights</strong>
+</p>
+
+<p>
+	A small buff is coming to Unholy Death Knights in a future PTR build. The newest build should also feature a <a href="http://www.icy-veins.com/forums/topic/26784-substantial-legendary-changes-coming-to-ptr/" rel="">major rework of many Legendary items</a>.
+</p>
+
+<div class="blue_post">
+	<h2 class="blue_title">
+		<img alt="Blizzard Logo" src="http://static.icy-veins.com/images/common/blizzard_icon.png">Sigma
+	</h2>
+
+	<p>
+		Quick note on a small upcoming change: in the next PTR build, <span class="spell_icon_span"><img alt="Apocalypse" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/trade_engineering.jpg"><a class="spell" href="http://www.wowdb.com/spells/214839" rel="external nofollow">Apocalypse</a></span> will burst up to 6 <span class="spell_icon_span"><img alt="Festering Wound" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/spell_shadow_deathanddecay.jpg"><a class="spell" href="http://www.wowdb.com/spells/197147" rel="external nofollow">Festering Wounds</a></span> (instead of 8). However, the damage of the summoned ghouls will be increased by 33% (which will not be obvious from data), keeping the total the same. This is also a large buff to the damage of <span class="spell_icon_span"><img alt="Army of the Dead" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/spell_deathknight_armyofthedead.jpg"><a class="spell" href="http://ptr.wowdb.com/spells/42650" rel="external nofollow">Army of the Dead</a></span>. Finally, in a separate change, the damage of the <span class="spell_icon_span"><img alt="Summon Gargoyle" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/ability_deathknight_summongargoyle.jpg"><a class="spell" href="http://ptr.wowdb.com/spells/49206" rel="external nofollow">summmoned Gargoyle</a></span> and Val'kyr (<span class="spell_icon_span"><img alt="Dark Arbiter" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/achievement_boss_svalasorrowgrave.jpg"><a class="spell" href="http://ptr.wowdb.com/spells/207349" rel="external nofollow">Dark Arbiter</a></span>) will be increased.
+	</p>
+
+	<p>
+		<em><span style="color:#ffffff;">However, will </span><span class="spell_icon_span"><span style="color:#ffffff;"><img alt="Apocalypse" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/trade_engineering.jpg"></span><a class="spell" href="http://www.wowdb.com/spells/214839" rel="external nofollow"><span style="color:#ffffff;">Apocalypse</span></a></span><span style="color:#ffffff;"> continue to burst 4 wounds in pvp?</span></em>
+	</p>
+
+	<p>
+		Yes.
+	</p>
+
+	<p>
+		(<a href="https://us.battle.net/forums/en/wow/topic/20752535075?page=11#post-202" rel="external nofollow">Source</a>)
+	</p>
+</div>
+]]></description><guid isPermaLink="false">26796</guid><pubDate>Wed, 14 Dec 2016 11:44:11 +0000</pubDate></item><item><title>7.1 Hotfixes: December 13th</title><link>http://www.icy-veins.com/forums/topic/26787-71-hotfixes-december-13th/</link><description><![CDATA[
+<p style="text-align:center;">
+	<img alt="26593-71-hotfixes-december-6th.png" data-icy-veins="news_image" data-ipb="nomediaparse" src="http://www.icy-veins.com/forums/news/26786-71-hotfixes-december-13th.png"></p>
+
+<p>
+	 
+</p>
+
+<p data-icy-veins="news_description">
+	As Season 2 was opened today some minor hotfixes have just appeared with Prestige level 8 becoming available and some additional tweaks to PvP stats.
+</p>
+
+<p>
+	There was also a recent blue post covering upcoming changes to legendary items on the PTR you can check out <a href="http://www.icy-veins.com/forums/topic/26784-substantial-legendary-changes-coming-to-ptr/" rel="">here</a>.
+</p>
+
+<div class="blue_post">
+	<h2 class="blue_title">
+		<img alt="Blizzard Logo" src="http://static.icy-veins.com/images/common/blizzard_icon.png">Blizzard (<a href="https://worldofwarcraft.com/en-gb/news/20303039/hotfixes-december-13" rel="external nofollow">source</a>)
+	</h2>
+
+	<p>
+		<strong>Dungeons and Raids</strong>
+	</p>
+
+	<p style="margin-left:.25in;">
+		<strong>Trial of Valor</strong>
+	</p>
+
+	<p style="margin-left:.5in;">
+		<strong>Helya</strong>
+	</p>
+
+	<ul>
+<li>
+			Resolved an issue where Helya's Taint of the Sea on Mythic difficulty would sometimes cast at incorrect times in Stage One.
+		</li>
+	</ul>
+<p>
+		<strong>Player versus Player</strong>
+	</p>
+
+	<ul>
+<li>
+			Players can now reach Prestige level 8.
+		</li>
+	</ul>
+<p style="margin-left:.5in;">
+		<strong>Rogue</strong>
+	</p>
+
+	<ul style="list-style-type:circle;">
+<li>
+			(Assasination) Agility increased by 5%.
+		</li>
+		<li>
+			(Outlaw) Agility increased by 5%.
+		</li>
+	</ul>
+<p style="margin-left:.5in;">
+		<strong>Warlock</strong>
+	</p>
+
+	<ul style="list-style-type:circle;">
+<li>
+			(Affliction) Intellect decreased by 5%.
+		</li>
+	</ul>
+<p style="margin-left:.5in;">
+		<strong>Death Knight</strong>
+	</p>
+
+	<ul style="list-style-type:circle;">
+<li>
+			(Frost) Stamina reduced by 10%.
+		</li>
+	</ul>
+<p style="margin-left:.5in;">
+		<strong>Monk</strong>
+	</p>
+
+	<ul style="list-style-type:circle;">
+<li>
+			(Windwalker) Strike of the Windlord now deals 60% damage in PvP.
+		</li>
+		<li>
+			(Windwalker) Fists of Fury now deals 85% damage in PvP.
+		</li>
+	</ul>
+<p style="margin-left:.5in;">
+		<strong>Priest</strong>
+	</p>
+
+	<ul style="list-style-type:circle;">
+<li>
+			Atonement effect increased by 10% in PvP.
+		</li>
+	</ul>
+<p style="margin-left:.5in;">
+		<strong>Druid</strong>
+	</p>
+
+	<ul style="list-style-type:circle;">
+<li>
+			(Restoration) Fortified Bark (Honor Talent) now increases the damage reduction of Ironbark by 15% (was 30%).
+		</li>
+	</ul>
+</div>
+
+<p>
+	 
+</p>
+
+<p>
+	<a href="http://www.icy-veins.com/forums/topic/26594-71-hotfixes-december-6th/" rel="">Previous hotfixes.</a>
+</p>
+]]></description><guid isPermaLink="false">26787</guid><pubDate>Wed, 14 Dec 2016 02:06:58 +0000</pubDate></item><item><title>Substantial Legendary Changes Coming to PTR</title><link>http://www.icy-veins.com/forums/topic/26784-substantial-legendary-changes-coming-to-ptr/</link><description><![CDATA[
+<p style="text-align:center;">
+	<img alt="djZO5zR.jpg" data-icy-veins="news_image" data-ipb="nomediaparse" src="http://www.icy-veins.com/forums/news/26783-substantial-legendary-changes-coming-to-ptr.jpg"><br>
+	 
+</p>
+
+<p data-icy-veins="news_description">
+	It seems there will be some major changes coming to legendaries in the next PTR build, including nerfs to the more powerful and "always useful ones" as well as buffs to situational ones:
+</p>
+
+<div class="blue_post">
+	<h2 class="blue_title">
+		<img alt="Blizzard Logo" src="http://static.icy-veins.com/images/common/blizzard_icon.png">Lore (<a href="https://us.battle.net/forums/en/wow/topic/20752626046" rel="external nofollow">source</a>)
+	</h2>
+
+	<p>
+		As we mentioned this during the live Q&amp;A last week, we feel the biggest shortcoming of the current Legendary system is that, for some specs, there are some items that are clearly better than others in nearly all situations. As a result, players who have received a different Legendary item feel unlucky, as they didn’t receive the “best” one.
+	</p>
+
+	<p>
+		So, we’re making some fairly substantial changes to Legendary items intended to bring them more in line with each other. Items that give a raw throughput increase (without significant situational restrictions or drawbacks) are having their overall power reduced, and we’re taking another pass at several of the more niche items to make sure that, when they’re usable, they feel powerful.
+	</p>
+
+	<p>
+		Essentially, we feel that if a Legendary is only usable in certain situations, it should feel extremely valuable in those situations. Conversely, if a Legendary is nearly always going to increase your overall performance, that increase should be relatively smaller. Up until this point, we’ve made the mistake of allowing several items to be both extremely impactful AND always useful, which has made other Legendaries feel “bad” by comparison. It’s also caused some specs to feel as though they need a particular Legendary in order to compete. Those are the issues we’d like to solve.
+	</p>
+
+	<p>
+		We’re actively working on these changes right now and expect to have them ready for the next PTR build. We’ll be doing additional class tuning where necessary as a followup, once these changes are in place.
+	</p>
+
+	<div>
+		<span style="color:#ffffff;"><em>Instead we are faced with the daunting possibility that we may simply never get a useful legendary. That is not fun, its repeatedly disappointing.</em></span>
+	</div>
+
+	<div>
+		We agree. The problem is that some Legendaries don't feel useful. That's the issue we're looking to solve here.
+	</div>
+
+	<div>
+		 
+	</div>
+
+	<div>
+		<span style="color:#ffffff;"><em>I really hope you guys learn from the system and the next iteration of legendaries is purely defensive/utility and no outright dps legendary affixes. They would be much more fair/balanced if they were that way.</em></span>
+	</div>
+
+	<div>
+		There's definitely a lot we've learned here. Ion even said pretty much exactly this in the last Q&amp;A - if we did it all over again, we'd probably only make "Utility" Legendaries.
+	</div>
+
+	<div>
+		<div>
+			 
+		</div>
+
+		<div>
+			<span style="color:#ffffff;">With some, as </span><span class="spell_icon_span"><img alt="The Instructor's Fourth Lesson" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_bracer_26b.jpg"><a class="q5" href="http://ptr.wowdb.com/items/132448" rel="external nofollow">The Instructor's Fourth Lesson</a></span><span style="color:#ffffff;"> for Unholy DKs, it is MANDATORY. This legendary is -required- for us to perform even remotely on par with other DPS classes.</span>
+		</div>
+
+		<div>
+			Right. As I said, that's another problem we're trying to fix. If a spec is only competitive with a specific Legendary, then we need to bring up their numbers. To do that, we need to also nerf that Legendary.
+		</div>
+
+		<div>
+			 
+		</div>
+
+		<div>
+			<div>
+				<em><span style="color:#ffffff;">Just use a legendary token system. Problem solved.</span></em>
+			</div>
+
+			<div>
+				Disagree. "Just let me pick the best Legendary" doesn't solve this particular problem; there shouldn't be one or two Legendaries that are far and away the best one in all situations. With the way these items are in 7.1, if we add such a system, everyone will just pick the best 2 for their spec and the rest will still suck. We'd rather that none of them sucked.<br><br>
+				And just to be clear: something like what you (and others) are describing here is not off the table. Ion even mentioned at BlizzCon that we may end up doing something along those lines in a later patch. It just doesn't solve this problem.
+			</div>
+
+			<div>
+				 
+			</div>
+
+			<div>
+				<div>
+					<span style="color:#ffffff;"><em>Another problem not mentioned here is being spec-locked because of legendaries. I have X on my spec, so can't freely switch without feeling behind. AP already contributes to this problem but at least can be caught up -- legendaries, with soft caps and what not, just make it impossible to switch.</em></span>
+				</div>
+
+				<div>
+					 
+				</div>
+
+				<div>
+					Yeah, we definitely share your concern here. We don't have a solution yet (and aren't likely to for 7.1.5), but it's something we're talking about.
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+]]></description><guid isPermaLink="false">26784</guid><pubDate>Wed, 14 Dec 2016 01:33:23 +0000</pubDate></item><item><title>WTF Moments Episode 71</title><link>http://www.icy-veins.com/forums/topic/26776-wtf-moments-episode-71/</link><description><![CDATA[
+<p style="text-align:center;">
+	<img alt="CcLU1TC.jpg" data-icy-veins="news_image" data-ipb="nomediaparse" src="http://www.icy-veins.com/forums/news/26775-wtf-moments-episode-71.jpg"></p>
+
+<p data-icy-veins="news_description">
+	The 71th episode of WTF Moments doesn't cease to amaze, especially if you're a fan of Slug Life!
+</p>
+
+<p>
+	The WTF Moments series continues with Nova getting hit by almost every single Abathur nest killed in an epic manner by Abathur's slap, great Chromie gameplay in action as she instakills a freshly-resurrected Valla, great gameplay by the Last Guardian of Tirisfal and even more Abathur mine luring!
+</p>
+
+<div class="ipsEmbeddedVideo" contenteditable="false">
+	<div>
+		<iframe allowfullscreen="true" frameborder="0" height="270" src="https://www.youtube.com/embed/CKvV-qooFiM?feature=oembed" width="480"></iframe>
+	</div>
+</div>
+
+<p>
+	If you liked the video, you can <a href="https://www.youtube.com/channel/UCXAeKsZQL7koKko46kfIXXQ" rel="external nofollow">check out the YouTube channel</a> of Heroes of the Storm Highlights who is the author of the series.
+</p>
+]]></description><guid isPermaLink="false">26776</guid><pubDate>Tue, 13 Dec 2016 20:32:10 +0000</pubDate></item><item><title>The Winter Wonderland Event Is Here!</title><link>http://www.icy-veins.com/forums/topic/26774-the-winter-wonderland-event-is-here/</link><description><![CDATA[
+<p style="text-align:center;">
+	<img alt="VFW0NCB4AU581481354317456.jpg" data-icy-veins="news_image" data-ipb="nomediaparse" src="http://www.icy-veins.com/forums/news/26773-the-winter-wonderland-event-is-here.jpg"></p>
+
+<p>
+	 
+</p>
+
+<p data-icy-veins="news_description">
+	As previously teased the latest thematic event has arrived and is one of the classics! 100 new cosmetic items will be popping out of the present-wrapped loot boxes, including profile icons, sprays, victory poses, emotes, highlight intros, skins, and more.
+</p>
+
+<p>
+	You can also check out all the new skins in our facebook gallery:
+</p>
+
+<p style="text-align: center;">
+	<iframe allowtransparency="true" frameborder="0" height="683" scrolling="no" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmedia%2Fset%2F%3Fset%3Da.1462944050390275.1073741826.193434804007879%26type%3D3&amp;width=500" style="border:none;overflow:hidden" width="500"></iframe>
+</p>
+
+<div class="blue_post">
+	<h2 class="blue_title">
+		<img alt="Blizzard Logo" src="http://static.icy-veins.com/images/common/blizzard_icon.png">Blizzard (<a href="https://playoverwatch.com/en-us/blog/20393880" rel="external nofollow">source</a>)
+	</h2>
+
+	<p>
+		It's the most wonderful time of the year, and we hope you'll join us for some holiday cheer!
+	</p>
+
+	<p>
+		That's right—Overwatch is getting into the holiday spirit with a brand-new seasonal event. We’ve decked the halls of Hanamura and King’s Row, stuffed our Loot Boxes full of festive goodies, and arranged an extra-special snowball fight for you and your friends. So, grab a mug of hot cocoa, put on your favorite ugly sweater, and get ready to jingle all the way to <strong>Overwatch's</strong> <strong>Winter Wonderland</strong>!
+	</p>
+
+	<div class="centered" style="margin-bottom: 25px; text-align: center;">
+		<iframe allowfullscreen="" frameborder="0" height="394" src="https://www.youtube.com/embed/8Gjn0ObXWak?theme=light&amp;color=white&amp;cc_load_policy=1&amp;HD=1&amp;rel=0&amp;showinfo=0" style="border-bottom:1px solid lightgray;" width="700"></iframe>
+	</div>
+	<img alt="WinterWonderland2016-BlogSectionBar-AllWrappedUp_OW_Embedded_JP.png" data-id="20402112" src="https://bnetcmsus-a.akamaihd.net/cms/page_media/na/NA5FYSCR1KT41481652941201.png"><p>
+		Starting today, all in-game Loot Boxes have been replaced with our impeccably wrapped <strong>Winter Loot Boxes</strong>, and they’re filled to the brim with over 100 new cosmetic trimmings!
+	</p>
+
+	<p>
+		As with previous events, Winter Loot Boxes can be earned or purchased, and each will contain at least one item from our 2016 Winter Wonderland collection—including profile icons, sprays, victory poses, emotes, highlight intros, skins, and more! While the contents of each seasonal Loot Box are random, you can unlock a variety of these cordial customization options in the Hero Gallery throughout the event’s duration.
+	</p>
+
+	<p align="center">
+		<img alt="WinterSkinsSlideshow_OW_JP.GIF" data-id="20402111" src="https://bnetcmsus-a.akamaihd.net/cms/page_media/m1/M1S107UOS6GW1481651540794.GIF"></p>
+
+	<p>
+		Once you've unlocked an item, it will be yours forever, which means you can get into holly jolly hijinks all year-round. The collection will be dashing back into the vault on <strong>January 2</strong>, however (when the event concludes), so be sure to fire up your favorite gaming machine and celebrate before it’s too late!
+	</p>
+	<img alt="WinterWonderland2016-BlogSectionBar-SnowBrawlTime_OW_Embedded_JP.png" data-id="20402113" src="https://bnetcmsus-a.akamaihd.net/cms/page_media/d8/D8JFZM4QNEBX1481653008889.png"><p>
+		During this year’s Winter Wonderland event, you’ll also be able to queue up for a brand new brawl: <strong>Mei’s Snowball Offensive</strong>! Mei’s Snowball Offensive is a 6v6, single-elimination shindig featuring everyone's favorite climatologist—and she's got a few new tricks up her fur-lined sleeve.
+	</p>
+
+	<p align="center">
+		<img alt="MeisSnowballOffensiveCard_OW_JP.jpg" data-id="20401391" src="https://bnetcmsus-a.akamaihd.net/cms/page_media/8p/8PAM5214BPNI1481354390844.jpg"></p>
+
+	<p>
+		In this brawl, Mei's Endothermic Blaster no longer unleashes a stream of frost or shoots icicles. Instead, it's been modified to fire a single, super-powered snowball. Taking down an enemy only takes one hit, but a miss can be costly. Once your weapon is empty, your enemies will have the advantage as you search for the nearest snow pile to reload, so don't forget to cover your retreat with ice walls and cryo-freeze to block their attacks—and when the battle starts to heat up, you can activate Mei's Ultimate, which turns her blaster into a semi-automatic snowball launcher, allowing you to fire continuously as your enemies scatter.
+	</p>
+	<img alt="WinterWonderland2016-BlogSectionBar-SeasonsGreetings_OW_Embedded_JP.png" data-id="20402114" src="https://bnetcmsus-a.akamaihd.net/cms/page_media/wz/WZFNTZKBX3AM1481653058521.png"><p>
+		We'll also be spreading some good tidings and cheer over on our social media pages, so be sure to follow us on <a href="https://www.facebook.com/PlayOverwatch/" rel="external nofollow">Facebook</a>, <a href="https://twitter.com/PlayOverwatch" rel="external nofollow">Twitter</a>, and <a href="https://www.instagram.com/playoverwatch/" rel="external nofollow">Instagram </a>for a steady stream of joyful gifs, merry memes, and more—and don't forget to keep an eye on <a href="https://playoverwatch.com/en-us/" rel="external nofollow">playoverwatch.com</a> for the latest game news!
+	</p>
+
+	<p align="center">
+		<img alt="WinterLootBoxIdle_OW_JP.gif" data-id="20402987" src="https://bnetcmsus-a.akamaihd.net/cms/page_media/rx/RXM22I351DV91481354422883.gif"></p>
+
+	<p>
+		Stay frosty, heroes, and happy holidays from all of us at Blizzard Entertainment. Winter Wonderland is live RIGHT NOW on PC, PlayStation 4, and Xbox One, so get in there and get merry!
+	</p>
+</div>
+]]></description><guid isPermaLink="false">26774</guid><pubDate>Tue, 13 Dec 2016 19:57:33 +0000</pubDate></item><item><title>New Hearthstone Commerical Revealed</title><link>http://www.icy-veins.com/forums/topic/26771-new-hearthstone-commerical-revealed/</link><description><![CDATA[
+<p style="text-align:center;">
+	<img alt="OoSXBNN.jpg" data-icy-veins="news_image" data-ipb="nomediaparse" src="http://www.icy-veins.com/forums/news/26766-new-hearthstone-commerical-revealed.jpg"></p>
+
+<p data-icy-veins="news_description">
+	Blizzard have revealed their latest Hearthstone advertising campaign that will air over the Christmas period.
+</p>
+
+<p>
+	The version revealed uses the line "<em>Let's take this inside</em>" and feature people fighting over whose tub of Guacamole is on the table in front of them.
+</p>
+
+<div class="ipsEmbeddedVideo" contenteditable="false">
+	<div>
+		<iframe allowfullscreen="true" frameborder="0" height="270" src="https://www.youtube.com/embed/yJvNl-2bSaU?feature=oembed" width="480"></iframe>
+	</div>
+</div>
+
+<p>
+	I will be interested to see what people make of this advertisement. Do you feel it will bring in many new players? Will inactive players return when they see it? Let us know in the comment section below!
+</p>
+]]></description><guid isPermaLink="false">26771</guid><pubDate>Tue, 13 Dec 2016 16:56:01 +0000</pubDate></item><item><title>This Week in WoW: Dec 13</title><link>http://www.icy-veins.com/forums/topic/26770-this-week-in-wow-dec-13/</link><description><![CDATA[
+<p>
+	<img alt="5ONZlgw.jpg" data-icy-veins="news_image" data-ipb="nomediaparse" src="http://www.icy-veins.com/forums/news/26769-this-week-in-wow-dec-13.jpg"></p>
+
+<p data-icy-veins="news_description">
+	Withered J'm is this week's World Boss, Legion PvP Season 2 launches today, 8th week of <span class="spell_icon_span"><img alt="Insurrection" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_nightbornefemale.jpg"><a class="achievement" href="http://www.wowdb.com/achievements/11340" rel="external nofollow">Insurrection</a></span> is here and final dungeon bosses will grant an additional piece of loot.
+</p>
+
+<p>
+	<strong>World Boss <a class="npc" href="http://www.wowdb.com/npcs/112350" rel="external nofollow">Withered J'im</a></strong>
+</p>
+
+<p>
+	We have him up for the third time since the launch of Legion. During October he spawned for <a href="http://www.icy-veins.com/forums/topic/24351-withered-jim-up-again/" rel="">two weeks in a row</a>. The boss didn't previously count toward <span class="spell_icon_span"><img alt="Unleashed Monstrosities" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_misc_stormdragonpurple.jpg"><a class="achievement" href="http://www.wowdb.com/achievements/11160" rel="external nofollow">Unleashed Monstrosities</a></span> but this has been fixed. If you've been killing Legion World Bosses since launch, you should have unlocked the appearance by now, but you can't unlock the base appearance prior to Nighthold - <span class="spell_icon_span"><img alt="Improving on History" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/achievement_dungeon_utgardepinnacle_25man.jpg"><a class="achievement" href="http://www.wowdb.com/achievements/10459" rel="external nofollow">Improving on History</a></span>.
+</p>
+
+<p>
+	<strong>Loot Tables</strong>
+</p>
+
+<p>
+	The following loot can be acquired from this week's world boss. The baseline item level is 860 and all the loot can be Warforged and/or Titanforged. Don't forget to use a <a class="currency" href="http://www.wowdb.com/currencies/1273" rel="external nofollow">Seal of Broken Fate</a> for an additional chance to receive loot. 
+</p>
+
+<ul>
+<li>
+		<a class="q4 icontiny" data-entity="item" data-entity-has-icon="true" href="http://www.wowhead.com/item=141455" rel="external nofollow"><img align="absmiddle" alt="inv_helm_mail_raidhunter_q_01.gif" src="http://wow.zamimg.com/images/wow/icons/tiny/inv_helm_mail_raidhunter_q_01.gif"> <span class="tinyicontxt">Cave Skulker's Helm</span></a>
+	</li>
+	<li>
+		<a class="q4 icontiny" data-entity="item" data-entity-has-icon="true" href="http://www.wowhead.com/item=141492" rel="external nofollow"><img align="absmiddle" alt="inv_70_raid_ring5c.gif" src="http://wow.zamimg.com/images/wow/icons/tiny/inv_70_raid_ring5c.gif"> <span class="tinyicontxt">Dingy Suramar Mercantile Signet</span></a>
+	</li>
+	<li>
+		<a class="q4 icontiny" data-entity="item" data-entity-has-icon="true" href="http://www.wowhead.com/item=141543" rel="external nofollow"><img align="absmiddle" alt="inv_cape_legionraidwarlock_d_01.gif" src="http://wow.zamimg.com/images/wow/icons/tiny/inv_cape_legionraidwarlock_d_01.gif"> <span class="tinyicontxt">Drape of the Mana-Starved</span></a>
+	</li>
+	<li>
+		<a class="q4 icontiny" data-entity="item" data-entity-has-icon="true" href="http://www.wowhead.com/item=141453" rel="external nofollow"><img align="absmiddle" alt="inv_helmet_leather_raiddruid_q_01.gif" src="http://wow.zamimg.com/images/wow/icons/tiny/inv_helmet_leather_raiddruid_q_01.gif"> <span class="tinyicontxt">Magic-Warped Hood</span></a>
+	</li>
+	<li>
+		<a class="q4 icontiny" data-entity="item" data-entity-has-icon="true" href="http://www.wowhead.com/item=141449" rel="external nofollow"><img align="absmiddle" alt="inv_helm_cloth_raidmage_q_01.gif" src="http://wow.zamimg.com/images/wow/icons/tiny/inv_helm_cloth_raidmage_q_01.gif"> <span class="tinyicontxt">Mana Scavenger's Mask</span></a>
+	</li>
+	<li>
+		<a class="q4 icontiny" data-entity="item" data-entity-has-icon="true" href="http://www.wowhead.com/item=141459" rel="external nofollow"><img align="absmiddle" alt="inv_helm_plate_raidpaladinmythic_q_01.gi" src="http://wow.zamimg.com/images/wow/icons/tiny/inv_helm_plate_raidpaladinmythic_q_01.gif"> <span class="tinyicontxt">Manacrystal-Adorned Helmet</span></a>
+	</li>
+	<li>
+		<a class="q4 icontiny" data-entity="item" data-entity-has-icon="true" href="http://www.wowhead.com/item=141482" rel="external nofollow"><img align="absmiddle" alt="inv_datacrystal04.gif" src="http://wow.zamimg.com/images/wow/icons/tiny/inv_datacrystal04.gif"> <span class="tinyicontxt">Unstable Arcanocrystal</span></a>
+	</li>
+</ul>
+<p>
+	<span class="tinyicontxt"><strong>Legion PvP Season 2</strong></span>
+</p>
+
+<ul>
+<li>
+		The second PvP Season starts today at <strong>8:00 a.m. PST</strong> and more information can be found <a href="http://www.icy-veins.com/forums/topic/26347-legion-pvp-season-2-starts-on-december-13/#comment-192313" rel="">here</a>.
+	</li>
+</ul>
+<p>
+	<strong>Legion Dungeon Event</strong>
+</p>
+
+<ul>
+<li>
+		During this week, everyone will receive additional loot from the dungeon's last boss via <span class="spell_icon_span"><img alt="Sign of the Warrior" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_legionadventure.jpg"><a class="spell" href="http://www.wowdb.com/spells/225787" rel="external nofollow">Sign of the Warrior</a></span>.
+	</li>
+	<li>
+		Don't forget to pick the quest <a class="quest" href="http://www.wowdb.com/quests/44171" rel="external nofollow">Emissary of War</a> in your Adventure Journal. Complete four Mythic or Mythic+ dungeons and you'll get <span class="spell_icon_span"><img alt="Cache of Nightmarish Treasures" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_treasurechest_felfirecitadel.jpg"><a class="q4" href="http://www.wowdb.com/items/139487" rel="external nofollow">Cache of Nightmarish Treasures</a> </span>which contains a Heroic piece of Emerald Nightmare loot.
+	</li>
+</ul>
+<p>
+	<strong><span class="spell_icon_span"><img alt="Insurrection" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_nightbornefemale.jpg"><a class="achievement" href="http://www.wowdb.com/achievements/11340" rel="external nofollow">Insurrection</a></span>: 8th Week</strong>
+</p>
+
+<ul>
+<li>
+		The Suramar story continues with <a class="quest" href="http://www.wowdb.com/quests/44719" rel="external nofollow">Breaching the Sanctum</a> and <span class="spell_icon_span"><img alt="Fel-Dipped Blade" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_sword_1h_felfireraid_d_03.jpg"><a class="q4" href="http://www.wowdb.com/items/143746" rel="external nofollow">Fel-Dipped Blade</a></span> is rewarded upon completion.
+	</li>
+</ul>
+<p>
+	<strong>Mythic+ Affixes (US)</strong>
+</p>
+
+<p>
+	<em>Bolstering // Overflowing // Tyrannical</em>
+</p>
+]]></description><guid isPermaLink="false">26770</guid><pubDate>Tue, 13 Dec 2016 15:58:59 +0000</pubDate></item><item><title>Glowcap Festival Micro-Holiday</title><link>http://www.icy-veins.com/forums/topic/26765-glowcap-festival-micro-holiday/</link><description><![CDATA[
+<p style="text-align:center;">
+	<img alt="DTltg1B.jpg" data-icy-veins="news_image" data-ipb="nomediaparse" src="http://www.icy-veins.com/forums/news/26763-glowcap-festival-micro-holiday.jpg"></p>
+
+<p data-icy-veins="news_description">
+	The Glowcap festival takes place in Zangarmarsh on May 25. You may remember <a class="faction" href="http://www.wowdb.com/factions/970" rel="external nofollow">Sporeggar</a> reputation from the Burning Crusade.
+</p>
+
+<p>
+	<b>Description</b>
+</p>
+
+<p>
+	<em>Today, the sporelings of Sporeggar in Zangarmarsh hold their annual mushroom festival. Help them keep the great Fshoo alive as long as possible!</em>
+</p>
+
+<p>
+	<strong>Reaching Friendly</strong>
+</p>
+
+<p>
+	All players start out with <em>Unfriendly </em>with Sporeggar and there are several ways to increase your reputation until you hit <em>Friendly</em>.
+</p>
+
+<p>
+	The easiest way is to kill Bog Lords in the surrounding area and loot <span class="spell_icon_span"><img alt="Bog Lord Tendril" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_misc_monstertail_03.jpg"><a class="q1" href="http://www.wowdb.com/items/24291" rel="external nofollow">Bog Lord Tendril</a></span> from them. Combine that with looting <span class="spell_icon_span"><img alt="Mature Spore Sac" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_misc_organ_02.jpg"><a class="q1" href="http://www.wowdb.com/items/24290" rel="external nofollow">Mature Spore Sacs</a> and find</span> <a class="npc" href="http://www.wowdb.com/npcs/17923" rel="external nofollow">Fahssn</a>.
+</p>
+
+<p>
+	<img alt="gaM9UHe.jpg" class="ipsImage" src="http://i.imgur.com/gaM9UHe.jpg"></p>
+
+<p>
+	He will offer you quests to turn in the items for reputation until <em>Friendly</em>. 
+</p>
+
+<p>
+	<strong>Glowcap Festival</strong>
+</p>
+
+<p>
+	<a class="npc" href="http://ptr.wowdb.com/npcs/118509" rel="external nofollow">Fshoo</a> will periodically spawn in the center of the village and it's your task to keep her alive as long as possible. He will start to wither away and become harder to heal with time <span class="spell_icon_span"><img alt="Fshoo Grow" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/creature_sporemushroom.jpg"><a class="spell" href="http://ptr.wowdb.com/spells/235202" rel="external nofollow">Fshoo Grow</a></span>. There are several items that will help you keep her alive. They can all be purchased from the quartermaster <a class="npc" href="http://www.wowdb.com/npcs/18382" rel="external nofollow">Mycah</a> for <span class="spell_icon_span"><img alt="Glowcap" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_mushroom_02.jpg"><a class="q1" href="http://www.wowdb.com/items/24245" rel="external nofollow">Glowcaps</a>.</span>
+</p>
+
+<p>
+	The following items can be purchased that will help you heal <a class="npc" href="http://ptr.wowdb.com/npcs/118509" rel="external nofollow">Fshoo</a>.
+</p>
+
+<ul>
+<li>
+		<span class="spell_icon_span"><img alt="Fungal Lifestalk" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_misc_starspecklemushroom.jpg"><a class="q1" href="http://ptr.wowdb.com/items/144262" rel="external nofollow">Fungal Lifestalk</a></span> for 20 <span class="spell_icon_span"><img alt="Glowcap" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_mushroom_02.jpg"><a class="q1" href="http://www.wowdb.com/items/24245" rel="external nofollow">Glowcap</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><span class="spell_icon_span"><img alt="Rimecap" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_mushroom_10.jpg"><a class="q1" href="http://ptr.wowdb.com/items/144265" rel="external nofollow">Rimecap</a> </span></span>for 20 <span class="spell_icon_span"><img alt="Glowcap" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_mushroom_02.jpg"><a class="q1" href="http://www.wowdb.com/items/24245" rel="external nofollow">Glowcap</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><img alt="Sack of Healing Spores" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_misc_bag_10_black.jpg"><a class="q1" href="http://ptr.wowdb.com/items/144276" rel="external nofollow">Sack of Healing Spores</a></span> for 1 <span class="spell_icon_span"><img alt="Glowcap" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_mushroom_02.jpg"><a class="q1" href="http://www.wowdb.com/items/24245" rel="external nofollow">Glowcap</a></span>
+	</li>
+	<li>
+		<span class="spell_icon_span"><span class="spell_icon_span"><img alt="Sporeggium" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_mushroom_11.jpg"><a class="q1" href="http://ptr.wowdb.com/items/144261" rel="external nofollow">Sporeggium</a> for 1</span></span>0 <span class="spell_icon_span"><img alt="Glowcap" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_mushroom_02.jpg"><a class="q1" href="http://www.wowdb.com/items/24245" rel="external nofollow">Glowcap</a></span>
+	</li>
+</ul>
+<p>
+	<img alt="4kWfLcM.jpg" class="ipsImage" src="http://i.imgur.com/4kWfLcM.jpg"></p>
+
+<p>
+	<span class="spell_icon_span">If you don't have them, don't worry. When he hasn't spawned, you have plenty of time to collect the items in the town. You will also be able to loot <span class="spell_icon_span"><img alt="Pungent Truffle" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_mushroom_05.jpg"><a class="spell" href="http://ptr.wowdb.com/spells/235260" rel="external nofollow">Pungent Truffle</a></span> that directly increase your reputation with Sporeggar by 15.</span>
+</p>
+
+<p>
+	<b>Keeping Fshoo Alive</b>
+</p>
+
+<p>
+	For every stack of <span class="spell_icon_span"><img alt="Fshoo Grow" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/creature_sporemushroom.jpg"><a class="spell" href="http://ptr.wowdb.com/spells/235202" rel="external nofollow">Fshoo Grow</a></span> you will gain 50 reputation once she withers. You can use bandages, healing spells and the mushroom items to keep her alive. Generally the best idea is to have healers stack <span class="spell_icon_span"><img alt="Sporeggium" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_mushroom_11.jpg"><a class="q1" href="http://ptr.wowdb.com/items/144261" rel="external nofollow">Sporeggium</a></span> for increased healing and when they can't keep up, <span class="spell_icon_span"><img alt="Rimecap" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_mushroom_10.jpg"><a class="q1" href="http://ptr.wowdb.com/items/144265" rel="external nofollow">Rimecap</a> and <span class="spell_icon_span"><img alt="Fungal Lifestalk" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_misc_starspecklemushroom.jpg"><a class="q1" href="http://ptr.wowdb.com/items/144262" rel="external nofollow">Fungal Lifestalk</a></span> should be used.</span>
+</p>
+
+<p>
+	<img alt="1Cv48Wh.jpg" class="ipsImage" src="http://i.imgur.com/1Cv48Wh.jpg"></p>
+
+<p>
+	As mentioned, when she withers, you will see an announcement by Tzhuffk.
+</p>
+
+<p>
+	<img alt="H0LkCjx.jpg" class="ipsImage" src="http://i.imgur.com/H0LkCjx.jpg"></p>
+
+<p>
+	During her downtime, look for mushrooms in the village! Chances are you will loot many of them without needing to buy them from the quartermaster.
+</p>
+
+<p>
+	<img alt="hQnumo0.jpg" class="ipsImage" src="http://i.imgur.com/hQnumo0.jpg"></p>
+
+<p>
+	<img alt="Fb5KUul.jpg" class="ipsImage" src="http://i.imgur.com/Fb5KUul.jpg"></p>
+
+<p>
+	<strong>Notable Sporeggar Items &amp; Achievements</strong>
+</p>
+
+<p>
+	The event is a great way to easily reach <em>Exalted </em>with Sporeggar. Among the notable items available at different reputation stages are<span class="spell_icon_span"> <img alt="Muck-Covered Drape" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_misc_cape_17.jpg"><a class="q3" href="http://www.wowdb.com/items/25827" rel="external nofollow">Muck-Covered Drape</a></span><span class="spell_icon_span">, <img alt="Sporeggar Tabard" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_shirt_guildtabard_01.jpg"><a class="q2" href="http://www.wowdb.com/items/31775" rel="external nofollow">Sporeggar Tabard</a></span><span class="spell_icon_span">, <img alt="Tiny Sporebat" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/ability_hunter_pet_sporebat.jpg"><a class="q3" href="http://www.wowdb.com/items/34478" rel="external nofollow">Tiny Sporebat</a></span> and the achievement <span class="spell_icon_span"><img alt="The Czar of Sporeggar" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_mushroom_11.jpg"><a class="achievement" href="http://www.wowdb.com/achievements/900" rel="external nofollow">The Czar of Sporeggar</a></span> is required for <span class="spell_icon_span"><img alt="The Diplomat" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_helmet_44.jpg"><a class="achievement" href="http://www.wowdb.com/achievements/942" rel="external nofollow">The Diplomat</a></span>.
+</p>
+]]></description><guid isPermaLink="false">26765</guid><pubDate>Tue, 13 Dec 2016 14:04:34 +0000</pubDate></item><item><title>Blue Posts Round-up: Dec 12</title><link>http://www.icy-veins.com/forums/topic/26754-blue-posts-round-up-dec-12/</link><description><![CDATA[
+<p>
+	<img alt="tl4PBam.jpg" data-icy-veins="news_image" data-ipb="nomediaparse" src="http://www.icy-veins.com/forums/news/26752-blue-posts-round-up-dec-12.jpg"></p>
+
+<p data-icy-veins="news_description">
+	Topics discussed today are reputation improvements for alts, fixes to tab targeting and communication standards.
+</p>
+
+<p>
+	<strong>Reputation Improvements</strong>
+</p>
+
+<p>
+	Patch 7.1 made dungeons gated behind the Nightfallen reputation account-wide. Players share their thoughts, mentioning the Pandaria reputation system as a solution to "the problem". If you haven't played during MoP, there were items such as <span class="spell_icon_span"><img alt="Grand Commendation of the Shado-Pan" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/achievement_faction_shadopan.jpg"><a class="q7" href="http://www.wowdb.com/items/93220" rel="external nofollow">Grand Commendation of the Shado-Pan</a></span> that increased the reputation gain on your entire count with a faction once you've reached Revered. Lore mentioned this was discussed during Q&amp;A, but the developers need to know what "the problem" is before making any solutions. What are the items your alts need that are gated behind Legion faction reputation? Profession recipes? Wouldn't that just make professions less valuable if all your alts had access to them?
+</p>
+
+<div class="blue_post">
+	<h2 class="blue_title">
+		<img alt="Blizzard Logo" src="http://static.icy-veins.com/images/common/blizzard_icon.png">Lore
+	</h2>
+
+	<p>
+		<span style="color:#ffffff;"><em>In Mists, we have an awesome system where you could send tokens that doubled the rep earned for alts. Im not asking more than that. Just something, the system even already exists.<br><br>
+		Please, dont make alts more harder than it already is. (and rerolls too)</em></span>
+	</p>
+
+	<p>
+		We talked about this idea briefly on the Q&amp;A the other day, but I'm interested in hearing more feedback. What do you feel you need access to that's locked behind a reputation for your alt? Most of the "big" unlocks - e.g. World Quests, access to Suramar dungeons - are now account-wide.
+	</p>
+
+	<p>
+		So, let me clarify my thoughts a bit, and why I asked for specifics:<br><br>
+		Quite often, we see feedback that focuses on the solution instead of the problem. That's not a bad thing (in fact, it's quite natural and in many ways polite for someone who's trying to be helpful to suggest a fix for a problem), it's just that it occasionally means we have trouble tracking down what the actual core issue is that's causing you to present that solution.<br><br>
+		Looking specifically at this topic: many of you are suggesting the MoP-style rep tokens as "the right fix." And maybe it is! But if we were to implement something like that, we need to know what it's fixing, because we might have a better way to solve the same problem. Or maybe we don't see it as a problem at all.<br><br>
+		To use a dumb analogy, because I love analogies: say your roof has a leak, and every time it rains, water drips down through your ceiling and your carpet gets wet. You could keep a pot nearby that you put under the drip when it rains - that'd certainly solve the issue of damp carpet - but it's kind of inconvenient, and the leak is still there. It'd be a much better solution to fix the roof, so the leak stops happening entirely.<br><br>
+		Or, you know, maybe you're actually in a gazebo and the carpet is supposed to get wet because it's weather-resistant and... okay, so this analogy isn't perfect. But hopefully I at least illustrated why I asked for specifics: maybe the solution is that the thing you want via rep should just be account-wide. Maybe it's already supposed to be account-wide, but there's a bug. Or maybe having to gain the reputation on your alt is an intended part of playing a second character.<br><br>
+		This is mostly just me musing - there's some great info in this thread already that we can definitely talk about - but I thought it might be interesting or helpful to clarify.
+	</p>
+
+	<p>
+		(<a href="https://us.battle.net/forums/en/wow/topic/20752655805?page=4#post-74" rel="external nofollow">Source</a>)
+	</p>
+</div>
+
+<p>
+	<strong>Fixing Tab Targeting</strong>
+</p>
+
+<p>
+	Tab targeting is definitely an issue in Legion and in Patch 7.1 it was reverted back to the same logic used in Warlords of Draenor. If you're experiencing any issues, there's <a href="https://www.reddit.com/r/wow/comments/59szd0/whats_going_on_with_tab_targeting_its_awful_since/" rel="external nofollow">an interesting thread about tab targeting on reddit</a>.
+</p>
+
+<div class="blue_post">
+	<h2 class="blue_title">
+		<img alt="Blizzard Logo" src="http://static.icy-veins.com/images/common/blizzard_icon.png">Lore
+	</h2>
+
+	<p>
+		<span style="color:#ffffff;"><em>I know I am not alone in thinking how terrible tab targeting is in this expansion. And no, I don't think tab targeting is the best way to target in all situations, but it certainly is great to have a reliable version of tab targeting in many situations.<br><br>
+		Why do we have to hit tab 3945828597109 times before the game finally gives in and (reluctantly) targets our intended target? Obviously that's exaggerated, but sometimes it does feel like it takes an eternity.<br><br>
+		I took a break from the game starting in early WoD and came back shortly after the Legion launch, so I am not sure if this was an issue last xpac. But can we please have the MoP (and earlier xpacs) version of tab targeting? It used to be so much more efficient.</em></span>
+	</p>
+
+	<p>
+		So, in 7.1, we actually reverted the tab targeting logic back to what it was prior to Patch 7.0. It should be functioning now exactly like it did during Warlords. I've personally found it much more reliable; if you're still having issues with it, did you have similar issues during Warlords?
+	</p>
+
+	<p>
+		(<a href="https://us.battle.net/forums/en/wow/topic/20752625824#post-4" rel="external nofollow">Source</a>)
+	</p>
+</div>
+
+<p>
+	<strong>Standards of Communication</strong>
+</p>
+
+<p>
+	Patch 7.1.5 brought a lot of class changes, but there were no words from the developers. With <a href="http://www.icy-veins.com/forums/topic/26453-patch-715-secondary-stats-tweaks/" rel="">tweaks to secondary stats</a>, players have found themselves less powerful than on live. Since then, PTR communication has been a great topic of concern. It was discussed during the last Q&amp;A that developers will be communicating more with the community regarding future changes, additions and more. We should expect the next Q&amp;A somewhere during the first weeks of January around the release of Patch 7.1.5. This posts talks about means of communication and feedback. Twitter character limitations are both a curse and a gift, live Q&amp;As aren't a good way to answer most of the questions and Lore admits the team's overall forum presence isn't the best and it's something they're trying to improve upon as a team. I entirely agree there should be more interviews. Do you think communication between developers and the community is more transparent in other games like HotS or Overwatch as opposed to WoW?
+</p>
+
+<div class="blue_post">
+	<h2 class="blue_title">
+		<img alt="Blizzard Logo" src="http://static.icy-veins.com/images/common/blizzard_icon.png">Lore
+	</h2>
+
+	<p>
+		<span style="color:#ffffff;"><strong>On Twitter</strong></span>: Disagree that it's always the wrong approach, but it's definitely not always the right approach either. 140 characters is a blessing and a curse - it's harder to get a complete point across sometimes, yes, but it also forces things to be presented more concisely, which is great for certain types of feedback. We're not going to stop using Twitter, but we're continuing to learn about when it's not the right platform.<br><br>
+		Also just as an aside, every account other than @WarcraftDevs should be treated as someone's personal account and not as the correct place to provide feedback or look for answers. That also means that it's completely their choice if they decide to mute or block someone. <br><br><span style="color:#ffffff;"><strong>On the Q&amp;As</strong></span>: I agree that the experiment in the last one to answer more spec-specific questions didn't go well. I honestly don't think the live Q&amp;As are a good way to answer those questions at all. Even if we were to somehow narrow it down to only "legitimate" questions (aside: what criteria determine "legitimate" anyway?), there's far more to answer than we can possibly fit into one Q&amp;A, so we're always going to leave something out.<br><br>
+		Secondly, it's important to remember that not everyone follows fansites closely, or saw the BlizzCon panels, or even the other Q&amp;As. AK alt catchup is a great example - despite all of the other places we talked about what's happening in 7.1.5, it was still one of the most-asked questions. I'm glad that you had already heard about it, but clearly a lot of others had not, which made it absolutely worth answering.<br><br>
+		I do agree, though, that the Q&amp;As work best when we either stick to broader topics, or focus the entire thing specifically on one topic (like we did with the Professions, PvP, etc. Q&amp;As a few months ago). As a whole, it's a format we're still experimenting with. I can't promise they'll all be great, but I can promise that we'll learn from when they aren't.<br><br><span style="color:#ffffff;"><strong>On Interviews</strong></span>: Mostly agree, although it depends on the interviewer. You're not likely to see the hard-hitting questions coming from a major gaming publication, but you might from a community site, podcast, etc. Personally, I actually think we need a lot more interviews with those community sites, especially those that focus on more niche playstyles - it's a great way to get answers to those people without "wasting" everyone else's time.<br><br><span style="color:#ffffff;"><strong>On the forums</strong></span>: I actually completely agree with you here. Our forum presence sucks. It's a big issue that we're working to fix. That's part of why I'm here, posting this, and will continue to be around these forums as much as I can. Resolving this issue will take some time - if it can ever be completely resolved - but we're working on it.<br><br>
+		It's worth mentioning that part of the issue - the general lack of dev posts - has been because they've been focusing as much of their time as possible into working on the game. Part of trying to keep patches coming at a good cadence means we need all hands on deck to get the work done, which means less time for the dev team to spend on the forums. That in turn means that, when the devs do get time for the forums, they spend the vast majority of it just reading, so they can absorb as much feedback as possible. So, the community team (including myself, but many others as well) need to step in to fill that gap, in a way that doesn't make you go "Ooh, a blue post! Ugh, it's just a CM." We haven't been, but we're going to.<br><br><span style="color:#ffffff;"><strong>On Reddit</strong></span>: I also like AMAs, and agree with your thoughts here. I do think that there are some topics where they might work much better than the Q&amp;As, and while I don't want to say what those are for fear of over-promising, it's a cool idea that I'll circulate around.<br><br><span style="color:#ffffff;"><strong>On Patch Notes</strong></span>: I think a lot of the issues with patch notes are actually symptoms of some of the above issues. The designers' notes are definitely a good addition, but those are intended as little snippets of explanation for the player who doesn't really keep up with fansites, interviews, forums (well, when there's posts on them), etc. It shouldn't, whenever possible, be the first place that the person reading this thread heard about something, unless it really only needs a couple sentences to explain. If we need to give more detail, we should be doing that ahead of time and just referencing that explanation in the patch notes.<br><br>
+		We've also heard loud and clear that you guys want PTR Patch Notes back. It's a tough situation for us to solve, though I don't think it's an unsolvable one. The PTR, especially under Legion's development structure, is much more experimental and incomplete than it's been in the past. Having official patch notes makes each individual change - any of which could be reverted at any point - feel a lot more "final" than they really are.<br><br>
+		Our approach for 7.1.5, then, was "let's focus on what it'll be when it's done" - that was clearly the wrong choice. Official PTR Patch Notes might not be the answer we need, but we definitely need a way to keep you more informed of what's happening, especially for class changes. Even something as simple as "Class Notes for PTR Build ABCXYZ" might fill the gap.<br><br>
+		At any rate, thanks for this - it's given us a lot to think about. I know there's a big difference between saying we'll do better and actually doing better, but threads like this really help us actually improve things.
+	</p>
+
+	<p>
+		<span style="color:#ffffff;"><em>The one thing I should really say about this is the fact that you have ONE twitter account for EVERY form of feedback and question.<br><br>
+		Why don't you like, delegate it out a bit? <br>
+		@WarcraftDevs<br>
+		@WarcraftHunters<br>
+		@WarcraftDK<br>
+		@WarcraftPvP<br>
+		@WarcraftRaid<br>
+		@warcraftdungeon<br>
+		@warcraftuselessquestionsthatpeopleonGDforumsaskoverandoverandover<br>
+		you get the idea</em></span>
+	</p>
+
+	<p>
+		I think this would just get confusing really quickly, and lead directly into one of the issues the OP mentioned which is needing to follow too many channels at once.
+	</p>
+
+	<p>
+		<span style="color:#ffffff;"><em>I have an idea for your Q&amp;A that should get you the questions that people want answered most<br><br>
+		Make a thread about the Q&amp;A first and specifically state that the most upvoted questions in this thread will be adressed/responded to in the Q&amp;A when it happens. Do this everytime you have a Q&amp;A, that should help people get the questions they want to see and hopefully the answers they want to see</em></span><span style="color:#ffffff;"><em>.</em></span>
+	</p>
+
+	<p>
+		We briefly debated this early on but decided against it, for a few reasons:<br><br>
+		1) We don't always have an answer for something - if a highly-upvoted question is going to get "I don't know" or "We're not sure yet" as an answer, is that acceptable?<br><br>
+		2) Sometimes the answer lies in something we're not ready to talk about yet; for example, if "When will you add Demon Hunters" got a ton of upvotes prior to Legion's announcement, how do we handle that? Do we dodge the question (which says just as much as answering it)? Do we lie and say we have no such plans? There really isn't a good outcome there.<br><br>
+		3) It's pretty easily abused - if I want my question to be answered, it makes sense for me to ask all of my friends/guildmates/etc to upvote my question and downvote others, even if they don't care about the answer.<br><br>
+		4) It heavily favors playstyles or classes with the highest overall representation; it's likely for there to be entire aspects of the game we never talk about again just because there are going to be fewer people upvoting those questions.<br><br>
+		Because of the above (and probably a couple other reasons I can't recall right now), we decided that our best approach was to just ignore upvotes/downvotes entirely.
+	</p>
+
+	<p>
+		<span style="color:#ffffff;"><em>Yes, not only is it acceptable to say, 'We don't know," or "We aren't sure yet," but that kind of transparency is absolutely necessary for quality feedback and communication. Those are great jumping off points to get good feedback from the community. Of course, hopefully you would give us more than just those statements. Hopefully, you would explain why you haven't been able to come to a decision yet, what you perceive to be the pros and cons, and why it is so difficult to make that particular call and then MAYBE the community could help you actually make the decision. <br><br>
+		Even if our feedback won't help make the decision easier, understanding your thought process will make it easier to accept the decision once it is made.</em></span>
+	</p>
+
+	<p>
+		To be clear: I agree that "we don't know yet" can be a good thing to say. I don't think a time-limited Q&amp;A is the right place to do that - would rather spend that time on a question we actually have an answer for.
+	</p>
+
+	<p>
+		(<a href="https://us.battle.net/forums/en/wow/topic/20752645448#post-16" rel="external nofollow">Source</a>)
+	</p>
+</div>
+]]></description><guid isPermaLink="false">26754</guid><pubDate>Tue, 13 Dec 2016 00:03:41 +0000</pubDate></item><item><title>Blizzard Launches Own Book-Publishing Label</title><link>http://www.icy-veins.com/forums/topic/26746-blizzard-launches-own-book-publishing-label/</link><description><![CDATA[
+<p style="text-align:center;">
+	<img alt="92LLKWx.jpg" data-icy-veins="news_image" data-ipb="nomediaparse" src="http://www.icy-veins.com/forums/news/26745-blizzard-launches-own-book-publishing-label.jpg"></p>
+
+<p data-icy-veins="news_description">
+	Blizzard has established an own book-publishing label according to the latest press release.
+</p>
+
+<p>
+	It's called Blizzard Publishing and all future books including rereleases will be published under the new label. The announcement has been made in a press release from a few days ago and you can read it below.
+</p>
+
+<div class="blue_post">
+	<h2 class="blue_title">
+		<img alt="Blizzard Logo" src="http://static.icy-veins.com/images/common/blizzard_icon.png">Blizzard Entertainment
+	</h2>
+
+	<h2>
+		Blizzard Publishing’s first releases include the World of Warcraft® Adult Coloring Book and popular out-of-print Warcraft novels and manga  
+	</h2>
+
+	<section><p>
+			IRVINE, Calif.—December 8, 2016—Blizzard Entertainment today announced the creation of a book-publishing label, Blizzard Publishing, dedicated to developing and releasing new Blizzard publications and reissuing out-of-print titles in the company’s Warcraft®, StarCraft®, and Diablo®settings, directly and through ongoing global partnerships. Each of Blizzard’s game universes has been inhabited by millions of players worldwide, and Blizzard Publishing will help maintain the lore and legacy of the company’s earliest novels and manga while also providing a variety of new ways for people to engage with Blizzard’s rich worlds and characters. Several of Blizzard Publishing’s upcoming releases will be available in multiple formats, such as print, audiobook, and e-book.
+		</p>
+
+		<p>
+			The first books published under the Blizzard Publishing label include two sets of previously released novels and manga from award-winning and New York Times best-selling authors.
+		</p>
+
+		<p>
+			Blizzard Legends
+		</p>
+
+		<ul>
+<li>
+				<span style="color:#ffffff;">Warcraft: The Last Guardian by Jeff Grubb</span>
+			</li>
+			<li>
+				<span style="color:#ffffff;">Warcraft: Lord of the Clans by Christie Golden</span>
+			</li>
+			<li>
+				<span style="color:#ffffff;">World of Warcraft: Rise of the Horde by Christie Golden</span>
+			</li>
+		</ul>
+<p>
+			Blizzard Manga
+		</p>
+
+		<ul>
+<li>
+				<span style="color:#ffffff;">Warcraft Legends: Volume One, with stories by Richard A. Knaak, Dan Jolley, and Jae-Hwan Kim</span>
+			</li>
+			<li>
+				<span style="color:#ffffff;">Warcraft Legends: Volume Two, with stories by Richard A. Knaak, Dan Jolley, and Aaron Sparrow</span>
+			</li>
+		</ul>
+<p>
+			Future releases in the Blizzard Legends and Blizzard Manga series will include titles across multiple Blizzard franchises.  
+		</p>
+
+		<p>
+			Blizzard Publishing has also developed a new original title, the <span style="color:#ffffff;">World of Warcraft Adult Coloring Book</span>—an epic volume of more than 80 pieces of concept art, sketches, and more, featuring characters and scenes from beloved locales across Azeroth.
+		</p>
+
+		<p>
+			“Great stories and inspiring artwork have always been at the heart of everything we do,” said Lydia Bottegoni, senior vice president of story and franchise development at Blizzard Entertainment. “The creation of Blizzard Publishing gives us new opportunities to celebrate the art and stories of our games with Blizzard gamers as well as fantasy and sci-fi fans around the world.”
+		</p>
+
+		<p>
+			Those looking to dive into a new book today can find the aforementioned Blizzard Legends novels and Blizzard Manga titles, as well as the World of Warcraft Adult Coloring Book, wherever books are sold and online at <a href="http://gear.blizzard.com/" rel="external nofollow">gear.blizzard.com</a>. Blizzard Legends titles are available for USD $14.95; Blizzard Manga titles and the World of Warcraft Adult Coloring Book can be purchased for USD $12.95. Blizzard Publishing releases are distributed by Publishers Group West.
+		</p>
+
+		<p>
+			Blizzard Publishing is also planning to release a captivating series of full-color coffee table art books, starting with Art of Hearthstone® and Cinematic Art of StarCraft, as well as additional novel and manga reissues, in 2017 and beyond. Further details about these and other Blizzard Publishing titles, including pricing for regional translations, will be announced at a later date.
+		</p>
+
+		<p>
+			<u><strong>About Blizzard Entertainment, Inc.</strong></u>
+		</p>
+
+		<p>
+			Best known for blockbuster hits including World of Warcraft®, Hearthstone®, Overwatch®, the Warcraft®, StarCraft®, and Diablo® franchises, and the multi-franchise Heroes of the Storm®, Blizzard Entertainment, Inc. (www.blizzard.com), a division of Activision Blizzard (NASDAQ: ATVI), is a premier developer and publisher of entertainment software renowned for creating some of the industry’s most critically acclaimed games. Blizzard Entertainment’s track record includes twenty-one #1 games* and multiple Game of the Year awards. The company’s online-gaming service, Battle.net®, is one of the largest in the world, with millions of active players.
+		</p>
+
+		<p>
+			<br><em>*Based on internal company records and reports from key distribution partners.</em>
+		</p>
+
+		<p>
+			<u><strong>Cautionary Note Regarding Forward-looking Statements:</strong></u><br>
+			Information in this press release that involves Blizzard Entertainment's expectations, plans, intentions or strategies regarding the future, including statements about pricing, release dates, and contents of works to be published by Blizzard Publishing are forward-looking statements that are not facts and involve a number of risks and uncertainties. Factors that could cause Blizzard Entertainment's actual future results to differ materially from those expressed in the forward-looking statements set forth in this release include unanticipated product delays and other factors identified in the risk factors sections of Activision Blizzard’s most recent annual report on Form 10-K and any subsequent quarterly reports on Form 10-Q. The forward-looking statements in this release are based upon information available to Blizzard Entertainment and Activision Blizzard as of the date of this release, and neither Blizzard Entertainment nor Activision Blizzard assumes any obligation to update any such forward-looking statements. Forward-looking statements believed to be true when made may ultimately prove to be incorrect. These statements are not guarantees of the future performance of Blizzard Entertainment or Activision Blizzard and are subject to risks, uncertainties and other factors, some of which are beyond its control and may cause actual results to differ materially from current expectations.
+		</p>
+
+		<p>
+			(<a href="http://blizzard.gamespress.com/BlizzardPublishingEstablished" rel="external nofollow">Source</a>)
+		</p>
+	</section>
+</div>
+
+<p>
+	 
+</p>
+]]></description><guid isPermaLink="false">26746</guid><pubDate>Mon, 12 Dec 2016 22:02:30 +0000</pubDate></item><item><title>Method Post-Trial of Valor WF Interview</title><link>http://www.icy-veins.com/forums/topic/26734-method-post-trial-of-valor-wf-interview/</link><description><![CDATA[
+<p style="text-align:center;">
+	<img alt="W4P9lnz.png" data-icy-veins="news_image" data-ipb="nomediaparse" src="http://www.icy-veins.com/forums/news/26733-method-post-trial-of-valor-wf-interview.png"></p>
+
+<p class="hidden_news_description" data-icy-veins="news_description">
+	World First Helya killers Method talk bans, bosses, Nighthold preparations and more.
+</p>
+
+<p>
+	<br>
+	In addition to their earlier FinalBoss video interview, Method have posted <a href="http://www.method.gg/valor-proven-a-method-post-tov-interview" rel="external nofollow">a new, written one on their site</a>, covering the specifics of the Trial of Valor race, their thoughts on the bans, the bosses and their preparations for Nighthold. You can check out the full interview over at <a href="http://www.method.gg/valor-proven-a-method-post-tov-interview" rel="external nofollow">Method.gg</a>, and here are a few highlights:
+</p>
+
+<p>
+	<span style="color: #ff9900;">You’re back on top, World First again, how does it feel and was it even important to you in ToV, considering the comments made prior to the raid?</span><br><br><a href="http://eu.battle.net/wow/character/tarren-mill/Nnoggah/" rel="external nofollow" target="_blank">Nnogga</a>: For various members of the guild this was the first time to achieve a World First Kill on an endboss and I think it is safe to say that it feels absolutely amazing to have pulled it off. There were a lot of naysayers that doubted our capabilities as a guild on public forums or social media but the core of the guild has been playing together for a long time now and we knew that with hard preparation and good planning we could definitely compete for World First. As soon as we realized that Helya actually was a difficult encounter I think everyone went back into "serious mode" and we wanted to get this kill really badly.<br><br><span style="color: #ff9900;">As Xavius was a horrible disappointment and not worthy of even being mentioned in the same breath as other raid endbosses, where would you place Helya in the endboss pantheon?</span><br><br><a href="http://eu.battle.net/wow/character/tarren-mill/Scogun/" rel="external nofollow" target="_blank">Sco</a>: Helya is a great fight and I rate it pretty highly. In terms of difficulty it took 225 pulls which I would say is about mid-tier difficulty in regards to end bosses. The important aspect though is that the fight itself was both fun and engaging. The fight requires a lot of movement, a lot of coordination and a lot of team work. I will remember it fondly and as far as Legion goes it is the best boss I’ve played thus far – including those we have tested in Nighthold. Let’s hope Gul’Dan is something special!<br><br><span style="color: #ff9900;">What are your thoughts on the bans in general, do you think they were too harsh, should Blizzard have been more clear about not using the bug or have done something else differently?</span><br><br><a href="http://eu.battle.net/wow/character/tarren-mill/Qooning/" rel="external nofollow" target="_blank">Qoning</a>: Considering Blizzard knew about the bug at least since the day Mythic opened, I think they were pretty harsh. They could have removed their achievements, give them a 3 day ban, call it a day. And to be nice to them, reset their IDs. I don't think the reaction was in line with what Blizzard has done ever in the past. On the other hand, it was all kinds of shady from the guilds to use obvious exploits when competing for ranks. I understand that it may have been a part of their strategy to sacrifice a tank on some of the breaths and this exploit basically meant that you could not do that at all, but abusing it made the encounter significantly easier.
+</p>
+
+<p>
+	 
+</p>
+
+<p>
+	Check out the <a href="http://www.method.gg/valor-proven-a-method-post-tov-interview" rel="external nofollow">full interview here</a> and you can also watch the FinalBoss interview in case you missed it earlier:
+</p>
+
+<div class="ipsEmbeddedVideo" contenteditable="false">
+	<div>
+		<iframe allowfullscreen="true" frameborder="0" height="270" src="https://www.youtube.com/embed/Cw5plYbIheg?feature=oembed" width="480"></iframe>
+	</div>
+</div>
+
+<p>
+	 
+</p>
+]]></description><guid isPermaLink="false">26734</guid><pubDate>Mon, 12 Dec 2016 18:06:02 +0000</pubDate></item><item><title>Patch 7.1.5: Spring Balloon Festival Micro-Holiday</title><link>http://www.icy-veins.com/forums/topic/26730-patch-715-spring-balloon-festival-micro-holiday/</link><description><![CDATA[
+<p style="text-align:center;">
+	<img alt="hfJWy27.jpg" data-icy-veins="news_image" data-ipb="nomediaparse" src="http://www.icy-veins.com/forums/news/26729-patch-715-spring-balloon-festival-micro-holiday.jpg"></p>
+
+<p data-icy-veins="news_description">
+	Spring Balloon Festival is the next micro-holiday that's currently tested on PTR. It will be available on May 8.
+</p>
+
+<p>
+	There are eight places where you can take a balloon ride in Azeroth. Four are located across the Broken Isles. They are indicated by a red "X" on the world map.
+</p>
+
+<p>
+	<img alt="nDw2raA.jpg" class="ipsImage" src="http://i.imgur.com/nDw2raA.jpg"></p>
+
+<p>
+	The balloons have cool names. For example the one in Highmountain is called <a class="npc" href="http://ptr.wowdb.com/npcs/118446" rel="external nofollow">The Killem'jaro</a>. If you want to get a ride, you need to talk to a NPC located near the balloon. A total of 3 players is needed to begin the ride.
+</p>
+
+<p>
+	<img alt="941a7AL.jpg" class="ipsImage" src="http://i.imgur.com/941a7AL.jpg"></p>
+
+<p>
+	The balloon ride above Suramar City is truly educational. <a class="npc" href="http://ptr.wowdb.com/npcs/118357" rel="external nofollow">Zang Cloudwalker</a> will first be taking attendance and then ask questions related to the Nightborne.
+</p>
+
+<p>
+	<img alt="4Qq6AvV.jpg" class="ipsImage" src="http://i.imgur.com/4Qq6AvV.jpg"></p>
+
+<p>
+	<em>What is the traditional greeting used in Suramar City? Good guess! The correct answer is: "An illusion! What are you hiding?".</em>
+</p>
+
+<p>
+	A hobgoblin named <a class="npc" href="http://ptr.wowdb.com/npcs/118468" rel="external nofollow">Rungle</a> and the goblin <a class="npc" href="http://ptr.wowdb.com/npcs/118351" rel="external nofollow">Boscoe</a> will be waiting for you in Azsuna.
+</p>
+
+<p>
+	<img alt="FnrARrm.jpg" class="ipsImage" src="http://i.imgur.com/FnrARrm.jpg"></p>
+
+<p>
+	In Highmountain, you need to talk to <a class="npc" href="http://www.wowdb.com/npcs/94409" rel="external nofollow">Hemet Nesingwary</a> to queue for a ride.
+</p>
+
+<p>
+	<img alt="tsc9jmt.jpg" class="ipsImage" src="http://i.imgur.com/tsc9jmt.jpg"></p>
+
+<p>
+	There's even a balloon ride, where you need to throw a goblin out of the balloon. The NPC is called <a class="npc" href="http://ptr.wowdb.com/npcs/118340" rel="external nofollow">Balloon Commander Schnottz</a> and the spell is <span class="spell_icon_span"><img alt="Schnottz Has To Go" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/achievement_goblinheaddead.jpg"><a class="spell" href="http://ptr.wowdb.com/spells/236346" rel="external nofollow">Schnottz Has To Go</a></span>.
+</p>
+]]></description><guid isPermaLink="false">26730</guid><pubDate>Mon, 12 Dec 2016 15:09:26 +0000</pubDate></item><item><title>Free-to-Play Hero Rotation: Dec 13</title><link>http://www.icy-veins.com/forums/topic/26726-free-to-play-hero-rotation-dec-13/</link><description><![CDATA[
+<p style="text-align:center;">
+	<img alt="EIRPcTd.jpg" data-icy-veins="news_image" data-ipb="nomediaparse" src="http://www.icy-veins.com/forums/news/26725-free-to-play-hero-rotation-dec-13.jpg"></p>
+
+<p data-icy-veins="news_description">
+	The Free Hero Rotation was updated prior to the release of Ragnaros!
+</p>
+
+<p>
+	<u><strong>Free-to-Play Hero Rotation: December 13 - 20, 2016</strong></u>
+</p>
+
+<p>
+	These Heroes are on rotation this week:
+</p>
+
+<ul>
+<li>
+		<a href="http://www.icy-veins.com/heroes/malfurion-build-guide" rel="external nofollow">Malufrion</a>
+	</li>
+	<li>
+		<a href="http://www.icy-veins.com/heroes/valla-build-guide" rel="external nofollow">Valla</a>
+	</li>
+	<li>
+		<a href="http://www.icy-veins.com/heroes/nazeebo-build-guide" rel="external nofollow">Nazeebo</a>
+	</li>
+	<li>
+		<a href="http://www.icy-veins.com/heroes/anubarak-build-guide" rel="external nofollow">Anub'arak</a>
+	</li>
+	<li>
+		<a href="http://www.icy-veins.com/heroes/lunara-build-guide" rel="external nofollow">Lunara</a>
+	</li>
+	<li>
+		<a href="http://www.icy-veins.com/heroes/dehaka-build-guide" rel="external nofollow">Dehaka</a>
+	</li>
+	<li>
+		<a href="http://www.icy-veins.com/heroes/rehgar-build-guide" rel="external nofollow">Rehgar</a> (Slot unlocked at Player Level 5)
+	</li>
+	<li>
+		<a href="http://www.icy-veins.com/heroes/illidan-build-guide" rel="external nofollow">Illidan</a> (Slot unlocked at Player Level 7)
+	</li>
+	<li>
+		<a href="http://www.icy-veins.com/heroes/chen-build-guide" rel="external nofollow">Chen</a> (Slot unlocked at Player Level 12)
+	</li>
+	<li>
+		<a href="http://www.icy-veins.com/heroes/nova-build-guide" rel="external nofollow">Nova</a> (Slot unlocked at Player Level 15)
+	</li>
+</ul>
+<p>
+	(<a href="https://eu.battle.net/forums/en/heroes/topic/13604571130" rel="external nofollow">Source</a>)
+</p>
+]]></description><guid isPermaLink="false">26726</guid><pubDate>Mon, 12 Dec 2016 11:25:42 +0000</pubDate></item><item><title>Serenity Mythic+ 20 DHT Clear</title><link>http://www.icy-veins.com/forums/topic/26719-serenity-mythic-20-dht-clear/</link><description><![CDATA[
+<p style="text-align:center;">
+	<img alt="0KZFT4f.jpg" data-icy-veins="news_image" data-ipb="nomediaparse" src="http://www.icy-veins.com/forums/news/26718-serenity-world-first-m-20-dht-clear.jpg"></p>
+
+<p data-icy-veins="news_description">
+	<a href="http://serenity.gg" rel="external nofollow">Serenity</a> managed to do a Mythic+ 20 Darkheart Thicket Keystone clear within the time limit and their key got upgraded to M+ 21 Eye of Azshara. The run was done using a depleted key.
+</p>
+
+<p>
+	<strong>Update</strong>: Apparently this is not the world first. Chinese guilds were able to clear M+ 20 <a href="https://www.wowchina.com/zh-cn/game/pve/leaderboards/pandaren/vault-of-the-wardens" rel="external nofollow">a few days earlier</a>.
+</p>
+
+<p>
+	The run was tanked by Lazel and healed by Gamko. DPS were Fragnance, Deepshades, Gingi. Congratulations!
+</p>
+
+<p style="text-align: center;">
+	<iframe allowfullscreen="true" frameborder="0" height="360" scrolling="no" src="https://player.twitch.tv/?video=v106863073&amp;autoplay=false" width="640"></iframe>
+</p>
+]]></description><guid isPermaLink="false">26719</guid><pubDate>Sun, 11 Dec 2016 22:38:53 +0000</pubDate></item><item><title>PTR Patch 2.4.3 Hotfixes</title><link>http://www.icy-veins.com/forums/topic/26717-ptr-patch-243-hotfixes/</link><description><![CDATA[
+<p style="text-align:center;">
+	<img alt="C6sAr3A.jpg" data-icy-veins="news_image" data-ipb="nomediaparse" src="http://www.icy-veins.com/forums/news/26714-ptr-patch-243-hotfixes.jpg"></p>
+
+<p data-icy-veins="news_description">
+	A new round of hotfixes was applied to test realms where Patch 2.4.3 is currently playtested.
+</p>
+
+<div class="blue_post">
+	<h2 class="blue_title">
+		<img alt="Blizzard Logo" src="http://static.icy-veins.com/images/common/blizzard_icon.png">Kauza
+	</h2>
+
+	<p>
+		Below you will find a list of hotfixes recently applied or coming soon that address various bugs or mechanic tweaks.<br><br>
+		These hotfixes should not require you to download a new patch. Some of the hotfixes below will go live the moment they are implemented while others may require restarting the game to go into effect. Please keep in mind that some issues cannot be addressed without a client-side patch. Also note that changes to certain abilities will not be reflected in its tooltip until a patch is issued.
+	</p>
+
+	<p>
+		<br>
+		Last updated December 9. Hotfixes are denoted by the date they were applied to live servers.
+	</p>
+
+	<ul>
+<li>
+			Fixed an issue where <span class="d3_icon_span"><img alt="Faithful Memory" class="d3_icon d3_legendary" src="http://static.icy-veins.com/images/d3/unique_sword_2h_012_x1_demonhunter_male.png"><a class="d3_legendary" href="http://us.battle.net/d3/en/item/faithful-memory" rel="external nofollow">Faithful Memory</a></span> was not properly buffing damage from certain <span class="d3_icon_span"><img alt="Blessed Hammer" class="d3_icon d3_active_skill" src="http://static.icy-veins.com/images/d3/x1_crusader_blessedhammer.png"><a class="d3_active_skill" href="http://us.battle.net/d3/en/class/crusader/active/blessed-hammer" rel="external nofollow">Blessed Hammer</a></span> Runes
+		</li>
+		<li>
+			Fixed an issue that caused Leaper Angels to erroneously gain the Juggernaut affix
+		</li>
+		<li>
+			Resolved an issue that could cause crashes under some circumstances
+		</li>
+	</ul>
+<p>
+		(<a href="https://us.battle.net/forums/en/d3/topic/20752515453" rel="external nofollow">Source</a>)
+	</p>
+</div>
+
+<p>
+	Patch 2.4.3 is the next major patch for Diablo III that will launch with Season 9. Below, you will find some interesting previews we did that cover the latest news related to it.
+</p>
+
+<p>
+	<strong>PTR Patch Notes</strong>
+</p>
+
+<ul>
+<li>
+		<a href="http://www.icy-veins.com/forums/topic/26648-ptr-patch-notes-24342336/" rel="">Patch 2.4.3.42336 Patch Notes</a>
+	</li>
+	<li>
+		<a href="http://www.icy-veins.com/forums/topic/26155-ptr-patch-notes-24341863/" rel="">Patch 2.4.3.41863 Patch Notes</a>
+	</li>
+	<li>
+		<a href="http://www.icy-veins.com/forums/topic/25880-patch-243-ptr-patch-notes/" rel="">Patch 2.4.3.41668 Patch Notes</a>
+	</li>
+	<li>
+		<a href="http://www.icy-veins.com/forums/topic/25673-patch-243-ptr-now-available/" rel="">Patch 2.4.3 Initial Patch Notes</a>
+	</li>
+</ul>
+<p>
+	<strong>Season 9</strong>
+</p>
+
+<ul>
+<li>
+		<a href="http://www.icy-veins.com/forums/topic/26232-season-9-early-preview/" rel="">Season 9 Early Preview &amp; Conquests</a>
+	</li>
+	<li>
+		<a href="http://www.icy-veins.com/forums/topic/26271-season-9-seasonal-journey-overview/" rel="">Season 9 Seasonal Journey Overview</a>
+	</li>
+</ul>
+<p>
+	<strong>Other</strong>
+</p>
+
+<ul>
+<li>
+		<a href="http://www.icy-veins.com/forums/topic/25718-ptr-graphics-update/" rel="">Patch 2.4.3 Graphics Update</a>
+	</li>
+</ul>
+]]></description><guid isPermaLink="false">26717</guid><pubDate>Sun, 11 Dec 2016 21:07:10 +0000</pubDate></item><item><title>Gold Making: Winter Veil Eggs</title><link>http://www.icy-veins.com/forums/topic/26712-gold-making-winter-veil-eggs/</link><description><![CDATA[
+<p style="text-align:center;">
+	<img alt="fSg3OAs.jpg" data-icy-veins="news_image" data-ipb="nomediaparse" src="http://www.icy-veins.com/forums/news/26710-gold-making-winter-veil-eggs.jpg"></p>
+
+<p data-icy-veins="news_description">
+	Winter Veil is coming to Azeroth on December 16 and it's an opportunity to make some extra gold.
+</p>
+
+<p>
+	The best thing is you can be of any level to earn gold. The item of interest is <span class="spell_icon_span"><img alt="Small Egg" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_egg_01.jpg"><a class="q1" href="http://www.wowdb.com/items/6889" rel="external nofollow">Small Egg</a></span>. Why? Most players need eggs to create <span class="spell_icon_span"><img alt="Winter Veil Egg Nog" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_drink_04.jpg"><a class="spell" href="http://www.wowdb.com/spells/21144" rel="external nofollow">Winter Veil Egg Nog</a></span> and <span class="spell_icon_span"><img alt="Gingerbread Cookie" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_misc_food_62.jpg"><a class="spell" href="http://www.wowdb.com/spells/21143" rel="external nofollow">Gingerbread Cookie</a></span> to complete <span class="spell_icon_span"><img alt="The Winter Veil Gourmet" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_misc_food_62.jpg"><a class="achievement" href="http://www.wowdb.com/achievements/1688" rel="external nofollow">The Winter Veil Gourmet</a></span> for the <span class="spell_icon_span"><img alt="Merrymaker" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/achievement_worldevent_merrymaker.jpg"><a class="achievement" href="http://www.wowdb.com/achievements/1691" rel="external nofollow">Merrymaker</a></span> meta of Winter Veil.
+</p>
+
+<p>
+	Ridiculous farming spots are in Westfall, you will get a lot of eggs by killing <a class="npc" href="http://www.wowdb.com/npcs/154" rel="external nofollow">Greater Fleshrippers</a> as they have almost instant respawn. If you're playing Horde, you can kill <a class="npc" href="http://www.wowdb.com/npcs/15649" rel="external nofollow">Feral Dragonhawk Hatchling</a> just outside of Silvermoon City or <a class="npc" href="http://www.wowdb.com/npcs/15650" rel="external nofollow">Crazed Dragonhawk</a> in Eversong Woods. If you're playing a Tauren, you can find <a class="npc" href="http://www.wowdb.com/npcs/2971" rel="external nofollow">Taloned Swoop</a> in northern Mulgore. If you're Draenei, there's a lot of <a class="npc" href="http://www.wowdb.com/npcs/17372" rel="external nofollow">Timberstrider Fledglings</a> in Azuremyst Isle. 
+</p>
+
+<p>
+	<span class="spell_icon_span"><img alt="Small Egg" class="spell_icon" src="http://static.icy-veins.com/forum-links/icons/inv_egg_01.jpg"><a class="q1" href="http://www.wowdb.com/items/6889" rel="external nofollow">Small Eggs</a> sell well during the celebration and if you're short on gold, this is an easy method to earn some!</span>
+</p>
+]]></description><guid isPermaLink="false">26712</guid><pubDate>Sun, 11 Dec 2016 19:57:07 +0000</pubDate></item></channel></rss>
