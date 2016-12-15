@@ -1,0 +1,3 @@
+
+GadgetzanGazette what is {Date} Blizzard news
+GadgetzanGazette what is {Date} news for {Game}
