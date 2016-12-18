@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "babel-runtime": "^6.20.0"
+    "babel-runtime": "^6.20.0",
+    "html-to-json": "^0.6.0",
+    "xml-flow": "^1.0.1"
   },
   "devDependencies": {
     "babel-core": "^6.20.0",
