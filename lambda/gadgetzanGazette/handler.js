@@ -1,7 +1,8 @@
 import {determineMethodToInvokeBasedOnRequestType as getSpokenWords} from './determine-method-to-invoke-based-on-request-type';
 
 export const hello = (event, context, callback) => {
-  getSpokenWords(event.request)(event.request).then((spokenWords) => {
+  const body = JSON.parse(event.body);
+  getSpokenWords(body.request)(body.request).then((spokenWords) => {
     const response = {
       statusCode: 200,
       body: JSON.stringify({
