@@ -11,6 +11,11 @@ describe('figure out method to invoke based on request type', () => {
     expect(methodUnderTest(request).name).to.equal('launchRequest');
   });
 
+  it('handles session ended requests', () => {
+    const request = {type: "SessionEndedRequest", reason: "Foo"};
+    expect(methodUnderTest(request).name).to.equal('sessionEndedRequest');
+  });
+
   it('handles errors', () => {
     const request = {type: "BAD"}
     expect(methodUnderTest(request).name).to.equal('badRequest');

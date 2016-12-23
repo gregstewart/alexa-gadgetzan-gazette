@@ -9,3 +9,11 @@ export const badRequest = () => {
     return resolve('<speak>Sorry, I did not understand what you news you were after.</speak>');
   });
 }
+
+export const sessionEndedRequest = (reason) => {
+  return new Promise((resolve, reject) => {
+    // Per the documentation, we do NOT send ANY response... I know, awkward.
+    console.log('Session ended', reason);
+    return reject();
+  });
+}
