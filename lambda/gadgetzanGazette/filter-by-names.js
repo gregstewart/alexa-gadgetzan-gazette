@@ -1,7 +1,8 @@
 export const filterByName = (data, name) => {
   if (name) {
     return data.filter((item) => {
-      return item.game === name;
+      const pattern = new RegExp(name);
+      return pattern.test(item.game);
     });
   }
 

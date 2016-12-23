@@ -62,5 +62,20 @@ describe('filter on', () => {
       expect(filteredResults[3].title).to.equal('Mists of Pandaria Timewalking Preview [Official]');
       expect(filteredResults[16].title).to.equal('Gul\'dan Testing & Blue Posts (Class Feedback)');
     });
+
+    it('only returns Heroes of the Storm news items', () => {
+      const filteredResults = filterByName(newsItems, 'Heroes of the Storm');
+      expect(filteredResults).to.have.lengthOf(7);
+      expect(filteredResults[0].title).to.equal('Ragnaros Build Guide');
+      expect(filteredResults[3].title).to.equal('Free-to-Play Hero Rotation: Dec 13');
+      expect(filteredResults[6].title).to.equal('Brawl with the Blues: Ragnaros (Special Edition)');
+    });
+
+    it('only returns Diablo news items', () => {
+      const filteredResults = filterByName(newsItems, 'Diablo');
+      expect(filteredResults).to.have.lengthOf(2);
+      expect(filteredResults[0].title).to.equal('Facebook Live Q/A: Dec 15');
+      expect(filteredResults[1].title).to.equal('PTR Patch 2.4.3 Hotfixes');
+    });
   });
 });
