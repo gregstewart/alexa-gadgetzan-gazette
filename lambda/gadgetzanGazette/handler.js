@@ -1,7 +1,7 @@
-import {fetchNewsToSpeak} from './fetch-news-to-speak';
+import {determineMethodToInvokeBasedOnRequestType as getSpokenWords} from './determine-method-to-invoke-based-on-request-type';
 
 export const hello = (event, context, callback) => {
-  fetchNewsToSpeak().then((spokenWords) => {
+  getSpokenWords(event.request)(event.request).then((spokenWords) => {
     const response = {
       statusCode: 200,
       body: JSON.stringify({
