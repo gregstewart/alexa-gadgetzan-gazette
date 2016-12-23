@@ -5,4 +5,14 @@ describe('figure out method to invoke based on request type', () => {
     const request = {type: "IntentRequest"};
     expect(methodUnderTest(request).name).to.equal('fetchNewsToSpeak');
   });
+
+  it('is a launch request, so call launch request', () => {
+    const request = {type: "LaunchRequest"};
+    expect(methodUnderTest(request).name).to.equal('launchRequest');
+  });
+
+  it('handles errors', () => {
+    const request = {type: "BAD"}
+    expect(methodUnderTest(request).name).to.equal('badRequest');
+  });
 });
