@@ -3,8 +3,8 @@ import {subDays} from 'date-fns';
 
 import {newsItems} from './fixtures/news';
 
-import {filterByDate} from '../filter-by-dates';
-import {filterByName} from '../filter-by-names';
+import {filterByDate} from '../filters/by-dates';
+import {filterByName} from '../filters/by-names';
 
 describe('filter on', () => {
   describe('dates', () => {
