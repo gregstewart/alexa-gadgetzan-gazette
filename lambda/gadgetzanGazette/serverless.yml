@@ -9,6 +9,7 @@ provider:
   stage: dev
   region: us-east-1
   profile: tcias
+  memorySize: 512 # Overwrite the default memory size. Default is 1024
 
 functions:
   hello:
