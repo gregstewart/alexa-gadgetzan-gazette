@@ -46,6 +46,13 @@ describe('Apply filters by slots', () => {
 
       expect(filteredResults).to.have.length(17);
     });
+
+    it('applies game filter', () => {
+      const testData = {Game: {name: 'Game', value: 'world of Warcraft'}};
+      const filteredResults = applyFilterBySlots(newsItems, testData);
+
+      expect(filteredResults).to.have.length(17);
+    });
   });
 
   describe('multiple slots', () => {
