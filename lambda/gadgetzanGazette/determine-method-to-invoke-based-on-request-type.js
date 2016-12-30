@@ -10,7 +10,6 @@ export const determineMethodToInvokeBasedOnRequestType = (request) => {
     case "LaunchRequest":
       methodName = launchRequest;
       break;
-      break;
     case "SessionEndedRequest":
       methodName = sessionEndedRequest;
       break;

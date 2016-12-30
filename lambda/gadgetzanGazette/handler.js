@@ -2,16 +2,17 @@ import {determineMethodToInvokeBasedOnRequestType as getSpokenWords} from './det
 
 export const hello = (event, context, callback) => {
   const body = JSON.parse(event.body);
-  getSpokenWords(body.request)(body.request).then((spokenWords) => {
+  getSpokenWords(body.request)(body.request).then((outcome) => {
+    console.log(outcome);
     const response = {
       statusCode: 200,
       body: JSON.stringify({
         version: '1.0',
         response: {
-          shouldEndSession: true,
+          shouldEndSession: outcome.shouldEndSession,
           outputSpeech: {
             type: 'SSML',
-            ssml: `${spokenWords}`
+            ssml: `${outcome.utterance}`
           }
         }
       }),

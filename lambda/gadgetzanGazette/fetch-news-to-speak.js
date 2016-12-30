@@ -9,6 +9,6 @@ export const fetchNewsToSpeak = (request) => {
       return parseHTML(contents)
     })
     .then((items) => {
-      return formatToSSML(applyFilterBySlots(items, request.intent.slots));
+      return {utterance: formatToSSML(applyFilterBySlots(items, request.intent.slots)), shouldSessionEnd: true};
     });
 }
