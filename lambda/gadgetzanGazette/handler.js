@@ -9,7 +9,7 @@ export const hello = (event, context, callback) => {
       body: JSON.stringify({
         version: '1.0',
         response: {
-          shouldEndSession: outcome.shouldEndSession,
+          shouldEndSession: outcome.shouldSessionEnd,
           outputSpeech: {
             type: 'SSML',
             ssml: `${outcome.utterance}`
