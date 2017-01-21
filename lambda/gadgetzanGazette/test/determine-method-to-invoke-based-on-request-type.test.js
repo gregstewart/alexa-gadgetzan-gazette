@@ -19,6 +19,18 @@ describe('figure out method to invoke based on request type', () => {
 
       expect(methodUnderTest(request).name).to.equal('stopRequest');
     });
+
+    it('is a cancel request', () => {
+      const request = {
+        type: "IntentRequest",
+        intent: {
+          name: "AMAZON.CancelIntent",
+          slots: {}
+        }
+      };
+
+      expect(methodUnderTest(request).name).to.equal('stopRequest');
+    });
   });
 
   it('is a launch request, so call launch request', () => {

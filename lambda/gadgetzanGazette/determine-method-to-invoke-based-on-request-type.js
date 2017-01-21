@@ -2,7 +2,7 @@ import {fetchNewsToSpeak} from './fetch-news-to-speak';
 import {launchRequest, badRequest, sessionEndedRequest, stopRequest} from './other-requests';
 
 const determineSpecificIntent = (name) => {
-  if (name && name === 'AMAZON.StopIntent') {
+  if (name === 'AMAZON.StopIntent' || name === 'AMAZON.CancelIntent') {
     return stopRequest;
   }
 
