@@ -17,3 +17,9 @@ export const sessionEndedRequest = (reason) => {
     return reject();
   });
 }
+
+export const stopRequest = () => {
+  return new Promise((resolve) => {
+    return resolve({utterance: '<speak>Thank you, stopping your Blizzard news</speak>', shouldSessionEnd: true});
+  });
+}

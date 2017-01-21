@@ -1,11 +1,19 @@
 import {fetchNewsToSpeak} from './fetch-news-to-speak';
-import {launchRequest, badRequest, sessionEndedRequest} from './other-requests';
+import {launchRequest, badRequest, sessionEndedRequest, stopRequest} from './other-requests';
+
+const determineSpecificIntent = (name) => {
+  if (name && name === 'AMAZON.StopIntent') {
+    return stopRequest;
+  }
+
+  return fetchNewsToSpeak;
+}
 
 export const determineMethodToInvokeBasedOnRequestType = (request) => {
   let methodName;
   switch (request.type) {
     case "IntentRequest":
-      methodName = fetchNewsToSpeak;
+      methodName = determineSpecificIntent(request.intent.name);
       break;
     case "LaunchRequest":
       methodName = launchRequest;
