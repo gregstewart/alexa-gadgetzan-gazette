@@ -31,6 +31,18 @@ describe('figure out method to invoke based on request type', () => {
 
       expect(methodUnderTest(request).name).to.equal('stopRequest');
     });
+
+    it('is a help request', () => {
+      const request = {
+        type: "IntentRequest",
+        intent: {
+          name: "AMAZON.HelpIntent",
+          slots: {}
+        }
+      };
+
+      expect(methodUnderTest(request).name).to.equal('launchRequest');
+    });
   });
 
   it('is a launch request, so call launch request', () => {

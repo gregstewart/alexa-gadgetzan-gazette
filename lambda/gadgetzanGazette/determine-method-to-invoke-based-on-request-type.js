@@ -6,6 +6,10 @@ const determineSpecificIntent = (name) => {
     return stopRequest;
   }
 
+  if (name === 'AMAZON.HelpIntent') {
+    return launchRequest;
+  }
+
   return fetchNewsToSpeak;
 }
 
