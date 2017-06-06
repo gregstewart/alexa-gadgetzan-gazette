@@ -1,0 +1,49 @@
+{
+  "name": "blizzard-news-flash",
+  "version": "1.0.0",
+  "description": "Alexa skill to reads Blizzard news",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=test mocha",
+    "deploy": "./node_modules/.bin/serverless deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gregstewart/alexa-gadgetzan-gazette.git"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "blizzard",
+    "news",
+    "serverless"
+  ],
+  "author": "Greg Stewart",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gregstewart/alexa-gadgetzan-gazette/issues"
+  },
+  "homepage": "https://github.com/gregstewart/alexa-gadgetzan-gazette#readme",
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-polyfill": "^6.23.0",
+    "babel-preset-env": "^1.5.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "chai": "^4.0.2",
+    "chai-as-promised": "^6.0.0",
+    "mocha": "^3.4.2",
+    "nock": "^9.0.13",
+    "serverless": "^1.14.0",
+    "serverless-plugin-webpack": "^1.1.0",
+    "sinon": "^2.3.2",
+    "sinon-chai": "^2.10.0",
+    "webpack": "^2.6.1"
+  },
+  "dependencies": {
+    "date-fns": "^1.28.5",
+    "html-to-json": "^0.6.0",
+    "node-fetch": "^1.7.1",
+    "xml-flow": "^1.0.1"
+  }
+}

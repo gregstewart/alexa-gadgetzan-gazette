@@ -4,7 +4,7 @@ describe('figure out method to invoke based on request type', () => {
 
   describe('intent types', () => {
     it('is a custom request so call fetch news', () => {
-      const request = {type: "IntentRequest", intent: {name: "GadgetzanGazette"}};
+      const request = {type: "IntentRequest", intent: {name: "BlizzardNewsFlash"}};
       expect(methodUnderTest(request).name).to.equal('fetchNewsToSpeak');
     });
 

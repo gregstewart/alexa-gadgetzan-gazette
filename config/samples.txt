@@ -1,8 +1,8 @@
 
-GadgetzanGazette {Date} Blizzard news
-GadgetzanGazette give me the latest Blizzard news
-GadgetzanGazette give me {Date} Blizzard news
-GadgetzanGazette what is the latest Blizzard news
-GadgetzanGazette what is {Date} Blizzard news
-GadgetzanGazette what is the latest news for {Game}
-GadgetzanGazette what is {Date} news for {Game}
+BlizzardNewsFlash {Date} Blizzard news
+BlizzardNewsFlash give me the latest Blizzard news
+BlizzardNewsFlash give me {Date} Blizzard news
+BlizzardNewsFlash what is the latest Blizzard news
+BlizzardNewsFlash what is {Date} Blizzard news
+BlizzardNewsFlash what is the latest news for {Game}
+BlizzardNewsFlash what is {Date} news for {Game}
