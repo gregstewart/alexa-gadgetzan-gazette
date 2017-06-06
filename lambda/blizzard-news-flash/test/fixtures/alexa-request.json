@@ -1,0 +1,32 @@
+{
+  "session": {
+    "sessionId": "SessionId.254e4001-377e-4d6e-9f54-9978c130abc3",
+    "application": {
+      "applicationId": "amzn1.ask.skill.d2632191-9798-43da-9534-9b933436a319"
+    },
+    "attributes": {},
+    "user": {
+      "userId": "amzn1.ask.account.AETFTTCPEMJVY7PIZZXBMXQRY5NPNXH7NPH7VLNVVCQ62WTNKTUOHNDBLHRFPVHZQ6ZQCRVCXJJDNE6K6NZ53JPDRJPBWO662X5DBNYJ7XNK3524536HQK3636J3XDZU7KIPZE7XM5JAIH244ZY7CKGQMBBSU7FR2C6J5C2D4DUBDCXR4VCEOH5CMZMXJFJP7MRNZ23ZNHPJH4Q"
+    },
+    "new": true
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.1c4fbbb0-05d1-41f8-bd2e-ffe5eac75cf7",
+    "locale": "en-GB",
+    "timestamp": "2016-12-15T15:27:11Z",
+    "intent": {
+      "name": "GadgetzanGazette",
+      "slots": {
+        "Game": {
+          "name": "Game"
+        },
+        "Date": {
+          "name": "Date",
+          "value": "2016-12-15"
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}
