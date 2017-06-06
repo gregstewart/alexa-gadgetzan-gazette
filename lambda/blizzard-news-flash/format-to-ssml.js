@@ -1,9 +1,9 @@
 export const formatToSSML = (items) => {
   if (!items.length) {
-    return `<speak><p>Sorry the Gadgetzan Gazette has no news!</p></speak>`;
+    return `<speak><p>Sorry the Blizzard News Flash has no news!</p></speak>`;
   }
 
-  const intro = `<p>Welcome to the Gadgetzan Gazette!</p>`;
+  const intro = `<p>Welcome to the Blizzard News Flash!</p>`;
   const source = `<p>Here is the news from Icy Veins.</p>`;
   const conclusion = `<p>This concludes our news roundup.</p>`;
 

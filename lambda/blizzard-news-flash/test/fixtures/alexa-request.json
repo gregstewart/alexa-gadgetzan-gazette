@@ -16,7 +16,7 @@
     "locale": "en-GB",
     "timestamp": "2016-12-15T15:27:11Z",
     "intent": {
-      "name": "GadgetzanGazette",
+      "name": "BlizzardNewsFlash",
       "slots": {
         "Game": {
           "name": "Game"
