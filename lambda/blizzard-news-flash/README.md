@@ -1,4 +1,4 @@
-# Alexa Gadgetzan Gazette skill lambda
+# Alexa Blizzard News Flash skill
 The lambda function to handle Alexa requests for catching up on Blizzard games news
 
 #Sources
