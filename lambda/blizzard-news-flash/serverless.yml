@@ -1,5 +1,10 @@
 service: blizzard-news-flash
+
+plugins:
+  - serverless-plugin-webpack
+
 frameworkVersion: "=1.14.0"
+
 provider:
   name: aws
   runtime: nodejs6.10

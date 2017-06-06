@@ -1,6 +1,4 @@
-'use strict';
-
-module.exports.hello = (event, context, callback) => {
+export const hello = (event, context, callback) => {
   const response = {
     "version": "1.0",
     "response": {

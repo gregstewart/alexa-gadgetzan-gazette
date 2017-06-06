@@ -25,6 +25,12 @@
   },
   "homepage": "https://github.com/gregstewart/alexa-gadgetzan-gazette#readme",
   "devDependencies": {
-    "serverless": "^1.14.0"
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-preset-env": "^1.5.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "serverless": "^1.14.0",
+    "serverless-plugin-webpack": "^1.1.0",
+    "webpack": "^2.6.1"
   }
 }
