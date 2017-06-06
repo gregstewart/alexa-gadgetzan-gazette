@@ -1,19 +1,21 @@
+import {determineMethodToInvokeBasedOnRequestType as getSpokenWords} from './determine-method-to-invoke-based-on-request-type';
+
 export const hello = (event, context, callback) => {
-  const response = {
-    "version": "1.0",
-    "response": {
-      "outputSpeech": {
-        "type": "PlainText",
-        "text": "Alexa responds with this text"
-      },
-      "card": {
-        "content": "Message for the Alexa companion app.",
-        "title": "Title for the Message",
-        "type": "Simple"
-      },
-      "shouldEndSession": true
-    },
-    "sessionAttributes": {}
-  }
-  callback(null, response)
+  getSpokenWords(event.request)(event.request).then((outcome) => {
+    const response = {
+      version: '1.0',
+      response: {
+        shouldEndSession: outcome.shouldSessionEnd,
+        outputSpeech: {
+          type: 'SSML',
+          ssml: `${outcome.utterance}`
+        }
+      }
+    };
+
+    callback(null, response);
+  });
+
+  // Use this code if you don't use the http event with the LAMBDA-PROXY integration
+  // callback(null, { message: 'Go Serverless v1.0! Your function executed successfully!', event });
 };
