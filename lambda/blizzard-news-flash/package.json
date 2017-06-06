@@ -1,0 +1,29 @@
+{
+  "name": "blizzard-news-flash",
+  "version": "1.0.0",
+  "description": "Alexa skill to reads Blizzard news",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=test mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gregstewart/alexa-gadgetzan-gazette.git"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "blizzard",
+    "news",
+    "serverless"
+  ],
+  "author": "Greg Stewart",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gregstewart/alexa-gadgetzan-gazette/issues"
+  },
+  "homepage": "https://github.com/gregstewart/alexa-gadgetzan-gazette#readme",
+  "devDependencies": {
+    "serverless": "^1.14.0"
+  }
+}
