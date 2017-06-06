@@ -10,7 +10,7 @@
       "intent": "AMAZON.HelpIntent"
     },
     {
-      "intent": "GadgetzanGazette",
+      "intent": "BlizzardNewsFlash",
       "slots": [
         {
           "name": "Game",
