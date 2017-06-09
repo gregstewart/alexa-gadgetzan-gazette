@@ -10,9 +10,9 @@ describe('format news to speak', () => {
   });
 
   it('returns an apology if there\'s no news!', () => {
-    const expected = "<speak><p>Sorry the Blizzard News Flash has no news!</p></speak>";
+    const expected = "<speak><p>Sorry the Blizzard News Flash has no news. Please try again tomorrow.</p></speak>";
 
-    expect(formatToSSML([])).to.equal(expected);
+    expect(formatToSSML([], {})).to.equal(expected);
   });
 
   it('should limit the output to under 8000 characters', () => {

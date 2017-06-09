@@ -1,6 +1,8 @@
-export const formatToSSML = (items) => {
+import {handleNoNews} from './handle-no-news';
+
+export const formatToSSML = (items, slots) => {
   if (!items.length) {
-    return `<speak><p>Sorry the Blizzard News Flash has no news!</p></speak>`;
+    return handleNoNews(slots);
   }
 
   const intro = `<p>Welcome to the Blizzard News Flash!</p>`;
